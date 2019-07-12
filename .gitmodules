@@ -1,0 +1,6 @@
+[submodule "jupyerlab-desktop"]
+	path = jupyerlab-desktop
+	url = https://github.com/tribbloid/jupyerlab-desktop
+[submodule "libinput-gestures"]
+	path = libinput-gestures
+	url = https://github.com/tribbloid/libinput-gestures
