@@ -1,4 +1,0 @@
-not installable: wps-office, linux-modules-4.19.60-041960-generic, linux-image-unsigned-4.19.58-041958-generic, atom, lightworks, wolframscript, softmaker-freeoffice-2018, dropbox, franz, linux-headers-4.19.58-041958, linux-image-unsigned-4.19.60-041960-generic, linux-headers-4.19.58-041958-generic, linux-modules-4.19.58-041958-generic, linux-headers-4.19.60-041960, linux-headers-4.19.60-041960-generic
-version mismatch: 
-
-Note that you can use --with-dpkg-repack to include those packges in the clone file.
