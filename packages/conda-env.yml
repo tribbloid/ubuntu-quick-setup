@@ -11,15 +11,15 @@ dependencies:
   - blas=2.12=openblas
   - bleach=3.1.0=py_0
   - bzip2=1.0.8=h516909a_1
-  - ca-certificates=2019.6.16=hecc5488_0
+  - ca-certificates=2019.9.11=hecc5488_0
   - cachecontrol=0.12.5=py_0
   - cachy=0.2.0=py_0
   - cairo=1.16.0=hfb77d84_1002
-  - certifi=2019.6.16=py37_1
+  - certifi=2019.9.11=py37_0
   - cffi=1.12.3=py37h8022711_0
   - chardet=3.0.4=py37_1003
   - cleo=0.6.8=py_0
-  - conda=4.7.11=py37_0
+  - conda=4.7.12=py37_0
   - conda-package-handling=1.4.1=py37_0
   - cryptography=2.7=py37h72c5cf5_0
   - cycler=0.10.0=py_1
@@ -102,7 +102,7 @@ dependencies:
   - numpy=1.17.2=py37h95a1406_0
   - opencv=4.1.1=py37ha799480_1
   - openh264=1.8.0=hdbcaa40_1000
-  - openssl=1.1.1c=h516909a_0
+  - openssl=1.1.1d=h7b6447c_1
   - pandoc=2.7.3=0
   - pandocfilters=1.4.2=py_1
   - parso=0.5.1=py_0
@@ -133,7 +133,7 @@ dependencies:
   - python-libarchive-c=2.8=py37_1004
   - pytz=2019.2=py_0
   - pyyaml=5.1.2=py37h516909a_0
-  - pyzmq=18.1.0=py37he6710b0_0
+  - pyzmq=18.1.0=py37h1768529_0
   - qt=5.9.7=h0c104cb_3
   - readline=8.0=hf8c457e_0
   - requests=2.22.0=py37_1
@@ -149,7 +149,7 @@ dependencies:
   - sqlite=3.29.0=hcee41ef_1
   - terminado=0.8.2=py37_0
   - testpath=0.4.2=py_1001
-  - tk=8.6.9=hed695b0_1002
+  - tk=8.6.9=hed695b0_1003
   - tomlkit=0.5.5=py37_0
   - tornado=6.0.3=py37h516909a_0
   - tqdm=4.35.0=py_0
@@ -180,7 +180,11 @@ dependencies:
     - absl-py==0.8.0
     - brine==1.0.0
     - grpcio==1.23.0
+    - joblib==0.13.2
+    - pandas==0.25.1
     - protobuf==3.9.1
+    - scikit-learn==0.21.3
+    - sklearn==0.0
     - tb-nightly==1.15.0a20190908
     - werkzeug==0.15.6
 prefix: /home/shared/conda3
