@@ -4,3 +4,9 @@
 [submodule "libinput-gestures"]
 	path = libinput-gestures
 	url = https://github.com/tribbloid/libinput-gestures
+[submodule "android/anbox-playstore-installer"]
+	path = android/anbox-playstore-installer
+	url = https://github.com/geeks-r-us/anbox-playstore-installer
+[submodule "android/anbox-bridge"]
+	path = android/anbox-bridge
+	url = https://github.com/Debyzulkarnain/anbox-bridge/
