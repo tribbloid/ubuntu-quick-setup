@@ -4,11 +4,9 @@
 #
 #    pip-compile --index-url=https://pypi.tuna.tsinghua.edu.cn/simple
 #
---index-url https://pypi.tuna.tsinghua.edu.cn/simple
-
 attrs==19.1.0             # via jsonschema
 backcall==0.1.0           # via ipython
-bleach==3.1.0             # via nbconvert
+bleach==3.1.2             # via nbconvert
 decorator==4.4.0          # via ipython, traitlets
 defusedxml==0.6.0         # via nbconvert
 entrypoints==0.3          # via nbconvert
@@ -21,9 +19,9 @@ json5==0.8.5              # via jupyterlab-server
 jsonschema==3.0.1         # via jupyterlab-server, nbformat
 jupyter-client==5.3.1     # via ipykernel, notebook
 jupyter-core==4.5.0       # via jupyter-client, nbconvert, nbformat, notebook
-git+https://github.com/tribbloid/jupyerlab-desktop.git#subdirectory=python
+git+https://github.com/tribbloid/jupyerlab-desktop.git#subdirectory=python  # via -r requirements.in
 jupyterlab-server==1.0.0  # via jupyterlab
-jupyterlab==1.0.4
+jupyterlab==1.0.4         # via jupyterlab-desktop
 markupsafe==1.1.1         # via jinja2
 mistune==0.8.4            # via nbconvert
 nbconvert==5.5.0          # via notebook
@@ -50,4 +48,4 @@ wcwidth==0.1.7            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
 
 # The following packages are considered to be unsafe in a requirements file:
-# setuptools==41.0.1        # via ipython, jsonschema
+# setuptools
