@@ -1,6 +1,8 @@
-sudo apt update
-sudo apt dist-upgrade
-
-sudo apt --purge autoremove
+sudo sh -c \
+' \
+apt update && \
+apt dist-upgrade && \
+apt --purge autoremove \
+'
 
 conda update --all -y
