@@ -2,7 +2,9 @@ sudo sh -c \
 ' \
 apt update && \
 apt dist-upgrade && \
-apt --purge autoremove \
+apt --purge autoremove
 '
 
 conda update --all -y
+
+flatpak update -y
