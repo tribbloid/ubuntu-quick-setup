@@ -2,5 +2,5 @@
 
 sudo apt-clone restore latest.apt-clone.tar.gz
 
-conda env update --file conda-env.yml
+conda env update -n root --file conda-env.yml
 

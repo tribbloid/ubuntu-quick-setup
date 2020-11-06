@@ -1,6 +1,14 @@
 #!/usr/bin/env bash
 
+echo "###############"
+echo "#     apt     #"
+echo "###############"
+
 apt-clone show-diff latest.apt-clone.tar.gz
 
-#conda env update --file conda-env.yml
+echo "###############"
+echo "#    conda    #"
+echo "###############"
+
+conda compare -n root conda-env.yml
 
