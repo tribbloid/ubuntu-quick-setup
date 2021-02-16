@@ -1,7 +1,7 @@
 name: root
 channels:
-  - conda-forge
   - defaults
+  - conda-forge
 dependencies:
   - conda
   - python=3.8
