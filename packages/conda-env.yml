@@ -11,4 +11,4 @@ dependencies:
   - anaconda
   - anaconda-navigator
   - navigator-updater
-prefix: /home/pengcheng/anaconda3
+prefix: /home/peng/conda3
