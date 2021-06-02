@@ -5,6 +5,6 @@ apt dist-upgrade && \
 apt --purge autoremove
 '
 
-conda update --all -y
-
 flatpak update -y
+
+conda update --all -y
