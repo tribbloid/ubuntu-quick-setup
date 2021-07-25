@@ -10,5 +10,4 @@ dependencies:
   - navigator-updater
   - _ipyw_jlab_nb_ext_conf
   - conda-build
-  - ansible
 prefix: /home/peng/conda3
