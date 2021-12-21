@@ -2,7 +2,15 @@
 
 echo ""
 echo "###############"
-echo "#     apt     #"
+echo "#   apt-key   #"
+echo "###############"
+echo ""
+
+diff <(apt-key list | grep uid) <(cat latest.keys.list)
+
+echo ""
+echo "###############"
+echo "#  apt-clone  #"
 echo "###############"
 echo ""
 
