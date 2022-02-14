@@ -22,7 +22,7 @@ uid           [ unknown] Launchpad PPA for Gnome-Shell-Extensions developers
 uid           [ unknown] Launchpad PPA for atareao
 uid           [ unknown] Ascensio System Limited (ONLYOFFICE) <support@onlyoffice.com>
 uid           [ unknown] Launchpad PPA for Rico
-uid           [ unknown] Vivaldi Package Composer KEY06 <packager@vivaldi.com>
+uid           [ expired] Vivaldi Package Composer KEY06 <packager@vivaldi.com>
 uid           [ unknown] Vivaldi Package Composer KEY07 <packager@vivaldi.com>
 uid           [ unknown] BlueMail <linux@bluemail.me>
 uid           [ unknown] Launchpad PPA for AppImageLauncher Maintainers
@@ -37,5 +37,6 @@ uid           [ unknown] Ubuntu Archive Automatic Signing Key (2012) <ftpmaster@
 uid           [ unknown] Ubuntu CD Image Automatic Signing Key (2012) <cdimage@ubuntu.com>
 uid           [ unknown] Ubuntu Archive Automatic Signing Key (2018) <ftpmaster@ubuntu.com>
 uid           [ unknown] Canonical OEM Archive Automatic Signing Key (2020) <commercial-engineering@canonical.com>
-uid           [ unknown] Vivaldi Package Composer KEY06 <packager@vivaldi.com>
+uid           [ unknown] Vivaldi Package Composer KEY08 <packager@vivaldi.com>
+uid           [ expired] Vivaldi Package Composer KEY06 <packager@vivaldi.com>
 uid           [ unknown] Vivaldi Package Composer KEY07 <packager@vivaldi.com>
