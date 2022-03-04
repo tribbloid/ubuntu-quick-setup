@@ -33,7 +33,6 @@ uid           [ unknown] Microsoft (Release signing) <gpgsecurity@microsoft.com>
 uid           [ unknown] Launchpad PPA for Rico
 uid           [ unknown] Launchpad PPA for System76
 uid           [ unknown] Canonical Archive Automatic Signing Key <ftpmaster@canonical.com>
-uid           [ unknown] Ubuntu Archive Automatic Signing Key (2012) <ftpmaster@ubuntu.com>
 uid           [ unknown] Ubuntu CD Image Automatic Signing Key (2012) <cdimage@ubuntu.com>
 uid           [ unknown] Ubuntu Archive Automatic Signing Key (2018) <ftpmaster@ubuntu.com>
 uid           [ unknown] Canonical OEM Archive Automatic Signing Key (2020) <commercial-engineering@canonical.com>
