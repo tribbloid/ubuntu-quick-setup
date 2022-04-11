@@ -24,3 +24,10 @@ echo ""
 
 conda compare -n root conda-env.yml
 
+echo ""
+echo "###############"
+echo "#     dconf   #"
+echo "###############"
+echo ""
+
+diff <(dconf dump /) <(cat latest.dconf.conf)
