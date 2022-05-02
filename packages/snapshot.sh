@@ -11,5 +11,3 @@ apt-key list | grep "uid" > latest.keys.list
 apt-clone clone latest > log/apt-report_$DATE.log
 
 conda env export -n root --from-history --no-builds > conda-env.yml
-
-dconf dump / > latest.dconf.conf

@@ -6,5 +6,3 @@ sudo apt-clone restore latest.apt-clone.tar.gz
 
 conda config --append channels conda-forge
 conda env update -n root --file conda-env.yml
-
-dconf load / < latest.dconf.conf
