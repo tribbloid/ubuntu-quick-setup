@@ -32,6 +32,9 @@ uid           [ unknown] Launchpad PPA for atareao
 uid           [ unknown] Launchpad PPA for Gnome-Shell-Extensions developers
 uid           [ unknown] Google Inc. (Linux Packages Signing Authority) <linux-packages-keymaster@google.com>
 uid           [ unknown] Microsoft (Release signing) <gpgsecurity@microsoft.com>
+uid           [ expired] Opera Software Archive Automatic Signing Key 2019 <packager@opera.com>
+uid           [ unknown] Opera Software Archive Automatic Signing Key 2021 <packager@opera.com>
+uid           [ unknown] Pop OS (ISO Signing Key) <info@system76.com>
 uid           [ unknown] Launchpad PPA for Rico
 uid           [ unknown] Launchpad PPA for System76
 uid           [ unknown] Canonical Archive Automatic Signing Key <ftpmaster@canonical.com>
