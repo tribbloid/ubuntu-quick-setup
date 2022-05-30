@@ -14,6 +14,7 @@ echo "#  apt-clone  #"
 echo "###############"
 echo ""
 
+apt-clone info latest.apt-clone.tar.gz
 apt-clone show-diff latest.apt-clone.tar.gz
 
 echo ""
