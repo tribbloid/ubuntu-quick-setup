@@ -7,8 +7,8 @@ dependencies:
   - python=3.9
   - conda-verify
   - conda-env
-  - navigator-updater
   - _ipyw_jlab_nb_ext_conf
   - conda-build
-  - anaconda-client
+  - navigator-updater
+  - anaconda-navigator==2.2.0
 prefix: /home/peng/conda3
