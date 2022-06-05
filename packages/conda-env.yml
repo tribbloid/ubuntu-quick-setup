@@ -10,5 +10,5 @@ dependencies:
   - _ipyw_jlab_nb_ext_conf
   - conda-build
   - navigator-updater
-  - anaconda-navigator==2.2.0
+  - anaconda-navigator
 prefix: /home/peng/conda3
