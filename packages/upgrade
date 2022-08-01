@@ -1,7 +1,9 @@
 sudo sh -c \
 ' \
-apt update && \
-apt dist-upgrade && \
+aptitude update
+
+aptitude dist-upgrade
+
 apt --purge autoremove
 '
 
