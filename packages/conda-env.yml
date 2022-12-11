@@ -5,10 +5,10 @@ channels:
 dependencies:
   - conda
   - python=3.9
-  - anaconda-navigator
-  - conda-verify
   - conda-build
-  - awscliv2
   - conda-env
+  - conda-verify
+  - anaconda-navigator
+  - awscliv2
   - _ipyw_jlab_nb_ext_conf
-prefix: /home/shared/miniconda3
+prefix: /home/shared/conda
