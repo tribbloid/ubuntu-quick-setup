@@ -23,4 +23,4 @@ Geary	org.gnome.Geary	43.0	stable	flathub	user
 Inkscape	org.inkscape.Inkscape	1.2.2	stable	flathub	user
 Phoenicis PlayOnLinux	org.phoenicis.playonlinux	5.0-alpha-3	stable	flathub	user
 Signal Desktop	org.signal.Signal	6.1.0	stable	flathub	user
-Telegram Desktop	org.telegram.desktop	4.4.1	stable	flathub	user
+Telegram Desktop	org.telegram.desktop	4.5	stable	flathub	user
