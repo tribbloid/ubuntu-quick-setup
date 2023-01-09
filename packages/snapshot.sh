@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 mkdir -p log
+mkdir -p snapshot
 
 DATE=$(date --iso-8601=second)
 
@@ -10,8 +11,10 @@ apt-key list | grep "uid" > latest.keys.list
 #apt clone
 apt-clone clone latest > log/apt-report_$DATE.log
 
-conda env export -n root --from-history --no-builds > conda-env.yml
+apt-mark showmanual > snapshot/apt.csv
 
-flatpak list --app > flatpak.csv
+conda env export -n root --from-history --no-builds > snapshot/conda-env.yml
 
-snap list > snap.csv
+flatpak list --app > snapshot/flatpak.csv
+
+snap list > snapshot/snap.csv

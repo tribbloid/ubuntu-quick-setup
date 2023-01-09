@@ -6,4 +6,4 @@ sudo apt-clone restore "latest.apt-clone.tar.gz"
 #sudo apt-clone restore-new-distro "latest.apt-clone.tar.gz" "22.04 LTS"
 
 conda config --append channels conda-forge
-conda env update -n root --file conda-env.yml
+conda env update -n root --file snapshot/conda-env.yml
