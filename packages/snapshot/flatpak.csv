@@ -1,5 +1,5 @@
-Bitwarden	com.bitwarden.desktop	2022.12.0	stable	flathub	user
-Discord	com.discordapp.Discord	0.0.22	stable	flathub	user
+Bitwarden	com.bitwarden.desktop	2023.1.1	stable	flathub	user
+Discord	com.discordapp.Discord	0.0.24	stable	flathub	user
 Mendeley	com.elsevier.MendeleyDesktop	1.19.8	stable	flathub	user
 Forklift	com.github.Johnn3y.Forklift	1.0.0	stable	flathub	user
 TLPUI	com.github.d4nj1.tlpui	1.5.0-5	stable	flathub	user
@@ -7,8 +7,8 @@ Touché	com.github.joseexposito.touche	2.0.8	stable	flathub	user
 MarkText	com.github.marktext.marktext	0.17.1	stable	flathub	user
 Flatseal	com.github.tchx84.Flatseal	1.8.1	stable	flathub	user
 Franz	com.meetfranz.Franz	5.9.1	stable	flathub	user
-Microsoft Edge	com.microsoft.Edge	108.0.1462.76-1	stable	flathub	user
-Bottles	com.usebottles.bottles	2022.12.14.1	stable	flathub	user
+Microsoft Edge	com.microsoft.Edge	109.0.1518.52-1	stable	flathub	user
+Bottles	com.usebottles.bottles	50.1	stable	flathub	user
 VMware Horizon Client	com.vmware.HorizonClient	2111	master	horizonclient-origin	user
 DBeaver Community	io.dbeaver.DBeaverCommunity	22.3.2	stable	flathub	user
 Typora	io.typora.Typora	1.4.8	stable	flathub	user
@@ -22,5 +22,5 @@ Web	org.gnome.Epiphany	43.0	stable	flathub	user
 Geary	org.gnome.Geary	43.0	stable	flathub	user
 Inkscape	org.inkscape.Inkscape	1.2.2	stable	flathub	user
 Phoenicis PlayOnLinux	org.phoenicis.playonlinux	5.0-alpha-3	stable	flathub	user
-Signal Desktop	org.signal.Signal	6.1.0	stable	flathub	user
+Signal Desktop	org.signal.Signal	6.2.0	stable	flathub	user
 Telegram Desktop	org.telegram.desktop	4.5	stable	flathub	user

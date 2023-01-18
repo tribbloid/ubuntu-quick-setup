@@ -1,6 +1,5 @@
 acpi
 acpitool
-agda
 agda-stdlib
 agda-stdlib-doc
 alsa-oss
@@ -191,6 +190,7 @@ libicu67
 libinput-tools
 libmkl-full-dev
 libmkl-meta-cluster
+libncurses5-dev
 libopenmpi-dev
 libosmesa6
 libpcre3:i386
@@ -316,6 +316,7 @@ ubuntu-minimal
 ubuntu-standard
 ubuntu-touch-settings
 unrar
+virtualbox-qt
 visualvm
 vivaldi-stable
 winbind
@@ -323,3 +324,4 @@ wireshark-qt
 wmdocker
 xdotool
 xfce4-taskmanager
+zlib1g-dev
