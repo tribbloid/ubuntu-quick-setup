@@ -39,7 +39,6 @@ dash
 dconf-editor
 diffutils
 dmz-cursor-theme
-elan
 elementary-icon-theme
 fancontrol
 fcitx
@@ -231,6 +230,8 @@ lyx
 maven
 meld
 menulibre
+meson
+microsoft-edge-dev
 mousetweaks
 mozc-utils-gui
 mpich
@@ -273,6 +274,7 @@ peek
 pipewire-alsa
 pipewire-jack
 plank
+plymouth-theme-pop-text
 pm-utils
 pop-desktop
 pop-upgrade
