@@ -39,6 +39,7 @@ dash
 dconf-editor
 diffutils
 dmz-cursor-theme
+dotnet-sdk-6.0
 elementary-icon-theme
 fancontrol
 fcitx
@@ -55,6 +56,7 @@ firefox-locale-pt
 firefox-locale-ru
 firefox-locale-zh-hans
 firefox-locale-zh-hant
+firewall-config
 flatpak-builder
 font-manager
 fonts-arphic-ukai
@@ -98,6 +100,8 @@ gnome-maps
 gnome-mines
 gnome-packagekit
 gnome-photos
+gnome-screensaver
+gnome-screensaver-flags
 gnome-screenshot
 gnome-shell-extension-cosmic-workspaces
 gnome-shell-extension-gpaste
@@ -124,8 +128,13 @@ grep
 gstreamer1.0-gl
 gstreamer1.0-libav
 gstreamer1.0-plugins-bad
+gstreamer1.0-plugins-base
+gstreamer1.0-plugins-good
+gstreamer1.0-plugins-ugly
 gstreamer1.0-vaapi
+gstreamer1.0-x
 guake
+gufw
 gzip
 haskell-stack
 hostname
@@ -231,7 +240,7 @@ maven
 meld
 menulibre
 meson
-microsoft-edge-dev
+microsoft-edge-beta
 mousetweaks
 mozc-utils-gui
 mpich
@@ -271,6 +280,7 @@ packagekit-tools
 pandoc
 papirus-icon-theme
 peek
+pinhole
 pipewire-alsa
 pipewire-jack
 plank
@@ -319,12 +329,18 @@ ubuntu-minimal
 ubuntu-standard
 ubuntu-touch-settings
 unrar
+v4l-utils
 virtualbox-qt
 visualvm
 vivaldi-stable
+vlc
+vlc-plugin-fluidsynth
+vlc-plugin-jack
+vlc-plugin-svg
 winbind
 wireshark-qt
 wmdocker
 xdotool
 xfce4-taskmanager
+xscreensaver-screensaver-dizzy
 zlib1g-dev
