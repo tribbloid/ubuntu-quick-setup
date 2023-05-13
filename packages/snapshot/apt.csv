@@ -1,4 +1,6 @@
 acpi
+acpi-support
+acpid
 acpitool
 agda-stdlib
 agda-stdlib-doc
@@ -9,6 +11,7 @@ android-sdk
 apache2
 appimagelauncher
 apt-clone
+apt-transport-https
 aptitude
 atom
 base-passwd
@@ -40,6 +43,7 @@ dconf-editor
 diffutils
 dmz-cursor-theme
 dotnet-sdk-6.0
+dotnet6
 elementary-icon-theme
 fancontrol
 fcitx
@@ -161,6 +165,9 @@ ibus-table-quick-classic
 ibus-table-wubi
 imagemagick
 init
+junit4
+junit4-doc
+junitparser
 kde-config-fcitx
 kde-config-fcitx5
 kodi
@@ -232,6 +239,10 @@ libreoffice-l10n-zh-tw
 libsasl2-2
 libsasl2-modules
 libudev0
+libvpx-dev
+libvpx-doc
+linux-cloud-tools-generic
+linux-tools-common
 lm-sensors
 lsb-release
 lutris
@@ -244,6 +255,8 @@ microsoft-edge-beta
 mousetweaks
 mozc-utils-gui
 mpich
+mplayer
+mplayer-doc
 mythes-ar
 mythes-de
 mythes-de-ch
@@ -260,7 +273,9 @@ nemo
 neofetch
 network-manager-openconnect-gnome
 network-manager-ssh-gnome
+npm
 ntfs-3g
+nuget
 obs-studio
 openjdk-11-doc
 openjdk-11-jdk

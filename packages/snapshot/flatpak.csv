@@ -1,35 +1,35 @@
-GitKraken	com.axosoft.GitKraken	9.3.0	stable	flathub	user
-Bitwarden	com.bitwarden.desktop	2023.3.2	stable	flathub	user
-Discord	com.discordapp.Discord	0.0.26	stable	flathub	user
+GitKraken	com.axosoft.GitKraken	9.4.0	stable	flathub	user
+Bitwarden	com.bitwarden.desktop	2023.4.0	stable	flathub	user
+Discord	com.discordapp.Discord	0.0.27	stable	flathub	user
 Mendeley	com.elsevier.MendeleyDesktop	1.19.8	stable	flathub	user
-teams-for-linux	com.github.IsmaelMartinez.teams_for_linux	1.0.58	stable	flathub	user
+teams-for-linux	com.github.IsmaelMartinez.teams_for_linux	1.0.86	stable	flathub	user
 Forklift	com.github.Johnn3y.Forklift	1.0.0	stable	flathub	user
 TLPUI	com.github.d4nj1.tlpui	1.5.0-7	stable	flathub	user
-Touché	com.github.joseexposito.touche	2.0.8	stable	flathub	user
+Touché	com.github.joseexposito.touche	2.0.9	stable	flathub	user
 MarkText	com.github.marktext.marktext	0.17.1	stable	flathub	user
-Flatseal	com.github.tchx84.Flatseal	1.8.1	stable	flathub	user
+Flatseal	com.github.tchx84.Flatseal	2.0.1	stable	flathub	user
 Franz	com.meetfranz.Franz	5.9.2	stable	flathub	user
 Linux QQ	com.qq.QQ	3.1.1-11223	stable	flathub	user
 Unity Hub	com.unity.UnityHub	3.4.1	stable	flathub	user
-Bottles	com.usebottles.bottles	51.5	stable	flathub	user
+Bottles	com.usebottles.bottles	51.6	stable	flathub	user
 VMware Horizon Client	com.vmware.HorizonClient	2111	master	horizonclient-origin	user
-DBeaver Community	io.dbeaver.DBeaverCommunity	23.0.1	stable	flathub	user
-Youtube Downloader Plus	io.github.aandrew_me.ytdn	3.12.2	stable	flathub	user
+DBeaver Community	io.dbeaver.DBeaverCommunity	23.0.4	stable	flathub	user
+Youtube Downloader Plus	io.github.aandrew_me.ytdn	3.13.0	stable	flathub	user
 Typora	io.typora.Typora	1.5.10	stable	flathub	user
-Obsidian	md.obsidian.Obsidian	1.1.16	stable	flathub	user
-Joplin	net.cozic.joplin_desktop	2.9.17	stable	flathub	user
-Blender	org.blender.Blender	3.5.0	stable	flathub	user
-Chromium Web Browser	org.chromium.Chromium	112.0.5615.49	stable	flathub	user
+Obsidian	md.obsidian.Obsidian	1.2.8	stable	flathub	user
+Joplin	net.cozic.joplin_desktop	2.10.18	stable	flathub	user
+Blender	org.blender.Blender	3.5.1	stable	flathub	user
+Chromium Web Browser	org.chromium.Chromium	113.0.5672.63	stable	flathub	user
 Clementine Music Player	org.clementine_player.Clementine	1.4.0rc2	stable	flathub	user
 GNU Image Manipulation Program	org.gimp.GIMP	2.10.34	stable	flathub	user
-Builder	org.gnome.Builder	44.1	stable	flathub	user
-Web	org.gnome.Epiphany	44.1	stable	flathub	user
+Builder	org.gnome.Builder	44.2	stable	flathub	user
+Web	org.gnome.Epiphany	44.2	stable	flathub	user
 Geary	org.gnome.Geary	43.0	stable	flathub	user
 Music	org.gnome.Music	44.0	stable	flathub	user
 Videos	org.gnome.Totem	43.0	stable	flathub	user
 Inkscape	org.inkscape.Inkscape	1.2.2	stable	flathub	user
-AudioTube	org.kde.audiotube	23.01	stable	flathub	user
+AudioTube	org.kde.audiotube	23.04.1	stable	flathub	user
 ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	7.3.3	stable	flathub	user
 Phoenicis PlayOnLinux	org.phoenicis.playonlinux	5.0-alpha-3	stable	flathub	user
-Signal Desktop	org.signal.Signal	6.13.0	stable	flathub	user
-Telegram Desktop	org.telegram.desktop	4.7.1	stable	flathub	user
+Signal Desktop	org.signal.Signal	6.17.1	stable	flathub	user
+Telegram Desktop	org.telegram.desktop	4.8.1	stable	flathub	user
