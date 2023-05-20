@@ -22,4 +22,4 @@ echo "#    conda    #"
 echo "###############"
 echo ""
 
-conda compare -n root conda-env.yml
+conda compare -n root snapshot/conda-env.yml
