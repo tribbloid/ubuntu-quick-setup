@@ -1,7 +1,7 @@
 name: base
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
   - python=3.9
   - conda
@@ -15,4 +15,5 @@ dependencies:
   - anaconda-navigator
   - conda-env
   - awscliv2
+  - maven
 prefix: /home/shared/conda
