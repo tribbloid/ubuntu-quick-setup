@@ -6,6 +6,7 @@ agda-stdlib
 agda-stdlib-doc
 alsa-oss
 alsa-tools-gui
+alsa-utils
 amd-ppt-bin
 android-sdk
 apache2
@@ -18,7 +19,11 @@ base-passwd
 blueman
 bluetooth
 bluez
+bluez-btsco
+bluez-firmware
 bluez-meshd
+bluez-tests
+bluez-tools
 breeze-cursor-theme
 btrfs-compsize
 btrfs-heatmap
@@ -63,6 +68,7 @@ firefox-locale-zh-hant
 firewall-config
 flatpak-builder
 font-manager
+fontconfig
 fonts-arphic-ukai
 fonts-arphic-uming
 fonts-dejavu
@@ -241,8 +247,10 @@ libsasl2-modules
 libudev0
 libvpx-dev
 libvpx-doc
+libxext-dev
 linux-cloud-tools-generic
 linux-tools-common
+linux-tools-generic
 lm-sensors
 lsb-release
 lutris
@@ -273,7 +281,6 @@ nemo
 neofetch
 network-manager-openconnect-gnome
 network-manager-ssh-gnome
-npm
 ntfs-3g
 nuget
 obs-studio
@@ -301,6 +308,7 @@ pipewire-jack
 plank
 plymouth-theme-pop-text
 pm-utils
+podman-docker
 pop-desktop
 pop-upgrade
 power-calibrate
@@ -334,7 +342,6 @@ texlive-full
 texworks
 tlp
 tmux
-torbrowser-launcher
 transmission
 transmission-cli
 transmission-gtk
@@ -344,6 +351,7 @@ ubuntu-minimal
 ubuntu-standard
 ubuntu-touch-settings
 unrar
+unzip
 v4l-utils
 virtualbox-qt
 visualvm
@@ -356,6 +364,7 @@ winbind
 wireshark-qt
 wmdocker
 xdotool
+xfce4-sensors-plugin
 xfce4-taskmanager
 xscreensaver-screensaver-dizzy
 zlib1g-dev

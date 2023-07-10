@@ -9,4 +9,4 @@ apt --purge autoremove
 
 flatpak update -y
 
-conda update --all -y
+mamba update --all -y

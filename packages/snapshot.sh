@@ -13,7 +13,7 @@ apt-clone clone latest > log/apt-report_$DATE.log
 
 apt-mark showmanual > snapshot/apt.csv
 
-conda env export -n root --from-history --no-builds > snapshot/conda-env.yml
+mamba env export -n root --from-history --no-builds > snapshot/conda-env.yml
 
 flatpak list --app > snapshot/flatpak.csv
 

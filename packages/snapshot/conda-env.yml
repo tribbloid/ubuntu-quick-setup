@@ -3,16 +3,80 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.9
+  - python
+  - mamba
   - conda
-  - setuptools
   - pip
+  - _libgcc_mutex
+  - ca-certificates
+  - ld_impl_linux-64
+  - libstdcxx-ng
+  - pybind11-abi
+  - python_abi
+  - tzdata
+  - libgomp
+  - _openmp_mutex
+  - libgcc-ng
+  - bzip2
+  - c-ares
+  - fmt
+  - icu
+  - keyutils
+  - libev
+  - libffi
+  - libiconv
+  - libnsl
+  - libuuid
+  - libzlib
+  - lz4-c
+  - lzo
+  - ncurses
+  - openssl
+  - reproc
+  - xz
+  - yaml-cpp
+  - libedit
+  - libnghttp2
+  - libsolv
+  - libsqlite
+  - libssh2
+  - libxml2
+  - readline
+  - reproc-cpp
+  - tk
+  - zstd
+  - krb5
+  - libarchive
+  - brotli-python
+  - certifi
+  - charset-normalizer
+  - colorama
+  - idna
+  - libcurl
+  - pluggy
+  - pycosat
+  - pycparser
+  - pysocks
+  - ruamel.yaml.clib
+  - setuptools
+  - toolz
   - wheel
+  - cffi
+  - libmamba
+  - ruamel.yaml
+  - tqdm
+  - urllib3
+  - cryptography
+  - libmambapy
+  - requests
+  - zstandard
+  - conda-package-streaming
+  - pyopenssl
+  - conda-package-handling
   - conda-content-trust
   - conda-build
   - conda-verify
   - _ipyw_jlab_nb_ext_conf
-  - anaconda-navigator
   - conda-env
   - awscliv2
   - maven
