@@ -14,7 +14,7 @@ echo "#  apt-clone  #"
 echo "###############"
 echo ""
 
-apt-clone show-diff latest.apt-clone.tar.gz
+apt-clone show-diff __snapshot/latest.apt-clone.tar.gz
 
 echo ""
 echo "###############"
@@ -22,6 +22,6 @@ echo "#    conda    #"
 echo "###############"
 echo ""
 
-conda compare -n root snapshot/conda-env.yml
+conda compare -n root __snapshot/conda-env.yml
 echo "  -------------"
-diff <(conda env export -n root --from-history --no-builds) <(cat snapshot/conda-env.yml)
+diff <(conda env export -n root --from-history --no-builds) <(cat __snapshot/conda-env.yml)
