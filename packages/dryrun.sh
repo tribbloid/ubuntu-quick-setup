@@ -23,5 +23,5 @@ echo "###############"
 echo ""
 
 conda compare -n root snapshot/conda-env.yml
-
+echo "  -------------"
 diff <(conda env export -n root --from-history --no-builds) <(cat snapshot/conda-env.yml)

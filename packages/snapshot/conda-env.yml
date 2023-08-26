@@ -1,19 +1,18 @@
 name: base
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.9
   - conda
-  - setuptools
+  - conda-libmamba-solver
+  - mamba
   - pip
-  - wheel
-  - conda-content-trust
-  - conda-build
-  - conda-verify
-  - _ipyw_jlab_nb_ext_conf
-  - anaconda-navigator
   - conda-env
-  - awscliv2
+  - conda-content-trust
+  - conda-verify
   - maven
+  - wheel
+  - conda-build
+  - awscliv2
+  - setuptools
 prefix: /home/shared/conda

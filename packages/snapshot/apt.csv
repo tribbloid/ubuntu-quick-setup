@@ -205,7 +205,6 @@ libc6:i386
 libdebconfclient0
 libfuse2
 libglib2.0-0:i386
-libicu67
 libinput-tools
 libmkl-full-dev
 libmkl-meta-cluster
@@ -214,8 +213,6 @@ libopenmpi-dev
 libosmesa6
 libpcre3:i386
 libpop-upgrade-gtk
-libpython3.9-minimal
-libpython3.9-stdlib
 libqt5gui5
 libreoffice-help-de
 libreoffice-help-en-gb
@@ -247,8 +244,14 @@ libsasl2-modules
 libudev0
 libvpx-dev
 libvpx-doc
+libwpe-1.0-1
+libwpebackend-fdo-1.0-1
 libxext-dev
 linux-cloud-tools-generic
+linux-headers-6.4.6-76060406
+linux-headers-6.4.6-76060406-generic
+linux-image-6.4.6-76060406-generic
+linux-modules-6.4.6-76060406-generic
 linux-tools-common
 linux-tools-generic
 lm-sensors
@@ -259,7 +262,7 @@ maven
 meld
 menulibre
 meson
-microsoft-edge-beta
+microsoft-edge-stable
 mousetweaks
 mozc-utils-gui
 mpich
@@ -296,7 +299,6 @@ openjdk-18-source
 openjdk-8-doc
 openjdk-8-jdk
 openjdk-8-source
-opera-stable
 packagekit
 packagekit-tools
 pandoc
@@ -316,8 +318,6 @@ powertop
 ppa-purge
 pulseaudio-utils
 python-is-python3
-python3.9
-python3.9-minimal
 qt5ct
 rar
 rclone-browser
