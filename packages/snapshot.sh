@@ -9,7 +9,7 @@ apt-key exportall > latest.keys
 apt-key list | grep "uid" > latest.keys.list
 
 #apt clone
-apt-clone clone latest > log/apt-report_$DATE.log
+apt-clone clone __snapshot/latest > log/apt-report_$DATE.log
 
 apt-mark showmanual > __snapshot/apt.csv
 
