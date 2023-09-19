@@ -9,6 +9,7 @@ alsa-tools-gui
 alsa-utils
 amd-ppt-bin
 android-sdk
+antimicro
 apache2
 appimagelauncher
 apt-clone
@@ -31,6 +32,7 @@ btrfs-progs
 btrfsmaintenance
 ca-certificates
 cabal-install
+chntpw
 chrome-gnome-shell
 chromium-codecs-ffmpeg-extra
 chrony
@@ -38,6 +40,7 @@ clang
 cmake
 cmake-doc
 cmake-format
+cnrdrvcups-ufr2-us
 code
 code-insiders
 cpufrequtils
@@ -206,6 +209,7 @@ libdebconfclient0
 libfuse2
 libglib2.0-0:i386
 libinput-tools
+libjpeg62
 libmkl-full-dev
 libmkl-meta-cluster
 libncurses5-dev

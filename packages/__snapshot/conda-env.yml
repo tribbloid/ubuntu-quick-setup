@@ -15,4 +15,5 @@ dependencies:
   - conda-build
   - awscliv2
   - setuptools
+  - poetry
 prefix: /home/shared/conda
