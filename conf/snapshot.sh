@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
-mkdir -p log
+source path-list.sh
 
-dconf dump / > latest.dconf.conf
+for i in "${PATHS[@]}"; do
+    echo " [PATH] $i"
+    mkdir -p "__snapshot${i}"
+    dconf dump $i > "__snapshot${i}dconf.txt"
+done

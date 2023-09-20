@@ -6,4 +6,10 @@ echo "#     dconf   #"
 echo "###############"
 echo ""
 
-diff <(dconf dump /) <(cat latest.dconf.conf)
+
+source path-list.sh
+
+for i in "${PATHS[@]}"; do
+    echo " [PATH] $i"
+    diff <(dconf dump $i) <(cat "__snapshot${i}dconf.txt")
+done

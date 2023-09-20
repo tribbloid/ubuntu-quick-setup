@@ -1,0 +1,88 @@
+[auto-move-windows]
+application-list=['com.vmware.HorizonClient.desktop:2']
+
+[dash-to-dock]
+animate-show-apps=true
+apply-glossy-effect=false
+click-action='minimize-or-previews'
+custom-theme-customize-running-dots=true
+customize-alphas=true
+dock-fixed=false
+extend-height=false
+intellihide=true
+isolate-monitors=true
+isolate-workspaces=true
+manualhide=false
+multi-monitor=true
+running-indicator-style='DASHES'
+scroll-action='cycle-windows'
+show-mounts-network=true
+transparency-mode='DYNAMIC'
+unity-backlit-items=true
+
+[flypie]
+active-stack-child='achievements-page'
+child-color-mode-hover='auto'
+menu-configuration='[{"name":"Example Menu","icon":"flypie-symbolic-#46a","shortcut":"<Primary>space","centered":false,"id":0,"children":[{"name":"Sound","icon":"flypie-multimedia-symbolic-#c86","children":[{"name":"Mute","icon":"flypie-multimedia-mute-symbolic-#853","type":"Shortcut","data":"AudioMute","angle":-1},{"name":"Play / Pause","icon":"flypie-multimedia-playpause-symbolic-#853","type":"Shortcut","data":"AudioPlay","angle":-1},{"name":"Next Title","icon":"flypie-multimedia-next-symbolic-#853","type":"Shortcut","data":"AudioNext","angle":90},{"name":"Previous Title","icon":"flypie-multimedia-previous-symbolic-#853","type":"Shortcut","data":"AudioPrev","angle":270}],"type":"CustomMenu","data":{},"angle":-1},{"name":"Favorites","icon":"flypie-menu-favorites-symbolic-#da3","type":"Favorites","data":{},"angle":-1},{"name":"Next Workspace","icon":"flypie-go-right-symbolic-#6b5","type":"Shortcut","data":{"shortcut":"<Control><Alt>Right"},"angle":-1},{"name":"Maximize Window","icon":"flypie-window-maximize-symbolic-#b68","type":"Shortcut","data":"<Alt>F10","angle":-1},{"name":"Fly-Pie Settings","icon":"flypie-menu-system-symbolic-#3ab","type":"Command","data":"gnome-extensions prefs flypie@schneegans.github.com","angle":-1},{"name":"Close Window","icon":"flypie-window-close-symbolic-#a33","type":"Shortcut","data":"<Alt>F4","angle":-1},{"name":"Previous Workspace","icon":"flypie-go-left-symbolic-#6b5","type":"Shortcut","data":{"shortcut":"<Control><Alt>Left"},"angle":-1},{"name":"Running Apps","icon":"flypie-menu-running-apps-symbolic-#65a","type":"RunningApps","data":{"activeWorkspaceOnly":false,"appGrouping":true,"hoverPeeking":true,"nameRegex":""},"angle":-1}],"type":"CustomMenu","data":{}}]'
+stats-abortions=uint32 8
+stats-click-selections-depth2=uint32 1
+stats-click-selections-depth3=uint32 1
+stats-dbus-menus=uint32 4
+stats-gesture-selections-depth1=uint32 1
+stats-selections=uint32 3
+stats-selections-1000ms-depth1=uint32 1
+stats-settings-opened=uint32 3
+stats-tutorial-menus=uint32 4
+
+[gsconnect]
+id='cd332183-4b9d-4fb8-8dd5-2953807c5435'
+name='pop-os'
+
+[pop-cosmic]
+clock-alignment='LEFT'
+show-applications-button=false
+show-workspaces-button=false
+workspace-picker-left=false
+
+[system-monitor]
+battery-display=true
+battery-graph-width=100
+battery-refresh-time=50000
+battery-show-menu=true
+battery-show-text=false
+battery-style='graph'
+center-display=true
+compact-display=true
+cpu-graph-width=100
+cpu-show-text=false
+disk-display=true
+disk-graph-width=100
+disk-show-text=false
+fan-display=false
+fan-graph-width=100
+fan-show-text=false
+freq-display=true
+freq-graph-width=100
+freq-show-menu=true
+freq-style='digit'
+gpu-display=true
+gpu-graph-width=100
+gpu-show-menu=true
+gpu-show-text=false
+icon-display=false
+memory-graph-width=100
+memory-show-text=false
+net-graph-width=100
+net-show-text=false
+net-style='digit'
+show-tooltip=true
+swap-display=false
+swap-graph-width=100
+swap-show-text=false
+thermal-display=true
+thermal-graph-width=100
+thermal-sensor-file='/sys/class/hwmon/hwmon3/temp1_input'
+thermal-show-text=false
+
+[user-theme]
+name=''
