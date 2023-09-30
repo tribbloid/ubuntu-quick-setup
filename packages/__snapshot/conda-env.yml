@@ -7,13 +7,13 @@ dependencies:
   - conda-libmamba-solver
   - mamba
   - pip
-  - conda-env
-  - conda-content-trust
-  - conda-verify
-  - maven
-  - wheel
   - conda-build
-  - awscliv2
-  - setuptools
   - poetry
+  - maven
+  - conda-content-trust
+  - setuptools
+  - awscliv2
+  - conda-env
+  - wheel
+  - conda-verify
 prefix: /home/shared/conda
