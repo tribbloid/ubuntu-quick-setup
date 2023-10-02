@@ -34,6 +34,7 @@ btrfs-progs
 btrfsmaintenance
 ca-certificates
 cabal-install
+chntpw
 chrome-gnome-shell
 chromium-codecs-ffmpeg-extra
 chrony
@@ -51,6 +52,7 @@ dash
 dconf-editor
 diffutils
 dmz-cursor-theme
+docker-desktop
 dotnet-sdk-6.0
 dotnet6
 elementary-icon-theme
@@ -71,7 +73,6 @@ firefox-locale-zh-hans
 firefox-locale-zh-hant
 firewall-config
 flatpak-builder
-fluidsynth
 font-manager
 fontconfig
 fonts-arphic-ukai
@@ -265,7 +266,6 @@ linux-tools-common
 linux-tools-generic
 lm-sensors
 lsb-release
-lutris
 lyx
 maven
 meld
@@ -318,7 +318,6 @@ pipewire-jack
 pipewire-pulse
 plymouth-theme-pop-text
 pm-utils
-podman-docker
 pop-container-interactive
 pop-container-runtime
 pop-de-gnome
@@ -378,6 +377,7 @@ vulkan-tools
 winbind
 wireshark-qt
 wmdocker
+wps-fonts
 xdotool
 xfce4-sensors-plugin
 xfce4-taskmanager
