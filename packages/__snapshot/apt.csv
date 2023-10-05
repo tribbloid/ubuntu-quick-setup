@@ -213,6 +213,8 @@ libfuse2
 libglib2.0-0:i386
 libinput-tools
 libjpeg62
+libldacbt-abr2
+libldacbt-enc2
 libmkl-full-dev
 libmkl-meta-cluster
 libncurses5-dev
@@ -248,6 +250,7 @@ libreoffice-l10n-zh-cn
 libreoffice-l10n-zh-tw
 libsasl2-2
 libsasl2-modules
+libspa-0.2-bluetooth
 libudev0
 libvpx-dev
 libvpx-doc
@@ -314,6 +317,7 @@ peek
 pinhole
 pipewire
 pipewire-alsa
+pipewire-audio-client-libraries
 pipewire-jack
 pipewire-pulse
 plymouth-theme-pop-text
@@ -375,6 +379,7 @@ vlc-plugin-jack
 vlc-plugin-svg
 vulkan-tools
 winbind
+wireplumber
 wireshark-qt
 wmdocker
 wps-fonts
