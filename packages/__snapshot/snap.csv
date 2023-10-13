@@ -9,10 +9,10 @@ gnome-3-38-2004     0+git.efb213a               143    latest/stable  canonical*
 gnome-42-2204       0+git.ff35a85               141    latest/stable  canonical**     -
 gtk-common-themes   0.1-81-g442e511             1535   latest/stable  canonical**     -
 joplin-desktop      v2.12.18                    39     latest/stable  james-carroll*  -
-mattermost-desktop  5.5.0                       687    latest/stable  snapcrafters*   -
+mattermost-desktop  5.5.1                       704    latest/stable  snapcrafters*   -
 node                20.8.0                      7844   20/stable      iojs**          classic
 onshape             0.5.20                      6      latest/edge    develar         -
 rustup              1.24.3                      1027   latest/stable  dsilvers        classic
 snap-store          41.3-71-g709398e            959    latest/stable  canonical**     -
-snapd               2.60.3                      20092  latest/stable  canonical**     snapd
-termius-beta        8.3.2                       282    latest/stable  termius**       -
+snapd               2.60.4                      20290  latest/stable  canonical**     snapd
+termius-beta        8.4.0                       283    latest/stable  termius**       -

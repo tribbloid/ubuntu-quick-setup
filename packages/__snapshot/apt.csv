@@ -335,6 +335,7 @@ ppa-purge
 pulseaudio-utils
 python-is-python3
 python3.10
+python3.10-full
 qt5ct
 rar
 rclone-browser
