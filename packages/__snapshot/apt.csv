@@ -222,6 +222,8 @@ libopenmpi-dev
 libosmesa6
 libpcre3:i386
 libpop-upgrade-gtk
+libpython3.10
+libpython3.10-dev
 libqt5gui5
 libreoffice-help-de
 libreoffice-help-en-gb
@@ -305,6 +307,9 @@ openjdk-11-source
 openjdk-17-doc
 openjdk-17-jdk
 openjdk-17-source
+openjdk-21-doc
+openjdk-21-jdk
+openjdk-21-source
 openjdk-8-doc
 openjdk-8-jdk
 openjdk-8-source
@@ -335,6 +340,7 @@ ppa-purge
 pulseaudio-utils
 python-is-python3
 python3.10
+python3.10-dev
 python3.10-full
 qt5ct
 rar
