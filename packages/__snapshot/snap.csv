@@ -15,4 +15,4 @@ onshape             0.5.20                      6      latest/edge    develar   
 rustup              1.24.3                      1027   latest/stable  dsilvers        classic
 snap-store          41.3-71-g709398e            959    latest/stable  canonical**     -
 snapd               2.60.4                      20290  latest/stable  canonical**     snapd
-termius-beta        8.5.1                       285    latest/stable  termius**       -
+termius-beta        8.5.2                       286    latest/stable  termius**       -

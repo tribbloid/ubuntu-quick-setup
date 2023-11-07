@@ -3,11 +3,8 @@ uid           [ unknown] Google Inc. (Linux Packages Signing Authority) <linux-p
 uid           [ unknown] sbt build tool <scalasbt@gmail.com>
 uid           [ unknown] Zorin OS <os@zoringroup.com>
 uid           [ unknown] Zorin OS (ISO Signing Key) <os@zoringroup.com>
-uid           [ expired] Opera Software Archive Automatic Signing Key 2017 <packager@opera.com>
 uid           [ unknown] cudatools <cudatools@nvidia.com>
 uid           [ unknown] https://packagecloud.io/AtomEditor/atom (https://packagecloud.io/docs#gpg_signing) <support@packagecloud.io>
-uid           [ expired] Opera Software Archive Automatic Signing Key 2019 <packager@opera.com>
-uid           [ expired] packagecloud ops (production key) <ops@packagecloud.io>
 uid           [ unknown] https://packagecloud.io/slacktechnologies/slack (https://packagecloud.io/docs#gpg_signing) <support@packagecloud.io>
 uid           [ unknown] Abner Lee <abner@typora.io>
 uid           [ unknown] Debian packager (A key for signing Termius releases for Debian) <admin@termius.com>
@@ -22,8 +19,6 @@ uid           [ unknown] Launchpad PPA for Gnome-Shell-Extensions developers
 uid           [ unknown] Launchpad PPA for atareao
 uid           [ unknown] Ascensio System Limited (ONLYOFFICE) <support@onlyoffice.com>
 uid           [ unknown] Launchpad PPA for Rico
-uid           [ expired] Vivaldi Package Composer KEY06 <packager@vivaldi.com>
-uid           [ expired] Vivaldi Package Composer KEY07 <packager@vivaldi.com>
 uid           [ unknown] BlueMail <linux@bluemail.me>
 uid           [ unknown] Launchpad PPA for AppImageLauncher Maintainers
 uid           [ unknown] Launchpad PPA for atareao
@@ -33,7 +28,6 @@ uid           [ unknown] Microsoft (Release signing) <gpgsecurity@microsoft.com>
 uid           [ unknown] Microsoft (Release signing) <gpgsecurity@microsoft.com>
 uid           [ unknown] Microsoft (Release signing) <gpgsecurity@microsoft.com>
 uid           [ unknown] Launchpad OpenJDK builds (all archs)
-uid           [ expired] Opera Software Archive Automatic Signing Key 2021 <packager@opera.com>
 uid           [ unknown] Opera Software Archive Automatic Signing Key 2023 <packager@opera.com>
 uid           [ unknown] Pop OS (ISO Signing Key) <info@system76.com>
 uid           [ unknown] Launchpad PPA for System76
@@ -42,4 +36,3 @@ uid           [ unknown] Ubuntu Archive Automatic Signing Key (2018) <ftpmaster@
 uid           [ unknown] Launchpad Daily Build of master branch
 uid           [ unknown] Vivaldi Package Composer KEY09 <packager@vivaldi.com>
 uid           [ unknown] Vivaldi Package Composer KEY08 <packager@vivaldi.com>
-uid           [ expired] Vivaldi Package Composer KEY07 <packager@vivaldi.com>

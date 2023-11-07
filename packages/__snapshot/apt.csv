@@ -253,6 +253,7 @@ libreoffice-l10n-zh-tw
 libsasl2-2
 libsasl2-modules
 libspa-0.2-bluetooth
+libssl-dev
 libudev0
 libvpx-dev
 libvpx-doc
@@ -313,6 +314,7 @@ openjdk-21-source
 openjdk-8-doc
 openjdk-8-jdk
 openjdk-8-source
+openssl
 packagekit
 packagekit-tools
 pandoc

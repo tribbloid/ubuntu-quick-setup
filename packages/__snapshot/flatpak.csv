@@ -1,19 +1,19 @@
 Organic Maps	app.organicmaps.desktop	2023.09.22-27	stable	flathub	user
 GitKraken	com.axosoft.GitKraken	9.9.2	stable	flathub	user
 Bitwarden	com.bitwarden.desktop	2023.10.0	stable	flathub	user
-Discord	com.discordapp.Discord	0.0.33	stable	flathub	user
-teams-for-linux	com.github.IsmaelMartinez.teams_for_linux	1.3.14	stable	flathub	user
+Discord	com.discordapp.Discord	0.0.34	stable	flathub	user
+teams-for-linux	com.github.IsmaelMartinez.teams_for_linux	1.3.19	stable	flathub	user
 TLPUI	com.github.d4nj1.tlpui	1.6.1	stable	flathub	user
 Touché	com.github.joseexposito.touche	2.0.11	stable	flathub	user
 MarkText	com.github.marktext.marktext	0.17.1	stable	flathub	user
 Tor Browser Launcher	com.github.micahflee.torbrowser-launcher	0.3.6	stable	flathub	user
 Flatseal	com.github.tchx84.Flatseal	2.1.0	stable	flathub	user
-Slack	com.slack.Slack	4.34.121	stable	flathub	user
+Slack	com.slack.Slack	4.35.121	stable	flathub	user
 Unity Hub	com.unity.UnityHub	3.4.1	stable	flathub	user
 Bottles	com.usebottles.bottles	51.9	stable	flathub	user
 VMware Horizon Client	com.vmware.HorizonClient	2111	master	horizonclient-origin	user
 WPS Office	com.wps.Office	11.1.0.11698	stable	flathub	user
-DBeaver Community	io.dbeaver.DBeaverCommunity	23.2.3	stable	flathub	user
+DBeaver Community	io.dbeaver.DBeaverCommunity	23.2.4	stable	flathub	user
 Youtube Downloader Plus	io.github.aandrew_me.ytdn	3.15.0	stable	flathub	user
 AppImage Pool	io.github.prateekmedia.appimagepool	5.1.0	stable	flathub	user
 GDM Settings	io.github.realmazharhussain.GdmSettings	4.1	stable	flathub	user
@@ -25,7 +25,7 @@ Chromium Web Browser	org.chromium.Chromium	119.0.6045.105	stable	flathub	user
 Clementine Music Player	org.clementine_player.Clementine	1.4.0rc2	stable	flathub	user
 GNU Image Manipulation Program	org.gimp.GIMP	2.10.34	stable	flathub	user
 Builder	org.gnome.Builder	45.0	stable	flathub	user
-Web	org.gnome.Epiphany	45.0	stable	flathub	user
+Web	org.gnome.Epiphany	45.1	stable	flathub	user
 Geary	org.gnome.Geary	44.1	stable	flathub	user
 Music	org.gnome.Music	45.0	stable	flathub	user
 GNOME Network Displays	org.gnome.NetworkDisplays	0.90.5	stable	flathub	user
