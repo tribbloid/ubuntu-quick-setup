@@ -1,5 +1,5 @@
 Name                Version                     Rev    Tracking       Publisher       Notes
-authy               2.4.1                       21     latest/stable  twilio-authy    -
+authy               2.4.2                       22     latest/stable  twilio-authy    -
 bare                1.0                         5      latest/stable  canonical**     base
 core18              20230901                    2796   latest/stable  canonical**     base
 core20              20230801                    2015   latest/stable  canonical**     base
@@ -11,8 +11,7 @@ gtk-common-themes   0.1-81-g442e511             1535   latest/stable  canonical*
 joplin-desktop      v2.12.19                    40     latest/stable  james-carroll*  -
 mattermost-desktop  5.5.1                       704    latest/stable  snapcrafters*   -
 node                20.8.0                      7844   20/stable      iojs**          classic
-onshape             0.5.20                      6      latest/edge    develar         -
 rustup              1.24.3                      1027   latest/stable  dsilvers        classic
 snap-store          41.3-71-g709398e            959    latest/stable  canonical**     -
 snapd               2.60.4                      20290  latest/stable  canonical**     snapd
-termius-beta        8.5.2                       286    latest/stable  termius**       -
+termius-beta        8.6.1                       288    latest/stable  termius**       -

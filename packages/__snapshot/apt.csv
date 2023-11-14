@@ -314,7 +314,6 @@ openjdk-21-source
 openjdk-8-doc
 openjdk-8-jdk
 openjdk-8-source
-openssl
 packagekit
 packagekit-tools
 pandoc
@@ -327,6 +326,8 @@ pipewire-alsa
 pipewire-audio-client-libraries
 pipewire-jack
 pipewire-pulse
+platformio
+platformio-doc
 plymouth-theme-pop-text
 pm-utils
 pop-container-interactive
