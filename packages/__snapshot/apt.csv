@@ -326,8 +326,6 @@ pipewire-alsa
 pipewire-audio-client-libraries
 pipewire-jack
 pipewire-pulse
-platformio
-platformio-doc
 plymouth-theme-pop-text
 pm-utils
 pop-container-interactive
