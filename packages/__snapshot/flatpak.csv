@@ -1,7 +1,8 @@
+Damask	app.drey.Damask	0.2.1	stable	flathub	user
 Organic Maps	app.organicmaps.desktop	2023.11.17-17	stable	flathub	user
 GitKraken	com.axosoft.GitKraken	9.10.0	stable	flathub	user
 Bitwarden	com.bitwarden.desktop	2023.10.1	stable	flathub	user
-Discord	com.discordapp.Discord	0.0.35	stable	flathub	user
+Discord	com.discordapp.Discord	0.0.36	stable	flathub	user
 teams-for-linux	com.github.IsmaelMartinez.teams_for_linux	1.3.19	stable	flathub	user
 TLPUI	com.github.d4nj1.tlpui	1.6.1	stable	flathub	user
 Touché	com.github.joseexposito.touche	2.0.11	stable	flathub	user
@@ -14,14 +15,14 @@ Bottles	com.usebottles.bottles	51.9	stable	flathub	user
 VMware Horizon Client	com.vmware.HorizonClient	2111	master	horizonclient-origin	user
 WPS Office	com.wps.Office	11.1.0.11698	stable	flathub	user
 DBeaver Community	io.dbeaver.DBeaverCommunity	23.2.5	stable	flathub	user
-Youtube Downloader Plus	io.github.aandrew_me.ytdn	3.15.0	stable	flathub	user
+Youtube Downloader Plus	io.github.aandrew_me.ytdn	3.15.1	stable	flathub	user
 AppImage Pool	io.github.prateekmedia.appimagepool	5.1.0	stable	flathub	user
 GDM Settings	io.github.realmazharhussain.GdmSettings	4.1	stable	flathub	user
 Typora	io.typora.Typora	1.7.6	stable	flathub	user
 Obsidian	md.obsidian.Obsidian	1.4.16	stable	flathub	user
 Lutris	net.lutris.Lutris	0.5.14	stable	flathub	user
-Blender	org.blender.Blender	4.0.0	stable	flathub	user
-Chromium Web Browser	org.chromium.Chromium	119.0.6045.159	stable	flathub	user
+Blender	org.blender.Blender	4.0.1	stable	flathub	user
+Chromium Web Browser	org.chromium.Chromium	119.0.6045.199	stable	flathub	user
 Clementine Music Player	org.clementine_player.Clementine	1.4.0rc2	stable	flathub	user
 GNU Image Manipulation Program	org.gimp.GIMP	2.10.36	stable	flathub	user
 Builder	org.gnome.Builder	45.0	stable	flathub	user
@@ -30,11 +31,11 @@ Geary	org.gnome.Geary	44.1	stable	flathub	user
 Music	org.gnome.Music	45.0	stable	flathub	user
 GNOME Network Displays	org.gnome.NetworkDisplays	0.90.5	stable	flathub	user
 Videos	org.gnome.Totem	43.0	stable	flathub	user
-Inkscape	org.inkscape.Inkscape	1.3.1	stable	flathub	user
+Inkscape	org.inkscape.Inkscape	1.3.2	stable	flathub	user
 KiCad	org.kicad.KiCad	7.0.9	stable	flathub	user
 QGroundControl	org.mavlink.qgroundcontrol		stable	flathub	user
 ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	7.5.1	stable	flathub	user
 OpenShot Video Editor	org.openshot.OpenShot	3.1.1	stable	flathub	user
-Signal Desktop	org.signal.Signal	6.39.0	stable	flathub	user
-Telegram Desktop	org.telegram.desktop	4.11.3	stable	flathub	user
+Signal Desktop	org.signal.Signal	6.40.0	stable	flathub	user
+Telegram Desktop	org.telegram.desktop	4.11.8	stable	flathub	user
 Zulip	org.zulip.Zulip	5.10.3	stable	flathub	user

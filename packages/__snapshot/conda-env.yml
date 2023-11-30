@@ -16,4 +16,5 @@ dependencies:
   - conda-env
   - wheel
   - conda-verify
+  - jupyter
 prefix: /home/shared/conda
