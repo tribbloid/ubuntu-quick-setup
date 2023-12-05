@@ -9,12 +9,13 @@ Touché	com.github.joseexposito.touche	2.0.11	stable	flathub	user
 MarkText	com.github.marktext.marktext	0.17.1	stable	flathub	user
 Tor Browser Launcher	com.github.micahflee.torbrowser-launcher	0.3.6	stable	flathub	user
 Flatseal	com.github.tchx84.Flatseal	2.1.0	stable	flathub	user
+PrusaSlicer	com.prusa3d.PrusaSlicer	2.7.0	stable	flathub	user
 Slack	com.slack.Slack	4.35.121	stable	flathub	user
 Unity Hub	com.unity.UnityHub	3.6.1	stable	flathub	user
 Bottles	com.usebottles.bottles	51.9	stable	flathub	user
 VMware Horizon Client	com.vmware.HorizonClient	2111	master	horizonclient-origin	user
 WPS Office	com.wps.Office	11.1.0.11698	stable	flathub	user
-DBeaver Community	io.dbeaver.DBeaverCommunity	23.2.5	stable	flathub	user
+DBeaver Community	io.dbeaver.DBeaverCommunity	23.3.0	stable	flathub	user
 Youtube Downloader Plus	io.github.aandrew_me.ytdn	3.15.1	stable	flathub	user
 AppImage Pool	io.github.prateekmedia.appimagepool	5.1.0	stable	flathub	user
 GDM Settings	io.github.realmazharhussain.GdmSettings	4.1	stable	flathub	user
@@ -37,5 +38,5 @@ QGroundControl	org.mavlink.qgroundcontrol		stable	flathub	user
 ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	7.5.1	stable	flathub	user
 OpenShot Video Editor	org.openshot.OpenShot	3.1.1	stable	flathub	user
 Signal Desktop	org.signal.Signal	6.40.0	stable	flathub	user
-Telegram Desktop	org.telegram.desktop	4.11.8	stable	flathub	user
+Telegram Desktop	org.telegram.desktop	4.12.2	stable	flathub	user
 Zulip	org.zulip.Zulip	5.10.3	stable	flathub	user
