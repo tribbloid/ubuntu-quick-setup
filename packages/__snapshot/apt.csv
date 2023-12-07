@@ -258,16 +258,12 @@ libudev0
 libvpx-dev
 libvpx-doc
 libxext-dev
-linux-cloud-tools-6.4.6-76060406
-linux-cloud-tools-6.4.6-76060406-generic
 linux-cloud-tools-generic
 linux-generic
 linux-headers-6.4.6-76060406
 linux-headers-6.4.6-76060406-generic
 linux-image-6.4.6-76060406-generic
 linux-modules-6.4.6-76060406-generic
-linux-tools-6.4.6-76060406
-linux-tools-6.4.6-76060406-generic
 linux-tools-common
 linux-tools-generic
 lm-sensors
