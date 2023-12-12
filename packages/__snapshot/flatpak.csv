@@ -1,5 +1,4 @@
 Damask	app.drey.Damask	0.2.1	stable	flathub	user
-Organic Maps	app.organicmaps.desktop	2023.11.17-17	stable	flathub	user
 GitKraken	com.axosoft.GitKraken	9.10.0	stable	flathub	user
 Bitwarden	com.bitwarden.desktop	2023.12.0	stable	flathub	user
 Discord	com.discordapp.Discord	0.0.37	stable	flathub	user
@@ -10,9 +9,8 @@ MarkText	com.github.marktext.marktext	0.17.1	stable	flathub	user
 Tor Browser Launcher	com.github.micahflee.torbrowser-launcher	0.3.6	stable	flathub	user
 Flatseal	com.github.tchx84.Flatseal	2.1.0	stable	flathub	user
 PrusaSlicer	com.prusa3d.PrusaSlicer	2.7.0	stable	flathub	user
-Slack	com.slack.Slack	4.35.121	stable	flathub	user
+Slack	com.slack.Slack	4.36.134	stable	flathub	user
 Unity Hub	com.unity.UnityHub	3.6.1	stable	flathub	user
-Bottles	com.usebottles.bottles	51.9	stable	flathub	user
 VMware Horizon Client	com.vmware.HorizonClient	2111	master	horizonclient-origin	user
 WPS Office	com.wps.Office	11.1.0.11698	stable	flathub	user
 DBeaver Community	io.dbeaver.DBeaverCommunity	23.3.0	stable	flathub	user
@@ -20,10 +18,8 @@ Youtube Downloader Plus	io.github.aandrew_me.ytdn	3.15.1	stable	flathub	user
 AppImage Pool	io.github.prateekmedia.appimagepool	5.1.0	stable	flathub	user
 GDM Settings	io.github.realmazharhussain.GdmSettings	4.1	stable	flathub	user
 Typora	io.typora.Typora	1.7.6	stable	flathub	user
-Obsidian	md.obsidian.Obsidian	1.4.16	stable	flathub	user
 Lutris	net.lutris.Lutris	0.5.14	stable	flathub	user
 Blender	org.blender.Blender	4.0.2	stable	flathub	user
-Chromium Web Browser	org.chromium.Chromium	119.0.6045.199	stable	flathub	user
 Clementine Music Player	org.clementine_player.Clementine	1.4.0rc2	stable	flathub	user
 GNU Image Manipulation Program	org.gimp.GIMP	2.10.36	stable	flathub	user
 Builder	org.gnome.Builder	45.0	stable	flathub	user
