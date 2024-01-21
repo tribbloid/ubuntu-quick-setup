@@ -103,6 +103,7 @@ gir1.2-clutter-1.0
 gir1.2-gtop-2.0
 gir1.2-nm-1.0
 gist
+git-lfs
 github-desktop
 gnome-backgrounds
 gnome-boxes
@@ -317,6 +318,7 @@ papirus-icon-theme
 pavucontrol
 peek
 pinhole
+pipewire
 pipewire-alsa
 pipewire-audio-client-libraries
 pipewire-jack
