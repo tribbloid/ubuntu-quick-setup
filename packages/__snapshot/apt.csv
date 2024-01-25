@@ -251,10 +251,12 @@ libreoffice-l10n-pt-br
 libreoffice-l10n-ru
 libreoffice-l10n-zh-cn
 libreoffice-l10n-zh-tw
+librust-clang-sys-dev
 libsasl2-2
 libsasl2-modules
 libspa-0.2-bluetooth
 libssl-dev
+libudev-dev
 libudev0
 libvpx-dev
 libvpx-doc
@@ -267,6 +269,7 @@ linux-image-6.4.6-76060406-generic
 linux-modules-6.4.6-76060406-generic
 linux-tools-common
 linux-tools-generic
+llvm
 lm-sensors
 lsb-release
 lyx
