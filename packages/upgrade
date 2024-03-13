@@ -5,8 +5,11 @@ aptitude update
 aptitude dist-upgrade -y
 
 apt --purge autoremove
+
+snap refresh
 '
 
 flatpak update -y
+flatpak uninstall --unused -y
 
 conda update --all -y
