@@ -1,36 +1,28 @@
-Damask	app.drey.Damask	0.2.1	stable	flathub	user
-GitKraken	com.axosoft.GitKraken	9.11.1	stable	flathub	user
-Bitwarden	com.bitwarden.desktop	2024.1.0	stable	flathub	user
-Discord	com.discordapp.Discord	0.0.41	stable	flathub	user
-TLP-UI	com.github.d4nj1.tlpui	1.6.4	stable	flathub	user
-Touché	com.github.joseexposito.touche	2.0.11	stable	flathub	user
+Damask	app.drey.Damask	0.2.2	stable	flathub	user
+Discord	com.discordapp.Discord	0.0.54	stable	flathub	user
+Daniel Christophis	com.github.d4nj1.tlpui	1.6.5	stable	flathub	user
+José Expósito	com.github.joseexposito.touche	2.0.12	stable	flathub	user
 MarkText	com.github.marktext.marktext	0.17.1	stable	flathub	user
-Flatseal	com.github.tchx84.Flatseal	2.1.0	stable	flathub	user
-PrusaSlicer	com.prusa3d.PrusaSlicer	2.7.1	stable	flathub	user
-Slack	com.slack.Slack	4.36.138	stable	flathub	user
-Unity Hub	com.unity.UnityHub	3.7.0	stable	flathub	user
+Martin Abente Lahaye	com.github.tchx84.Flatseal	2.2.0	stable	flathub	system
+Spotify	com.spotify.Client	1.2.31.1205.g4d59ad7c	stable	flathub	system
 VMware Horizon Client	com.vmware.HorizonClient	2111	master	horizonclient-origin	user
-WPS Office	com.wps.Office	11.1.0.11698	stable	flathub	user
-DBeaver Community	io.dbeaver.DBeaverCommunity	23.3.3	stable	flathub	user
-Youtube Downloader Plus	io.github.aandrew_me.ytdn	3.16.1	stable	flathub	user
+Andrew	io.github.aandrew_me.ytdn	3.17.4	stable	flathub	user
 AppImage Pool	io.github.prateekmedia.appimagepool	5.1.0	stable	flathub	user
-GDM Settings	io.github.realmazharhussain.GdmSettings	4.1	stable	flathub	user
-Typora	io.typora.Typora	1.8.6	stable	flathub	user
-Lutris	net.lutris.Lutris	0.5.16	stable	flathub	user
-Blender	org.blender.Blender	4.0.2	stable	flathub	user
-Clementine Music Player	org.clementine_player.Clementine	1.4.0rc2	stable	flathub	user
-GNU Image Manipulation Program	org.gimp.GIMP	2.10.36	stable	flathub	user
-Builder	org.gnome.Builder	45.0	stable	flathub	user
-Web	org.gnome.Epiphany	45.2	stable	flathub	user
-Geary	org.gnome.Geary	44.1	stable	flathub	user
-Music	org.gnome.Music	45.0	stable	flathub	user
-GNOME Network Displays	org.gnome.NetworkDisplays	0.91.0	stable	flathub	user
-Videos	org.gnome.Totem	43.0	stable	flathub	user
-Inkscape	org.inkscape.Inkscape	1.3.2	stable	flathub	user
-KiCad	org.kicad.KiCad	7.0.10	stable	flathub	user
+GDM Settings	io.github.realmazharhussain.GdmSettings	4.4	stable	flathub	user
+Typora	io.typora.Typora	1.8.9	stable	flathub	user
+Obsidian	md.obsidian.Obsidian	1.5.12	stable	flathub	system
+laurent22	net.cozic.joplin_desktop	2.14.20	stable	flathub	system
+Lutris Team	net.lutris.Lutris	0.5.17	stable	flathub	user
+Blender	org.blender.Blender	4.1.1	stable	flathub	system
+GNU Image Manipulation Program	org.gimp.GIMP	2.10.38	stable	flathub	system
+Christian Hergert, et al.	org.gnome.Builder	46.1	stable	flathub	user
+The GNOME Project	org.gnome.Calendar	46.0	stable	flathub	system
+Contacts	org.gnome.Contacts	46.0	stable	flathub	system
+The GNOME Project	org.gnome.Epiphany	46.0	stable	flathub	system
+Geary	org.gnome.Geary	44.1	stable	flathub	system
+The GNOME Music developers	org.gnome.Music	46.0	stable	flathub	user
 QGroundControl	org.mavlink.qgroundcontrol	v4.3.0	stable	flathub	user
-ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	7.5.1	stable	flathub	user
-OpenShot Video Editor	org.openshot.OpenShot	3.1.1	stable	flathub	user
-Signal Desktop	org.signal.Signal	6.44.1	stable	flathub	user
-Telegram Desktop	org.telegram.desktop	4.14.9	stable	flathub	user
-Zulip	org.zulip.Zulip	5.10.4	stable	flathub	user
+ONLYOFFICE	org.onlyoffice.desktopeditors	8.0.1	stable	flathub	system
+OpenShot Studios, LLC	org.openshot.OpenShot	3.1.1	stable	flathub	system
+Signal Desktop	org.signal.Signal	7.10.0	stable	flathub	user
+Kandra Labs, Inc.	org.zulip.Zulip	5.11.0	stable	flathub	user

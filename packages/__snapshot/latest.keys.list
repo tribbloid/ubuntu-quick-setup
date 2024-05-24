@@ -37,5 +37,5 @@ uid           [ unknown] Ubuntu CD Image Automatic Signing Key (2012) <cdimage@u
 uid           [ unknown] Ubuntu Archive Automatic Signing Key (2018) <ftpmaster@ubuntu.com>
 uid           [ unknown] Launchpad Daily Build of master branch
 uid           [ unknown] Vivaldi Package Composer KEY09 <packager@vivaldi.com>
-uid           [ unknown] Vivaldi Package Composer KEY08 <packager@vivaldi.com>
+uid           [ expired] Vivaldi Package Composer KEY08 <packager@vivaldi.com>
 uid           [ unknown] Vivaldi Package Composer KEY10 <packager@vivaldi.com>

@@ -5,6 +5,7 @@ acpitool
 agda-stdlib
 agda-stdlib-doc
 alsa-oss
+alsa-tools
 alsa-tools-gui
 alsa-utils
 alsamixergui
@@ -39,6 +40,7 @@ chrome-gnome-shell
 chromium-codecs-ffmpeg-extra
 chrony
 clang
+clementine
 cmake
 cmake-doc
 cmake-format
@@ -52,7 +54,6 @@ dash
 dconf-editor
 diffutils
 dmz-cursor-theme
-docker-desktop
 dotnet-sdk-6.0
 dotnet6
 elementary-icon-theme
@@ -98,6 +99,7 @@ fonts-tlwg-typist-ttf
 fonts-tlwg-typo-ttf
 fonts-tlwg-umpush-ttf
 fonts-tlwg-waree-ttf
+freeglut3-dev
 gifsicle
 gir1.2-clutter-1.0
 gir1.2-gtop-2.0
@@ -106,7 +108,6 @@ gist
 git-lfs
 github-desktop
 gnome-backgrounds
-gnome-boxes
 gnome-characters
 gnome-clocks
 gnome-icon-theme-nuovo
@@ -117,6 +118,7 @@ gnome-maps
 gnome-mines
 gnome-packagekit
 gnome-photos
+gnome-remote-desktop
 gnome-screensaver
 gnome-screensaver-flags
 gnome-screenshot
@@ -208,10 +210,15 @@ language-pack-ru
 language-pack-zh-hans
 language-pack-zh-hant
 latexmk
+libasound2-dev
 libc6:i386
 libdebconfclient0
+libevdev-dev
+libfontconfig-dev
 libfuse2
+libglew-dev
 libglib2.0-0:i386
+libhidapi-dev
 libinput-tools
 libjpeg62
 libldacbt-abr2
@@ -225,6 +232,7 @@ libpcre3:i386
 libpop-upgrade-gtk
 libpython3.10
 libpython3.10-dev
+libqt5core5a
 libqt5gui5
 libreoffice-help-de
 libreoffice-help-en-gb
@@ -252,6 +260,7 @@ libreoffice-l10n-ru
 libreoffice-l10n-zh-cn
 libreoffice-l10n-zh-tw
 librust-clang-sys-dev
+librust-hidapi-sys-dev
 libsasl2-2
 libsasl2-modules
 libspa-0.2-bluetooth
@@ -261,6 +270,8 @@ libudev0
 libvpx-dev
 libvpx-doc
 libxext-dev
+libxkbcommon-dev
+libxkbcommon-x11-dev
 linux-cloud-tools-generic
 linux-generic
 linux-headers-6.4.6-76060406
@@ -273,7 +284,6 @@ llvm
 lm-sensors
 lsb-release
 lyx
-maven
 meld
 menulibre
 meson
@@ -326,6 +336,7 @@ pipewire-alsa
 pipewire-audio-client-libraries
 pipewire-jack
 pipewire-pulse
+pkgconf
 plymouth-theme-pop-text
 pm-utils
 pop-container-interactive
@@ -343,7 +354,11 @@ python-is-python3
 python3.10
 python3.10-dev
 python3.10-full
+qt5-qmake
 qt5ct
+qtbase5-dev
+qtbase5-dev-tools
+qtcreator
 rar
 rclone-browser
 refind
@@ -367,6 +382,7 @@ texlive-full
 texworks
 tlp
 tmux
+tor
 transmission
 transmission-cli
 transmission-gtk
@@ -375,10 +391,10 @@ ttf-mscorefonts-installer
 ubuntu-minimal
 ubuntu-standard
 ubuntu-touch-settings
+unityhub
 unrar
 unzip
 v4l-utils
-virtualbox-qt
 visualvm
 vivaldi-stable
 vlc

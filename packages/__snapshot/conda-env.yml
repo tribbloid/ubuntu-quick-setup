@@ -17,4 +17,5 @@ dependencies:
   - wheel
   - conda-verify
   - jupyter
+  - uv
 prefix: /home/shared/conda
