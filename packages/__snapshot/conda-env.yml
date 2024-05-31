@@ -9,7 +9,6 @@ dependencies:
   - pip
   - conda-build
   - poetry
-  - maven
   - conda-content-trust
   - setuptools
   - awscliv2
@@ -18,4 +17,5 @@ dependencies:
   - conda-verify
   - jupyter
   - uv
+  - maven
 prefix: /home/shared/conda

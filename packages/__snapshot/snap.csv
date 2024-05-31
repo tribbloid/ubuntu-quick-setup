@@ -11,6 +11,6 @@ gnome-3-38-2004     0+git.efb213a               143    latest/stable  canonical*
 gnome-42-2204       0+git.510a601               176    latest/stable  canonical**     -
 gtk-common-themes   0.1-81-g442e511             1535   latest/stable  canonical**     -
 mattermost-desktop  5.8.0                       754    latest/stable  snapcrafters*   -
-node                20.13.1                     8649   20/stable      iojs**          classic
+node                20.14.0                     8723   20/stable      iojs**          classic
 snap-store          41.3-77-g7dc86c8            1113   latest/stable  canonical**     -
 snapd               2.63                        21759  latest/stable  canonical**     snapd
