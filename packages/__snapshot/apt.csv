@@ -26,6 +26,7 @@ chrome-gnome-shell
 chromium-codecs-ffmpeg-extra
 chrony
 clang
+clementine
 cmake
 cmake-doc
 cmake-format
@@ -272,7 +273,6 @@ nvidia-cg-toolkit
 nvidia-cuda-toolkit
 nvidia-cudnn
 nvidia-driver-550
-obs-studio
 openjdk-11-doc
 openjdk-11-source
 openjdk-17-doc
@@ -284,7 +284,6 @@ openjdk-18-source
 openjdk-8-doc
 openjdk-8-jdk
 openjdk-8-source
-opera-stable
 packagekit
 packagekit-tools
 pandoc
