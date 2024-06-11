@@ -1,0 +1,205 @@
+   -                                                                                                                            -    \    |                                                                                                                         Name                                      Id                                         Version          Available Source
+-----------------------------------------------------------------------------------------------------------------------
+qBittorrent (Unofficial)                  11601JackSmeller.qBittorrentUnofficial_pj… 4.5.2.0                    
+Rufus                                     19453.net.Rufus_y8nh7bq2a8dtt              4.5.2180.0                 
+Inkscape                                  25415Inkscape.Inkscape_9waqn51p1ttv2       1.3.2.0                    
+FAF Client 2024.3.0                       2848-7798-9769-5013                        2024.3.0                   
+Canon Office Printer Utility              34791E63.CanonOfficePrinterUtility_6e5tt8… 12.7.0.0                   
+Visual Studio Community 2022              Microsoft.VisualStudio.2022.Community      17.10.1                    winget
+Joplin 2.14.22                            Joplin.Joplin                              2.14.22                    winget
+Dynamic Theme                             55888ChristopheLavalle.DynamicTheme_jdggx… 1.7.97.0                   
+Ditto Clipboard                           60145ScottBrogden.ditto-cp_n6b029mg40na2   3.24.246.0                 
+Biscuit 1.2.29                            Biscuit.Biscuit                            1.2.29                     winget
+Signal 7.11.1                             OpenWhisperSystems.Signal                  7.11.1                     winget
+MarkText 0.17.1                           MarkText.MarkText                          0.17.1                     winget
+Slack                                     91750D7E.Slack_8she8kybcnzg4               4.38.127.0                 
+Sonic Studio 3                            A-Volute.SonicStudio3_w2gh52qy24etm        3.16.21.0                  
+Armoury Crate                             ASUSAmbientHAL64_gsg7p0crx7n6a             1.0.0.2                    
+Adobe Acrobat Reader                      AdobeAcrobatReaderCoreApp_pc75e8sa7ep4e    23.0.0.0                   
+Intel® Graphics Control Panel             AppUp.IntelGraphicsControlPanel_8j3eq9eme… 3.3.0.0                    
+iCloud                                    AppleInc.iCloud_nzyj5cx40ttqa              15.0.215.0                 
+MyASUS                                    B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy     4.0.12.0                   
+ARMOURY CRATE                             B9ECED6F.ArmouryCrate_qmba6cd70vzyy        5.8.9.0                    
+GlideX                                    B9ECED6F.Glidex_qmba6cd70vzyy              3.2.7.0                    
+Blender                                   BlenderFoundation.Blender_ppwjx1n5r4v9t    4.1.1.0                    
+Brave                                     XP8C9QZMS2PC1T                             125.1.66.118               msstore
+Microsoft Clipchamp                       Clipchamp.Clipchamp_yxz26nhyzhsrt          3.1.10440.0                
+Termius                                   Crystalnix.Termius_0m0t0j9spf6x8           8.12.5.0                   
+Discord                                   Discord.Discord                            1.0.9040         1.0.9144  winget
+NetSpot                                   EtwokLLC.NetSpot_tz13j4er3ty1t             2.8.1.0                    
+GameFirst V                               GameFirst V 5.0.24.1                       5.0.24.1                   
+GitHub Desktop                            GitHub.GitHubDesktop                       3.4.1                      winget
+Git                                       Git.Git                                    2.45.2                     winget
+Google Play Games beta                    Google.PlayGames.Beta                      24.4.932.5                 winget
+Imou                                      Imou_en                                    2.6.0                      
+PyCharm Community                         JetBrains Toolbox (PyCharm-C) 5812432b-8b… 2024.1.3                   
+Rider                                     JetBrains Toolbox (Rider) 050ae2dc-a3f1-4… 2024.2 EAP2                
+Microsoft Edge                            Microsoft.Edge                             126.0.2592.49              winget
+Microsoft Edge Update                     Microsoft Edge Update                      1.3.187.41                 
+Microsoft Edge WebView2 Runtime           Microsoft.EdgeWebView2Runtime              125.0.2535.92              winget
+Cortana                                   Microsoft.549981C3F5F10_8wekyb3d8bbwe      4.2308.1005.0              
+Microsoft Defender                        Microsoft.6365217CE6EB4_8wekyb3d8bbwe      102.2403.21002.0           
+MSN Weather                               Microsoft.BingWeather_8wekyb3d8bbwe        4.53.61401.0               
+App Installer                             Microsoft.AppInstaller                     1.22.11261.0               winget
+Get Help                                  Microsoft.GetHelp_8wekyb3d8bbwe            10.2403.20861.0            
+Microsoft Tips                            Microsoft.Getstarted_8wekyb3d8bbwe         10.2312.1.0                
+HEIF Image Extensions                     Microsoft.HEIFImageExtension_8wekyb3d8bbwe 1.1.861.0                  
+HEVC Video Extensions from the Device Ma… Microsoft.HEVCVideoExtension_8wekyb3d8bbwe 2.1.1161.0                 
+English (United Kingdom) Local Experienc… Microsoft.LanguageExperiencePacken-GB_8we… 22621.44.229.0             
+Paint 3D                                  Microsoft.MSPaint_8wekyb3d8bbwe            1.0.74.0                   
+Windows Operator messages                 Microsoft.Messaging_8wekyb3d8bbwe          5.1901.61101.0             
+Microsoft Edge Beta                       Microsoft.MicrosoftEdge.Beta_8wekyb3d8bbwe 115.0.1901.183             
+Microsoft Edge                            Microsoft.MicrosoftEdge.Stable_8wekyb3d8b… 126.0.2592.49              
+Microsoft Sticky Notes                    Microsoft.MicrosoftStickyNotes_8wekyb3d8b… 4.0.6102.0                 
+Microsoft Store Developer CLI             9P53PC5S0PHJ                               0.1.33.0                   msstore
+Mixed Reality Portal                      Microsoft.MixedReality.Portal_8wekyb3d8bb… 2000.21051.1282…           
+Microsoft .Net Native Framework Package … Microsoft.NET.Native.Framework.1.3_8wekyb… 1.3.24211.0                
+Microsoft .Net Native Framework Package … Microsoft.NET.Native.Framework.1.7_8wekyb… 1.7.27413.0                
+Microsoft .Net Native Framework Package … Microsoft.NET.Native.Framework.2.1_8wekyb… 2.1.27427.0                
+Microsoft .Net Native Framework Package … Microsoft.NET.Native.Framework.2.2_8wekyb… 2.2.29512.0                
+Microsoft .Net Native Runtime Package 1.4 Microsoft.NET.Native.Runtime.1.4_8wekyb3d… 1.4.24201.0                
+Microsoft .Net Native Runtime Package 1.7 Microsoft.NET.Native.Runtime.1.7_8wekyb3d… 1.7.27422.0                
+Microsoft .Net Native Runtime Package 2.1 Microsoft.NET.Native.Runtime.2.1_8wekyb3d… 2.1.26424.0                
+Microsoft .Net Native Runtime Package 2.2 Microsoft.NET.Native.Runtime.2.2_8wekyb3d… 2.2.28604.0                
+Mobile Plans                              Microsoft.OneConnect_8wekyb3d8bbwe         5.2308.2294.0              
+OneDrive                                  Microsoft.OneDriveSync_8wekyb3d8bbwe       24101.519.10.0             
+Outlook for Windows                       Microsoft.OutlookForWindows_8wekyb3d8bbwe  1.2024.605.100             
+Paint                                     Microsoft.Paint_8wekyb3d8bbwe              11.2404.1014.0             
+Microsoft People                          Microsoft.People_8wekyb3d8bbwe             10.2202.100.0              
+Raw Image Extension                       Microsoft.RawImageExtension_8wekyb3d8bbwe  2.3.1221.0                 
+Snipping Tool                             Microsoft.ScreenSketch_8wekyb3d8bbwe       11.2404.40.0               
+Windows Security                          Microsoft.SecHealthUI_8wekyb3d8bbwe        1000.25992.9000…           
+Microsoft Engagement Framework            Microsoft.Services.Store.Engagement_8weky… 10.0.23012.0               
+Store Experience Host                     Microsoft.StorePurchaseApp_8wekyb3d8bbwe   22403.1401.1.0             
+Microsoft.UI.Xaml.2.0                     Microsoft.UI.Xaml.2.0_8wekyb3d8bbwe        2.1810.18004.0             
+Microsoft.UI.Xaml.2.1                     Microsoft.UI.Xaml.2.1_8wekyb3d8bbwe        2.11906.6001.0             
+Microsoft.UI.Xaml.2.3                     Microsoft.UI.Xaml.2.3_8wekyb3d8bbwe        2.32002.13001.0            
+Microsoft.UI.Xaml.2.4                     Microsoft.UI.Xaml.2.4_8wekyb3d8bbwe        2.42007.9001.0             
+Microsoft.UI.Xaml.2.5                     Microsoft.UI.Xaml.2.5_8wekyb3d8bbwe        2.52012.2002.0             
+Microsoft.UI.Xaml.2.6                     Microsoft.UI.Xaml.2.6_8wekyb3d8bbwe        2.62112.3002.0             
+Microsoft.UI.Xaml.2.7                     Microsoft.UI.Xaml.2.7                      7.2208.15002.0             winget
+Microsoft.UI.Xaml.2.8                     Microsoft.UI.Xaml.2.8                      8.2310.30001.0             winget
+Microsoft Visual C++ 2013 UWP Desktop Ru… Microsoft.VCLibs.120.00.UWPDesktop_8wekyb… 12.0.40653.0               
+Microsoft Visual C++ 2015 UWP Desktop Ru… Microsoft.VCLibs.Desktop.14                14.0.33728.0               winget
+Microsoft Visual C++ 2015 UWP Runtime Pa… Microsoft.VCLibs.140.00_8wekyb3d8bbwe      14.0.33519.0               
+VP9 Video Extensions                      Microsoft.VP9VideoExtensions_8wekyb3d8bbwe 1.1.451.0                  
+Web Media Extensions                      Microsoft.WebMediaExtensions_8wekyb3d8bbwe 1.1.1295.0                 
+Webp Image Extensions                     Microsoft.WebpImageExtension_8wekyb3d8bbwe 1.1.1221.0                 
+Windows App Runtime DDLM 4000.1049.117.0… Microsoft.WinAppRuntime.DDLM.4000.1049.11… 4000.1049.117.0            
+Windows App Runtime DDLM 4000.1049.117.0… Microsoft.WinAppRuntime.DDLM.4000.1049.11… 4000.1049.117.0            
+Windows App Runtime DDLM 5001.70.1338.0-… Microsoft.WinAppRuntime.DDLM.5001.70.1338… 5001.70.1338.0             
+Windows App Runtime DDLM 5001.70.1338.0-… Microsoft.WinAppRuntime.DDLM.5001.70.1338… 5001.70.1338.0             
+Dev Home GitHub Extension (Preview)       Microsoft.Windows.DevHomeGitHubExtension_… 0.1400.505.0               
+Dev Home (Preview)                        Microsoft.DevHome                          0.1401.505.0               winget
+Microsoft Photos                          Microsoft.Windows.Photos_8wekyb3d8bbwe     2024.11060.6017…           
+Windows Clock                             Microsoft.WindowsAlarms_8wekyb3d8bbwe      1.0.191.0                  
+WindowsAppRuntime.1.1                     Microsoft.WindowsAppRuntime.1.1_8wekyb3d8… 1005.616.1651.0            
+WindowsAppRuntime.1.2                     Microsoft.WindowsAppRuntime.1.2_8wekyb3d8… 2000.802.31.0              
+WindowsAppRuntime.1.3                     Microsoft.WindowsAppRuntime.1.3_8wekyb3d8… 3000.934.1904.0            
+WindowsAppRuntime.1.4                     Microsoft.WindowsAppRuntime.1.4_8wekyb3d8… 4000.1227.1637.0           
+WindowsAppRuntime.1.5                     Microsoft.WindowsAppRuntime.1.5_8wekyb3d8… 5001.159.55.0              
+Windows Calculator                        Microsoft.WindowsCalculator_8wekyb3d8bbwe  11.2405.2.0                
+Windows Camera                            Microsoft.WindowsCamera_8wekyb3d8bbwe      2024.2405.18.0             
+Feedback Hub                              Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe 1.2405.21481.0             
+Windows Maps                              Microsoft.WindowsMaps_8wekyb3d8bbwe        1.0.62.0                   
+Windows Notepad                           Microsoft.WindowsNotepad_8wekyb3d8bbwe     11.2404.10.0               
+Windows Sound Recorder                    Microsoft.WindowsSoundRecorder_8wekyb3d8b… 1.0.77.0                   
+Microsoft Store                           Microsoft.WindowsStore_8wekyb3d8bbwe       22405.1401.1.0             
+Windows Terminal                          Microsoft.WindowsTerminal                  1.20.11381.0               winget
+Windows Package Manager Source (winget)   Microsoft.Winget.Source_8wekyb3d8bbwe      2024.611.1957.58           
+Xbox TCUI                                 Microsoft.Xbox.TCUI_8wekyb3d8bbwe          1.24.10001.0               
+Xbox Console Companion                    Microsoft.XboxApp_8wekyb3d8bbwe            48.104.4001.0              
+Xbox Game Bar Plugin                      Microsoft.XboxGameOverlay_8wekyb3d8bbwe    1.54.4001.0                
+Game Bar                                  Microsoft.XboxGamingOverlay_8wekyb3d8bbwe  7.124.5142.0               
+Xbox Identity Provider                    Microsoft.XboxIdentityProvider_8wekyb3d8b… 12.113.31003.0             
+Xbox Game Speech Window                   Microsoft.XboxSpeechToTextOverlay_8wekyb3… 1.21.13002.0               
+Phone Link                                Microsoft.YourPhone_8wekyb3d8bbwe          1.24052.105.0              
+Windows Media Player                      Microsoft.ZuneMusic_8wekyb3d8bbwe          11.2405.8.0                
+Films & TV                                Microsoft.ZuneVideo_8wekyb3d8bbwe          10.23121.10121.0           
+Quick Assist                              MicrosoftCorporationII.QuickAssist_8wekyb… 2.0.30.0                   
+WinAppRuntime.Main.1.4                    MicrosoftCorporationII.WinAppRuntime.Main… 4000.1227.1637.0           
+WinAppRuntime.Main.1.5                    MicrosoftCorporationII.WinAppRuntime.Main… 5001.159.55.0              
+WinAppRuntime.Singleton                   MicrosoftCorporationII.WinAppRuntime.Sing… 5001.159.55.0              
+Windows Subsystem for Linux               MicrosoftCorporationII.WindowsSubsystemFo… 2.2.4.0                    
+Windows CoPilot MSIX Pack                 MicrosoftWindows.Client.CoPilot_cw5n1h2tx… 724.1301.930.5             
+Windows Web Experience Pack               MicrosoftWindows.Client.WebExperience_cw5… 524.13200.0.0              
+Cross Device Experience Host              MicrosoftWindows.CrossDevice_cw5n1h2txyewy 1.24052.57.0               
+Mozilla Firefox                           Mozilla.Firefox_n80bbvh6b1yt2              127.0.0.0                  
+NVIDIA Control Panel                      NVIDIACorp.NVIDIAControlPanel_56jybvy8sck… 8.1.966.0                  
+OBS Studio                                OBSProject.OBSStudio                       30.1.2                     winget
+ONLYOFFICE Desktop Editors 8.0 (x64)      ONLYOFFICE.DesktopEditors                  8.0.1                      winget
+Microsoft OneDrive                        Microsoft.OneDrive                         24.101.0519.0010           winget
+Rainmeter                                 Rainmeter.Rainmeter                        4.5.18                     winget
+Realtek Audio Control                     RealtekSemiconductorCorp.RealtekAudioCont… 1.9.215.0                  
+SelfCAD                                   SelfCAD-Editor                             1.32.0                     
+SOLIDWORKS 2024 SP0.1                     SolidWorks Installation Manager 20240-400… 32.0.1.4                   
+Steam                                     Valve.Steam                                2.10.91.91                 winget
+SteamVR                                   Steam App 250820                           Unknown                    
+Supreme Commander: Forged Alliance        Steam App 9420                             Unknown                    
+SumatraPDF                                SumatraPDF.SumatraPDF                      3.5.2                      winget
+TeX Live 2022                             TeXLive2022                                2022                       
+WeChat For Windows                        TencentWeChatLimited.forWindows10_sdtnhv1… 2.6.3.0                    
+JetBrains Toolbox                         JetBrains.Toolbox                          2.3.2.31487                winget
+Unity Hub 3.8.0                           Unity.UnityHub                             3.8.0                      winget
+VLC media player                          VideoLAN.VLC                               3.0.20                     winget
+WinRAR 7.01 (64-bit)                      RARLab.WinRAR                              7.01.0                     winget
+WinRAR                                    WinRAR.ShellExtension_s4jet1zx4n14a        1.0.0.2                    
+Authy Desktop                             Twilio.Authy                               3.0.0                      winget
+Mendeley Reference Manager 2.116.2        Elsevier.MendeleyReferenceManager          2.116.2                    winget
+Chatbox 1.3.12                            Bin-Huang.Chatbox                          1.3.12                     winget
+Mail and Calendar                         microsoft.windowscommunicationsapps_8weky… 16005.14326.219…           
+ARMOURY CRATE Service                     {01378DC3-088F-4F55-AAFA-DC6A9CCA292A}     5.8.9                      
+GameSDK Service                           {021d69c3-d686-4a94-8fb5-fd1ee782fb14}     1.0.5.0                    
+Microsoft Visual C++ 2013 Redistributabl… Microsoft.VCRedist.2013.x64                12.0.40664.0               winget
+GitHub CLI                                GitHub.cli                                 2.50.0                     winget
+ASUS HID Control Service                  {0F2EECD1-9CCE-4907-8D9A-11629B0608CE}     1.2.0                      
+ASUS Promotion                            {10FE8E2F-7BDD-4430-8D63-3D3BA3F708D9}     1.0.0                      
+Microsoft .NET SDK 8.0.300 (x64) from Vi… {13521D8E-D3F7-4EC0-9C01-9BE446A061DC}     8.3.24.22415               
+Microsoft Visual C++ 2010  x64 Redistrib… Microsoft.VCRedist.2010.x64                10.0.40219                 winget
+AURA lighting effect add-on               {1E2EA04B-FCA7-457E-B6F4-F33E1858E859}     0.0.43                     
+Microsoft Visual Studio Code Insiders (U… Microsoft.VisualStudioCode.Insiders        1.91.0                     winget
+Git LFS version 3.5.1                     GitHub.GitLFS                              3.5.1                      winget
+Microsoft .NET Runtime - 6.0.31 (x64)     Microsoft.DotNet.Runtime.6                 6.0.31                     winget
+ROG Live Service                          {2D87BFB6-C184-4A59-9BBE-3E20CE797631}     2.3.16.0                   
+ASUS Framework Service                    {339A6383-7862-46DA-8A9D-E84180EF9424}     3.1.0.2                    
+Microsoft Visual C++ 2012 Redistributabl… Microsoft.VCRedist.2012.x86                11.0.61030.0               winget
+WebAdvisor by McAfee                      {35ED3F83-4BDC-4c44-8EC6-6A8301C7413A}     4.1.1.586                  
+Microsoft Visual C++ 2015-2022 Redistrib… Microsoft.VCRedist.2015+.x86               14.40.33810.0              winget
+Bonjour                                   Apple.Bonjour                              3.1.0.1                    winget
+vs_CoreEditorFonts                        {56FB5923-1A95-4D55-BE78-CD42B50E67AD}     17.6.33605                 
+Epic Online Services                      {57A956AB-4BCC-45C6-9B40-957E4E125568}     2.0.44.0                   
+Microsoft System CLR Types for SQL Serve… Microsoft.CLRTypesSQLServer.2019           15.0.2000.5                winget
+Meld                                      Meld.Meld                                  3.22.2                     winget
+Microsoft Visual C++ 2015-2022 Redistrib… Microsoft.VCRedist.2015+.x64               14.40.33810.0              winget
+AURA Service                              {5bf96be1-0089-49f7-a574-1ed6dc7dc1b0}     3.07.43                    
+Microsoft Visual Studio Installer         {6F320B93-EE3C-4826-85E0-ADF79F8D4C61}     3.9.2180.11832             
+Microsoft Visual Studio Code (User)       Microsoft.VisualStudioCode                 1.90.0                     winget
+Dassault Systemes Software VC10 Prerequi… {7C534131-6431-4ECB-9069-525CB5F75CC8}     10.1.1                     
+RefreshRateService                        {7E5E84CB-B190-4658-A4DC-166779C329D1}     2.1.0                      
+ASUS_FRQ_Control                          {8714A8D1-0F08-4681-9DF6-A8C4607A58B4}     1.1.1                      
+WingetUI                                  {889610CC-4337-4BDB-AC3B-4F21806C0BDE}_is1 3.0.2                      
+Microsoft Windows Desktop Runtime - 8.0.… Microsoft.DotNet.DesktopRuntime.8          8.0.6                      winget
+PIXPRO_360_VR_Suite_x64                   {95F7D756-8B1D-42ED-8E4C-43C3F9785FBB}     1.8.1                      
+Microsoft Visual C++ 2013 Redistributabl… Microsoft.VCRedist.2013.x86                12.0.40664.0               winget
+GlideX Service Installer                  {A06BDD76-D95C-4AC7-A0DA-73971F366D9B}     3.2.6.0                    
+NVIDIA Graphics Driver 555.99             {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Di… 555.99                     
+NVIDIA GeForce Experience 3.28.0.412      Nvidia.GeForceExperience                   3.28.0.412                 winget
+NVIDIA PhysX System Software 9.23.1019    Nvidia.PhysX                               9.23.1019                  winget
+NVIDIA FrameView SDK 1.3.8513.32290073    {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Fr… 1.3.8513.322900…           
+NVIDIA HD Audio Driver 1.4.0.1            {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_HD… 1.4.0.1                    
+NVIDIA USBC Driver 1.52.831.832           {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_US… 1.52.831.832               
+Epic Games Launcher                       EpicGames.EpicGamesLauncher                1.3.93.0                   winget
+AURA lighting effect add-on x64           {C5A4A164-4428-4931-B728-96EEF0FA3C44}     0.0.43                     
+Microsoft Update Health Tools             {C6FD611E-7EFE-488C-A0E0-974C09EF6473}     5.72.0.0                   
+Dassault Systemes Software VC11 Prerequi… {C857169D-3F1A-4530-99A0-CAE966CE267E}     11.0.1                     
+ASUS MultiAntenna Service                 {D90BF0DC-36BD-438F-A7CC-2C63C0A3A3FA}     2.0.4                      
+JetBrains ETW Host Service (x64)          {DC47C5A3-748F-46E5-93A4-2F71DD77117C}     16.42.0                    
+CEF for SOLIDWORKS Applications           {DE682EDE-FF81-4489-BD9C-310FB4438522}     114.2.32111.0              
+gsudo v2.5.1                              gerardog.gsudo                             2.5.1                      winget
+iCloud Outlook                            {F054257C-600A-4918-B730-F6829E491781}     13.0.0.201                 
+Microsoft Visual C++ 2010  x86 Redistrib… Microsoft.VCRedist.2010.x86                10.0.40219                 winget
+Amazon Corretto (x64)                     Amazon.Corretto.17                         17.0.11.9                  winget
+Windows Subsystem for Linux Update        {F8474A47-8B5D-4466-ACE3-78EAB3BF21A8}     5.10.102.1                 
+Microsoft Visual Studio Tools for Applic… {ab213ab7-4792-4c6f-a3fa-8485d06c3475}     14.0.23829                 
+Microsoft Visual C++ 2012 Redistributabl… Microsoft.VCRedist.2012.x64                11.0.61030.0               winget
+Microsoft Visual Studio Tools for Applic… {f3fbabb4-bcfb-45eb-8fff-9b784fd68c38}     16.0.31110                 

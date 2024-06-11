@@ -1,0 +1,1 @@
+winget list --disable-interactivity > ".\__snapshot\winget.txt"
