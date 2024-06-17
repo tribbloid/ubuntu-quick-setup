@@ -321,9 +321,6 @@ openjdk-17-source
 openjdk-21-doc
 openjdk-21-jdk
 openjdk-21-source
-openjdk-8-doc
-openjdk-8-jdk
-openjdk-8-source
 packagekit
 packagekit-tools
 pandoc
