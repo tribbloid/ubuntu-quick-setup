@@ -57,6 +57,7 @@ dmz-cursor-theme
 dotnet-sdk-6.0
 dotnet6
 elementary-icon-theme
+exfatprogs
 fancontrol
 fcitx
 filezilla
@@ -108,7 +109,6 @@ gist
 git-lfs
 github-desktop
 gnome-backgrounds
-gnome-characters
 gnome-clocks
 gnome-icon-theme-nuovo
 gnome-icon-theme-suede
@@ -119,8 +119,6 @@ gnome-mines
 gnome-packagekit
 gnome-photos
 gnome-remote-desktop
-gnome-screensaver
-gnome-screensaver-flags
 gnome-screenshot
 gnome-shell-extension-cosmic-workspaces
 gnome-shell-extension-gpaste
@@ -399,6 +397,7 @@ vlc-plugin-fluidsynth
 vlc-plugin-jack
 vlc-plugin-svg
 vulkan-tools
+warp-terminal
 winbind
 wireplumber
 wireshark-qt
@@ -407,5 +406,5 @@ wps-fonts
 xdotool
 xfce4-sensors-plugin
 xfce4-taskmanager
-xscreensaver-screensaver-dizzy
+xscreensaver
 zlib1g-dev
