@@ -334,6 +334,7 @@ pipewire-pulse
 pkgconf
 plymouth-theme-pop-text
 pm-utils
+podman-docker
 pop-container-interactive
 pop-container-runtime
 pop-de-gnome

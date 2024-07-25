@@ -9,6 +9,7 @@ Martin Abente Lahaye	com.github.tchx84.Flatseal	2.2.0	stable	system
 Spotify	com.spotify.Client	1.2.37.701.ge66eb7bc	stable	system
 AppImage Pool	io.github.prateekmedia.appimagepool	5.1.0	stable	user
 GDM Settings	io.github.realmazharhussain.GdmSettings	4.4	stable	system
+Podman Desktop	io.podman_desktop.PodmanDesktop	1.11.1	stable	system
 Typora	io.typora.Typora	1.9.3	stable	user
 Obsidian	md.obsidian.Obsidian	1.6.7	stable	system
 Joplin	net.cozic.joplin_desktop	3.0.13	stable	system
