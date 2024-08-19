@@ -14,6 +14,7 @@ apt-clone clone __snapshot/latest > log/apt-report_$DATE.log
 apt-mark showmanual > __snapshot/apt.csv
 
 conda env export -n root --from-history --no-builds > __snapshot/conda-env.yml
+conda env export -n root > __snapshot/conda-env-full.yml
 
 flatpak list --app > __snapshot/flatpak.csv
 
