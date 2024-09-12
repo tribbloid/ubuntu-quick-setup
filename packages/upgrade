@@ -13,3 +13,5 @@ flatpak update -y
 flatpak uninstall --unused -y
 
 conda update --all -y
+coursier update # scala
+elan update # LEAN prover
