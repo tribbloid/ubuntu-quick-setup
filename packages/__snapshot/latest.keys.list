@@ -8,7 +8,7 @@ uid           [ unknown] https://packagecloud.io/AtomEditor/atom (https://packag
 uid           [ unknown] https://packagecloud.io/slacktechnologies/slack (https://packagecloud.io/docs#gpg_signing) <support@packagecloud.io>
 uid           [ unknown] Abner Lee <abner@typora.io>
 uid           [ unknown] Debian packager (A key for signing Termius releases for Debian) <admin@termius.com>
-uid           [ unknown] Insynchq Inc <services@insynchq.com>
+uid           [ expired] Insynchq Inc <services@insynchq.com>
 uid           [ unknown] Launchpad PPA for Linux Uprising
 uid           [ unknown] Canonical Archive Automatic Signing Key <ftpmaster@canonical.com>
 uid           [ unknown] Canonical OEM Archive Automatic Signing Key (2020) <commercial-engineering@canonical.com>

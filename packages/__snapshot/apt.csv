@@ -17,7 +17,6 @@ appimagelauncher
 apt-clone
 apt-transport-https
 aptitude
-atom
 base-passwd
 bash-completion
 blueman
@@ -54,8 +53,7 @@ dash
 dconf-editor
 diffutils
 dmz-cursor-theme
-dotnet-sdk-6.0
-dotnet6
+dotnet8
 elementary-icon-theme
 exfatprogs
 fancontrol

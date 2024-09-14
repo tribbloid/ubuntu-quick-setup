@@ -1,9 +1,10 @@
 Damask	app.drey.Damask	0.2.2	stable	system
-Bambu Studio	com.bambulab.BambuStudio	1.9.3 Public Official	stable	system
-Brave	com.brave.Browser	1.68.141	stable	system
-Discord	com.discordapp.Discord	0.0.64	stable	user
+Bambu Studio	com.bambulab.BambuStudio	1.9.5 Public Official	stable	system
+Brave	com.brave.Browser	1.69.168	stable	system
+Discord	com.discordapp.Discord	0.0.68	stable	user
+GitButler	com.gitbutler.gitbutler	0.12.25	stable	system
 TLP-UI	com.github.d4nj1.tlpui	1.6.5	stable	system
-Touché	com.github.joseexposito.touche	2.0.12	stable	system
+Touché	com.github.joseexposito.touche	2.0.14	stable	system
 MarkText	com.github.marktext.marktext	0.17.1	stable	user
 Martin Abente Lahaye	com.github.tchx84.Flatseal	2.2.0	stable	system
 Spotify	com.spotify.Client	1.2.42.290.g242057a2	stable	system
@@ -12,7 +13,7 @@ GDM Settings	io.github.realmazharhussain.GdmSettings	4.4	stable	system
 Podman Desktop	io.podman_desktop.PodmanDesktop	1.12.0	stable	system
 Typora	io.typora.Typora	1.9.3	stable	user
 Obsidian	md.obsidian.Obsidian	1.6.7	stable	system
-Joplin	net.cozic.joplin_desktop	3.0.13	stable	system
+Joplin	net.cozic.joplin_desktop	3.0.15	stable	system
 Lutris Team	net.lutris.Lutris	0.5.17	stable	user
 Blender	org.blender.Blender	4.2.0	stable	system
 Freeplane	org.freeplane.App	1.11.6	stable	system
@@ -22,8 +23,9 @@ Characters	org.gnome.Characters	46.0	stable	system
 Contacts	org.gnome.Contacts	46.0	stable	system
 Web	org.gnome.Epiphany	46.3	stable	system
 Geary	org.gnome.Geary	46.0	stable	system
+QGroundControl	org.mavlink.qgroundcontrol	v4.3.0	stable	system
 ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	8.1.1	stable	system
-OpenShot Studios, LLC	org.openshot.OpenShot	3.1.1	stable	system
-Shotcut	org.shotcut.Shotcut	24.06.26	stable	system
-Signal Desktop	org.signal.Signal	7.20.1	stable	user
-Kandra Labs, Inc.	org.zulip.Zulip	5.11.0	stable	user
+OpenShot Video Editor	org.openshot.OpenShot	3.2.1	stable	system
+Shotcut	org.shotcut.Shotcut	24.08.29	stable	system
+Signal Desktop	org.signal.Signal	7.24.1	stable	user
+Zulip	org.zulip.Zulip	5.11.1	stable	user
