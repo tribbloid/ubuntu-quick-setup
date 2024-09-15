@@ -157,6 +157,9 @@ temperature-unit='centigrade'
 active-plugins=['screenshot', 'autoload-subtitles', 'rotation', 'save-file', 'vimeo', 'variable-rate', 'screensaver', 'mpris', 'apple-trailers', 'recent', 'movie-properties', 'open-directory', 'skipto']
 subtitle-encoding='UTF-8'
 
+[org/gnome/Weather]
+locations=[<(uint32 2, <('Toronto Island Airport', 'CYTZ', false, [(0.76154532446909495, -1.3857914260834978)], @a(dd) [])>)>]
+
 [org/gnome/baobab/ui]
 window-size=(960, 600)
 window-state=43908
@@ -178,7 +181,7 @@ size=(1080, 660)
 world-clocks=[{'location': <(uint32 2, <('Mountain View', 'KNUQ', true, [(0.65285494530114807, -2.1301404228584202)], [(0.65250970172181111, -2.1307651634641718)])>)>}, {'location': <(uint32 2, <('Kyiv', 'UKKK', true, [(0.87964594300514198, 0.53348898051069749)], [(0.88022771360470919, 0.53261631588470038)])>)>}, {'location': <(uint32 2, <('Shenzhen', 'ZGSZ', true, [(0.39357174632472131, 1.9914206765255298)], [(0.39328085229829141, 1.9920024471250972)])>)>}]
 
 [org/gnome/clocks/state/window]
-panel-id='stopwatch'
+panel-id='world'
 size=(870, 690)
 state=87168
 
@@ -253,7 +256,7 @@ show-battery-percentage=false
 text-scaling-factor=1.0
 
 [org/gnome/desktop/notifications]
-application-children=['gnome-network-panel', 'firefox', 'io-elementary-appcenter', 'jetbrains-toolbox', 'org-gnome-gedit', 'google-chrome', 'gnome-power-panel', 'snap-store-snap-store', 'org-kde-latte-dock', 'microsoft-edge', 'org-gnome-geary', 'com-discordapp-discord', 'org-gnome-shell-extensions-gsconnect', 'com-vmware-horizonclient', 'ca-desrt-dconf-editor', 'org-gnome-tweaks', 'io-snapcraft-sessionagent', 'steam', 'jetbrains-pycharm-ce-b2f3bc1c-0da8-4bd5-9d33-d7193634af91', 'jetbrains-idea-fa06cc08-2b29-4bfd-96eb-00633b48bc91', 'appimagekit-cc42896a26616d96e574dc5260a62777-biscuit', 'org-gimp-gimp', 'net-lutris-lutris', 'org-gnome-evolution-alarm-notify', 'gnome-printers-panel', 'joplin-desktop-joplin-desktop', 'synaptic', 'jetbrains-idea-ce-b24dab9c-dda9-46fb-998d-b5e925c7cc50', 'org-clementine-player-clementine', 'docker-desktop', 'org-gnome-nautilus', 'com-unity-unityhub', 'blueman-manager', 'org-rnd2-cpupower-gui', 'com-axosoft-gitkraken-urlhandler', 'appimagelauncher', 'org-gnome-shell-extensions', 'code-insiders', 'appimagekit-fc8b24b92d5b98573acfa8bda7b26f72-mendeley-reference-manager', 'org-gnome-meld', 'org-gnome-evince', 'org-signal-signal', 'org-gnome-shell-portalhelper', 'com-mattjakeman-extensionmanager', 'appimagekit-c5dfaf1714681f37896d0d308ed5fb72-mendeley-reference-manager', 'code', 'authy-authy', 'org-zulip-zulip', 'org-gnome-evolution', 'jetbrains-rider-201b4843-f633-49e1-82a1-5a8dc6e07575', 'jetbrains-clion-nova-bda899c9-a897-442e-bd7e-5ec6dcb85d3e', 'nemo', 'appimagekit-0de52048bd01f123089071babcce0b79-cursor', 'com-github-donadigo-eddy', 'org-gnome-baobab', 'appimagekit-37c8de3aebbf10a3a8fdb4aee54024f2-mendeley-reference-manager', 'jetbrains-rider-c4782e55-ad66-471c-937a-70591c1d5d4d', 'chrome-cinhimbnkkaeohfgghhklpknlkffjgod-default', 'chromium-chromium', 'org-gnome-fileroller', 'appimagekit-14da9b6b7b15f49ae096fd2fbe573b98-mendeley-reference-manager', 'jetbrains-rustrover-f3099fd7-2e8b-4e01-831f-1cc746e5c5bd', 'msedge-jckaldkomadaenmmgladeopgmfbahfjm-default', 'vlc', 'gnome-control-center', 'jetbrains-fleet-cf30dda3-1a74-4c5f-9a12-1d5cfe07b356', 'org-gnome-diskutility', 'obsidian-obsidian', 'appimagekit-665c29ab8b28a4ed1bc02b8d84aa1189-xyz-chatboxapp-app', 'steam-steam', 'dropbox', 'clementine', 'org-gnome-calendar', 'io-github-aandrew-me-ytdn', 'appimagekit-f2ac58dcdb49bc5755e9ea0a4196b3bd-mendeley-reference-manager', 'unityhub', 'com-spotify-client', 'com-brave-browser', 'net-cozic-joplin-desktop', 'mountable-volume-google-drive-rhwing-gmail-com-', 'appimagekit-ac0a83847f0519328110f82ee9a08ceb-mendeley-reference-manager', 'com-github-phase1geo-minder', 'org-freeplane-app', 'msedge-fmpnliohjhemenmnlpbfagaolkdacoja-default', 'mountable-volume-google-drive-peng-cheng-acyclic-ai-', 'org-gnome-extensions-desktop', 'dev-warp-warp', 'appimagekit-751dc664fb3556e0668bd275ac51fefe-mendeley-reference-manager', 'md-obsidian-obsidian', 'com-bambulab-bambustudio', 'com-gitbutler-gitbutler']
+application-children=['gnome-network-panel', 'firefox', 'io-elementary-appcenter', 'jetbrains-toolbox', 'org-gnome-gedit', 'google-chrome', 'gnome-power-panel', 'snap-store-snap-store', 'org-kde-latte-dock', 'microsoft-edge', 'org-gnome-geary', 'com-discordapp-discord', 'org-gnome-shell-extensions-gsconnect', 'com-vmware-horizonclient', 'ca-desrt-dconf-editor', 'org-gnome-tweaks', 'io-snapcraft-sessionagent', 'steam', 'jetbrains-pycharm-ce-b2f3bc1c-0da8-4bd5-9d33-d7193634af91', 'jetbrains-idea-fa06cc08-2b29-4bfd-96eb-00633b48bc91', 'appimagekit-cc42896a26616d96e574dc5260a62777-biscuit', 'org-gimp-gimp', 'net-lutris-lutris', 'org-gnome-evolution-alarm-notify', 'gnome-printers-panel', 'joplin-desktop-joplin-desktop', 'synaptic', 'jetbrains-idea-ce-b24dab9c-dda9-46fb-998d-b5e925c7cc50', 'org-clementine-player-clementine', 'docker-desktop', 'org-gnome-nautilus', 'com-unity-unityhub', 'blueman-manager', 'org-rnd2-cpupower-gui', 'com-axosoft-gitkraken-urlhandler', 'appimagelauncher', 'org-gnome-shell-extensions', 'code-insiders', 'appimagekit-fc8b24b92d5b98573acfa8bda7b26f72-mendeley-reference-manager', 'org-gnome-meld', 'org-gnome-evince', 'org-signal-signal', 'org-gnome-shell-portalhelper', 'com-mattjakeman-extensionmanager', 'appimagekit-c5dfaf1714681f37896d0d308ed5fb72-mendeley-reference-manager', 'code', 'authy-authy', 'org-zulip-zulip', 'org-gnome-evolution', 'jetbrains-rider-201b4843-f633-49e1-82a1-5a8dc6e07575', 'jetbrains-clion-nova-bda899c9-a897-442e-bd7e-5ec6dcb85d3e', 'nemo', 'appimagekit-0de52048bd01f123089071babcce0b79-cursor', 'com-github-donadigo-eddy', 'org-gnome-baobab', 'appimagekit-37c8de3aebbf10a3a8fdb4aee54024f2-mendeley-reference-manager', 'jetbrains-rider-c4782e55-ad66-471c-937a-70591c1d5d4d', 'chrome-cinhimbnkkaeohfgghhklpknlkffjgod-default', 'chromium-chromium', 'org-gnome-fileroller', 'appimagekit-14da9b6b7b15f49ae096fd2fbe573b98-mendeley-reference-manager', 'jetbrains-rustrover-f3099fd7-2e8b-4e01-831f-1cc746e5c5bd', 'msedge-jckaldkomadaenmmgladeopgmfbahfjm-default', 'vlc', 'gnome-control-center', 'jetbrains-fleet-cf30dda3-1a74-4c5f-9a12-1d5cfe07b356', 'org-gnome-diskutility', 'obsidian-obsidian', 'appimagekit-665c29ab8b28a4ed1bc02b8d84aa1189-xyz-chatboxapp-app', 'steam-steam', 'dropbox', 'clementine', 'org-gnome-calendar', 'io-github-aandrew-me-ytdn', 'appimagekit-f2ac58dcdb49bc5755e9ea0a4196b3bd-mendeley-reference-manager', 'unityhub', 'com-spotify-client', 'com-brave-browser', 'net-cozic-joplin-desktop', 'mountable-volume-google-drive-rhwing-gmail-com-', 'appimagekit-ac0a83847f0519328110f82ee9a08ceb-mendeley-reference-manager', 'com-github-phase1geo-minder', 'org-freeplane-app', 'msedge-fmpnliohjhemenmnlpbfagaolkdacoja-default', 'mountable-volume-google-drive-peng-cheng-acyclic-ai-', 'org-gnome-extensions-desktop', 'dev-warp-warp', 'appimagekit-751dc664fb3556e0668bd275ac51fefe-mendeley-reference-manager', 'md-obsidian-obsidian', 'com-bambulab-bambustudio', 'com-gitbutler-gitbutler', 'jetbrains-idea-ce-eda6878a-e9ae-456a-829e-2efba9ce19ec']
 show-in-lock-screen=true
 
 [org/gnome/desktop/notifications/application/appimagekit-0de52048bd01f123089071babcce0b79-cursor]
@@ -390,6 +393,9 @@ application-id='jetbrains-fleet-cf30dda3-1a74-4c5f-9a12-1d5cfe07b356.desktop'
 
 [org/gnome/desktop/notifications/application/jetbrains-idea-ce-b24dab9c-dda9-46fb-998d-b5e925c7cc50]
 application-id='jetbrains-idea-ce-b24dab9c-dda9-46fb-998d-b5e925c7cc50.desktop'
+
+[org/gnome/desktop/notifications/application/jetbrains-idea-ce-eda6878a-e9ae-456a-829e-2efba9ce19ec]
+application-id='jetbrains-idea-ce-eda6878a-e9ae-456a-829e-2efba9ce19ec.desktop'
 
 [org/gnome/desktop/notifications/application/jetbrains-idea-fa06cc08-2b29-4bfd-96eb-00633b48bc91]
 application-id='jetbrains-idea-fa06cc08-2b29-4bfd-96eb-00633b48bc91.desktop'
@@ -596,7 +602,7 @@ show-sidebar=false
 sidebar-page='thumbnails'
 sidebar-size=246
 sizing-mode='fit-width'
-window-ratio=(1.2638888888888888, 0.75802469135802464)
+window-ratio=(1.2633744855967077, 0.7583333333333333)
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -607,6 +613,7 @@ reminders-past=['828dfc09b1b7c17931743e3129e7c41bcd3e0359\nb54e86d84dabcd3a9d143
 
 [org/gnome/evolution]
 default-calendar='d117448ebdd8e4356087600d6711cef4afd95196'
+default-task-list='e9b3eac298ce8b00611d69e5dac98cccb58e898f'
 version='3.44.4'
 
 [org/gnome/evolution/bogofilter]
@@ -679,7 +686,7 @@ active-plugins=['openlinks', 'modelines', 'docinfo', 'filebrowser', 'spell', 'so
 [org/gnome/gedit/plugins/filebrowser]
 root='file:///'
 tree-view=true
-virtual-root='file:///home/peng/Downloads'
+virtual-root='file:///home/peng/git-release/__COMPILER/lisa/lisa-utils/src/test/scala/lisa'
 
 [org/gnome/gedit/preferences/ui]
 show-tabs-mode='auto'
@@ -824,7 +831,7 @@ enabled-connections=['422fbcee-256f-4e8b-97a6-a2e5c909e56d']
 disable-user-extensions=false
 disabled-extensions=['flypie@schneegans.github.com', 'auto-move-windows@gnome-shell-extensions.gcampax.github.com', 'smart-auto-move@khimaros.com']
 enabled-extensions=['ding@rastersoft.com', 'pop-cosmic@system76.com', 'pop-shell@system76.com', 'system76-power@system76.com', 'ubuntu-appindicators@ubuntu.com', 'cosmic-dock@system76.com', 'cosmic-workspaces@system76.com', 'popx11gestures@system76.com', 'GPaste@gnome-shell-extensions.gnome.org', 'gsconnect@andyholmes.github.io', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'system-monitor-next@paradoxxx.zero.gmail.com', 'show-desktop-applet@valent-in', 'openweather-extension@jenslody.de', 'just-perfection-desktop@just-perfection', 'gtktitlebar@velitasali.github.io', 'drive-menu@gnome-shell-extensions.gcampax.github.com', 'gnome-compact-top-bar@metehan-arslan.github.io', 'noannoyance-fork@vrba.dev']
-favorite-apps=['pop-cosmic-launcher.desktop', 'pop-cosmic-workspaces.desktop', 'pop-cosmic-applications.desktop', 'io.elementary.appcenter.desktop', 'com.brave.Browser.desktop', 'google-chrome.desktop', 'firefox.desktop', 'org.gnome.Geary.desktop', 'appimagekit_cc42896a26616d96e574dc5260a62777-biscuit.desktop', 'com.discordapp.Discord.desktop', 'nemo.desktop', 'md.obsidian.Obsidian.desktop', 'code-insiders.desktop', 'jetbrains-idea-fa06cc08-2b29-4bfd-96eb-00633b48bc91.desktop', 'jetbrains-idea-ce-b24dab9c-dda9-46fb-998d-b5e925c7cc50.desktop', 'appimagekit_0de52048bd01f123089071babcce0b79-cursor.desktop', 'jetbrains-rustrover-f3099fd7-2e8b-4e01-831f-1cc746e5c5bd.desktop', 'msedge-fmpnliohjhemenmnlpbfagaolkdacoja-Default.desktop', 'org.gnome.Terminal.desktop']
+favorite-apps=['pop-cosmic-launcher.desktop', 'pop-cosmic-workspaces.desktop', 'pop-cosmic-applications.desktop', 'io.elementary.appcenter.desktop', 'com.brave.Browser.desktop', 'google-chrome.desktop', 'firefox.desktop', 'org.gnome.Geary.desktop', 'appimagekit_cc42896a26616d96e574dc5260a62777-biscuit.desktop', 'com.discordapp.Discord.desktop', 'nemo.desktop', 'md.obsidian.Obsidian.desktop', 'code-insiders.desktop', 'jetbrains-idea-fa06cc08-2b29-4bfd-96eb-00633b48bc91.desktop', 'jetbrains-idea-ce-eda6878a-e9ae-456a-829e-2efba9ce19ec.desktop', 'appimagekit_0de52048bd01f123089071babcce0b79-cursor.desktop', 'jetbrains-rustrover-f3099fd7-2e8b-4e01-831f-1cc746e5c5bd.desktop', 'msedge-fmpnliohjhemenmnlpbfagaolkdacoja-Default.desktop', 'org.gnome.Terminal.desktop']
 had-bluetooth-devices-setup=true
 welcome-dialog-last-shown-version='42.5'
 
@@ -966,7 +973,7 @@ enable-ignore-list=false
 
 [org/gnome/shell/extensions/openweather]
 days-forecast=5
-delay-ext-init=5
+delay-ext-init=30
 expand-forecast=true
 position-in-panel='left'
 position-index=15
@@ -1051,7 +1058,7 @@ focus-change-on-pointer-rest=false
 
 [org/gnome/shell/weather]
 automatic-location=true
-locations=@av []
+locations=[<(uint32 2, <('Toronto Island Airport', 'CYTZ', false, [(0.76154532446909495, -1.3857914260834978)], @a(dd) [])>)>]
 
 [org/gnome/shell/world-clocks]
 locations=[<(uint32 2, <('Mountain View', 'KNUQ', true, [(0.65285494530114807, -2.1301404228584202)], [(0.65250970172181111, -2.1307651634641718)])>)>, <(uint32 2, <('Kyiv', 'UKKK', true, [(0.87964594300514198, 0.53348898051069749)], [(0.88022771360470919, 0.53261631588470038)])>)>, <(uint32 2, <('Shenzhen', 'ZGSZ', true, [(0.39357174632472131, 1.9914206765255298)], [(0.39328085229829141, 1.9920024471250972)])>)>]
@@ -1069,16 +1076,23 @@ background-transparency-percent=13
 use-theme-transparency=false
 use-transparent-background=true
 
+[org/gnome/todo]
+default-provider='google@account_1714685442_0'
+view='grid'
+window-maximized=false
+window-position=[14, 17]
+window-size=[1880, 1088]
+
 [org/gtk/gtk4/settings/file-chooser]
 date-format='regular'
-location-mode='filename-entry'
+location-mode='path-bar'
 show-hidden=true
 show-size-column=true
 show-type-column=true
 sidebar-width=162
 sort-column='name'
 sort-directories-first=false
-sort-order='ascending'
+sort-order='descending'
 type-format='category'
 window-size=(1097, 821)
 
@@ -1120,7 +1134,7 @@ show-show-thumbnails-toolbar=true
 search-visible-columns=['name', 'where', 'date_modified', 'size', 'owner', 'group', 'octal_permissions']
 
 [org/nemo/window-state]
-geometry='960x563+747+323'
+geometry='960x563+50+75'
 maximized=true
 side-pane-view='places'
 sidebar-bookmark-breakpoint=5

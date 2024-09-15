@@ -1,0 +1,10 @@
+[/]
+days-forecast=5
+delay-ext-init=30
+expand-forecast=true
+position-in-panel='left'
+position-index=15
+refresh-interval-forecast=3600
+show-comment-in-panel=false
+use-default-owm-key=true
+wind-direction=true
