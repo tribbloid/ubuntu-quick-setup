@@ -26,6 +26,6 @@ Geary	org.gnome.Geary	46.0	stable	system
 QGroundControl	org.mavlink.qgroundcontrol	v4.3.0	stable	system
 ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	8.1.1	stable	system
 OpenShot Video Editor	org.openshot.OpenShot	3.2.1	stable	system
-Shotcut	org.shotcut.Shotcut	24.08.29	stable	system
+Shotcut	org.shotcut.Shotcut	24.09.13	stable	system
 Signal Desktop	org.signal.Signal	7.24.1	stable	user
 Zulip	org.zulip.Zulip	5.11.1	stable	user

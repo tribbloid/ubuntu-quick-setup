@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+dconf dump / > "all.dconf.txt"
+
 source path-list.sh
 
 for i in "${PATHS[@]}"; do

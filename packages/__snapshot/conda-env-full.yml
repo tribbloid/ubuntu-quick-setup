@@ -80,7 +80,7 @@ dependencies:
   - httpx=0.27.2=pyhd8ed1ab_0
   - hyperframe=6.0.1=pyhd8ed1ab_0
   - icu=75.1=he02047a_0
-  - idna=3.8=pyhd8ed1ab_0
+  - idna=3.9=pyhd8ed1ab_0
   - importlib-metadata=8.5.0=pyha770c72_0
   - importlib_metadata=8.5.0=hd8ed1ab_0
   - importlib_resources=6.4.5=pyhd8ed1ab_0
@@ -189,7 +189,7 @@ dependencies:
   - pixman=0.43.2=h59595ed_0
   - pkginfo=1.11.1=pyhd8ed1ab_0
   - pkgutil-resolve-name=1.3.10=pyhd8ed1ab_1
-  - platformdirs=4.3.2=pyhd8ed1ab_0
+  - platformdirs=4.3.3=pyhd8ed1ab_0
   - pluggy=1.5.0=pyhd8ed1ab_0
   - poetry=1.8.3=linux_pyha804496_1
   - poetry-core=1.9.0=pyhd8ed1ab_0
@@ -256,7 +256,7 @@ dependencies:
   - tzdata=2024a=h8827d51_1
   - uri-template=1.3.0=pyhd8ed1ab_0
   - urllib3=2.2.2=pyhd8ed1ab_1
-  - uv=0.4.9=h0f3a69f_0
+  - uv=0.4.10=h0f3a69f_0
   - virtualenv=20.26.4=pyhd8ed1ab_0
   - wcwidth=0.2.13=pyhd8ed1ab_0
   - webcolors=24.8.0=pyhd8ed1ab_0
