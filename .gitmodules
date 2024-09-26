@@ -1,3 +1,6 @@
 [submodule "jupyerlab-desktop"]
 	path = jupyerlab-desktop
 	url = https://github.com/tribbloid/jupyerlab-desktop
+[submodule "synckeys"]
+	path = synckeys
+	url = https://github.com/wochap/synckeys
