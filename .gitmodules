@@ -1,6 +1,3 @@
-[submodule "jupyerlab-desktop"]
-	path = jupyerlab-desktop
-	url = https://github.com/tribbloid/jupyerlab-desktop
-[submodule "synckeys"]
-	path = synckeys
+[submodule "bluetooth/synckeys"]
+	path = bluetooth/synckeys
 	url = https://github.com/wochap/synckeys

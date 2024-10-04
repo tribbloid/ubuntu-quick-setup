@@ -52,6 +52,7 @@ curl
 dash
 dconf-editor
 diffutils
+diskscan
 dmz-cursor-theme
 dotnet8
 elementary-icon-theme
@@ -105,7 +106,6 @@ gir1.2-gtop-2.0
 gir1.2-nm-1.0
 gist
 git-lfs
-github-desktop
 gnome-backgrounds
 gnome-clocks
 gnome-icon-theme-nuovo
@@ -322,7 +322,6 @@ packagekit-tools
 pandoc
 papirus-icon-theme
 pavucontrol
-peek
 pinhole
 pipewire
 pipewire-alsa
@@ -358,6 +357,7 @@ rclone-browser
 refind
 ruby-webrick
 screen-resolution-extra
+sensors-applet
 shellcheck
 shotwell
 smartmontools
@@ -390,7 +390,6 @@ unrar
 unzip
 v4l-utils
 visualvm
-vivaldi-stable
 vlc
 vlc-plugin-fluidsynth
 vlc-plugin-jack

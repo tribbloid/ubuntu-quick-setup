@@ -2,21 +2,20 @@ name: base
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
-  - conda
-  - conda-libmamba-solver
-  - mamba
+  - python==3.11.10
   - pip
-  - conda-build
-  - poetry
-  - conda-content-trust
-  - setuptools
+  - conda
+  - mamba
   - awscliv2
+  - conda-build
+  - conda-content-trust
   - conda-env
-  - wheel
   - conda-verify
   - jupyter
-  - uv
-  - maven
   - maturin
+  - maven
+  - poetry
+  - setuptools
+  - uv
+  - wheel
 prefix: /home/shared/conda
