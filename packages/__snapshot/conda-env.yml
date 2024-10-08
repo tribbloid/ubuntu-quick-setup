@@ -18,4 +18,5 @@ dependencies:
   - setuptools
   - uv
   - wheel
+  - nix
 prefix: /home/shared/conda

@@ -18,6 +18,8 @@ dependencies:
   - beautifulsoup4=4.12.3=pyha770c72_0
   - bleach=6.1.0=pyhd8ed1ab_0
   - boltons=24.0.0=pyhd8ed1ab_0
+  - brotli=1.1.0=hb9d3cd8_2
+  - brotli-bin=1.1.0=hb9d3cd8_2
   - brotli-python=1.1.0=py311hfdbb021_2
   - bzip2=1.0.8=h4bc722e_7
   - c-ares=1.33.1=heb4867d_0
@@ -46,6 +48,7 @@ dependencies:
   - conda-verify=3.1.1=py311h38be061_1006
   - crashtest=0.4.1=pyhd8ed1ab_0
   - cryptography=43.0.1=py311hafd3f86_0
+  - curl=8.10.1=hbbe4b11_0
   - dbus=1.13.6=h5008d03_3
   - debugpy=1.8.6=py311hfdbb021_0
   - decorator=5.1.1=pyhd8ed1ab_0
@@ -53,6 +56,7 @@ dependencies:
   - distlib=0.3.8=pyhd8ed1ab_0
   - distro=1.9.0=pyhd8ed1ab_0
   - dulwich=0.21.7=py311h459d7ec_0
+  - editline=1.17.1=h516909a_0
   - entrypoints=0.4=pyhd8ed1ab_0
   - exceptiongroup=1.2.2=pyhd8ed1ab_0
   - executing=2.1.0=pyhd8ed1ab_0
@@ -118,6 +122,10 @@ dependencies:
   - lerc=4.0.0=h27087fc_0
   - libarchive=3.7.4=hfca40fe_0
   - libblas=3.9.0=24_linux64_openblas
+  - libboost=1.84.0=hb8260a3_6
+  - libbrotlicommon=1.1.0=hb9d3cd8_2
+  - libbrotlidec=1.1.0=hb9d3cd8_2
+  - libbrotlienc=1.1.0=hb9d3cd8_2
   - libcblas=3.9.0=24_linux64_openblas
   - libcups=2.3.3=h4637d8d_4
   - libcurl=8.10.1=hbbe4b11_0
@@ -143,6 +151,7 @@ dependencies:
   - libnsl=2.0.1=hd590300_0
   - libopenblas=0.3.27=pthreads_hac2b453_1
   - libpng=1.6.44=hadc24fc_0
+  - libseccomp=2.4.4=hd590300_4
   - libsodium=1.0.20=h4ab18f5_0
   - libsolv=0.7.30=h3509ff9_0
   - libsqlite=3.46.1=hadc24fc_0
@@ -172,6 +181,7 @@ dependencies:
   - nbformat=5.10.4=pyhd8ed1ab_0
   - ncurses=6.5=he02047a_1
   - nest-asyncio=1.6.0=pyhd8ed1ab_0
+  - nix=2.3.16=h913cc8e_4
   - notebook=7.2.2=pyhd8ed1ab_0
   - notebook-shim=0.2.4=pyhd8ed1ab_0
   - numpy=2.1.2=py311h71ddf71_0
