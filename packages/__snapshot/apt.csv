@@ -212,6 +212,7 @@ libdebconfclient0
 libevdev-dev
 libfontconfig-dev
 libfuse2
+libgc-dev
 libglew-dev
 libglib2.0-0:i386
 libhidapi-dev
@@ -261,6 +262,7 @@ libsasl2-2
 libsasl2-modules
 libspa-0.2-bluetooth
 libssl-dev
+libstdc++-12-dev
 libudev-dev
 libudev0
 libvpx-dev

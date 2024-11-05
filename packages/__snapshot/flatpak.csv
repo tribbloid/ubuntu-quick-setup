@@ -1,9 +1,9 @@
 Damask	app.drey.Damask	0.2.2	stable	system
-GitKraken	com.axosoft.GitKraken	10.4.0	stable	system
+GitKraken	com.axosoft.GitKraken	10.4.1	stable	system
 Bambu Studio	com.bambulab.BambuStudio	1.9.7.52 Public Official	stable	system
-Brave	com.brave.Browser	1.70.123	stable	system
-Discord	com.discordapp.Discord	0.0.70	stable	system
-GitButler	com.gitbutler.gitbutler	0.12.27	stable	system
+Brave	com.brave.Browser	1.71.121	stable	system
+Discord	com.discordapp.Discord	0.0.73	stable	system
+GitButler	com.gitbutler.gitbutler	0.13.8	stable	system
 TLP-UI	com.github.d4nj1.tlpui	1.7.1	stable	system
 Touché	com.github.joseexposito.touche	2.0.14	stable	system
 MarkText	com.github.marktext.marktext	0.17.1	stable	system
@@ -13,24 +13,24 @@ Spotify	com.spotify.Client	1.2.45.454.gc16ec9f6	stable	system
 SmartGit	com.syntevo.SmartGit	23.1.4	stable	system
 Beyond All Reason	info.beyondallreason.bar	1.2988.0.1	stable	system
 GDM Settings	io.github.realmazharhussain.GdmSettings	4.4	stable	system
-Podman Desktop	io.podman_desktop.PodmanDesktop	1.12.0	stable	system
-Obsidian	md.obsidian.Obsidian	1.6.7	stable	system
+Podman Desktop	io.podman_desktop.PodmanDesktop	1.13.3	stable	system
+Obsidian	md.obsidian.Obsidian	1.7.5	stable	system
 Lutris	net.lutris.Lutris	0.5.17	stable	system
-Blender	org.blender.Blender	4.2.1	stable	system
+Blender	org.blender.Blender	4.2.2	stable	system
 Freeplane	org.freeplane.App	1.11.6	stable	system
 GNU Image Manipulation Program	org.gimp.GIMP	2.10.38	stable	system
 Calendar	org.gnome.Calendar	47.0	stable	system
 Characters	org.gnome.Characters	47.alpha	stable	system
 Contacts	org.gnome.Contacts	47.0	stable	system
-Web	org.gnome.Epiphany	47.0	stable	system
+Web	org.gnome.Epiphany	47.2	stable	system
 Document Viewer	org.gnome.Evince	46.3.1	stable	system
 Geary	org.gnome.Geary	46.0	stable	system
 GNOME Network Displays	org.gnome.NetworkDisplays	0.93.0	stable	system
 Endeavour	org.gnome.Todo	43.0	stable	system
-KiCad	org.kicad.KiCad	8.0.5-dirty	stable	system
+KiCad	org.kicad.KiCad	8.0.6	stable	system
 QGroundControl	org.mavlink.qgroundcontrol	v4.3.0	stable	system
-ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	8.1.1	stable	system
+ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	8.2.0	stable	system
 OpenShot Video Editor	org.openshot.OpenShot	3.2.1	stable	system
-Shotcut	org.shotcut.Shotcut	24.09.13	stable	system
-Signal Desktop	org.signal.Signal	7.24.1	stable	system
+Shotcut	org.shotcut.Shotcut	24.10.29	stable	system
+Signal Desktop	org.signal.Signal	7.31.0	stable	system
 Zulip	org.zulip.Zulip	5.11.1	stable	system
