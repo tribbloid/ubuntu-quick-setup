@@ -1,10 +1,10 @@
 sudo sh -c \
 ' \
-aptitude update
+apt-get update
 
 aptitude dist-upgrade -y
 
-apt --purge autoremove
+apt-get --purge autoremove
 
 snap refresh
 '
