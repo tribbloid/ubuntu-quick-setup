@@ -28,10 +28,7 @@ bluez-meshd
 bluez-tests
 bluez-tools
 breeze-cursor-theme
-btrfs-compsize
-btrfs-heatmap
 btrfs-progs
-btrfsmaintenance
 ca-certificates
 cabal-install
 chntpw
@@ -310,6 +307,7 @@ network-manager-ssh-gnome
 ntfs-3g
 nuget
 obs-studio
+opam
 openjdk-11-doc
 openjdk-11-jdk
 openjdk-11-source
