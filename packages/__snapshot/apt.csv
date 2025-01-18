@@ -47,7 +47,6 @@ cpufrequtils
 cpupower-gui
 curl
 dash
-dconf-editor
 diffutils
 diskscan
 dmz-cursor-theme
@@ -97,6 +96,7 @@ fonts-tlwg-typo-ttf
 fonts-tlwg-umpush-ttf
 fonts-tlwg-waree-ttf
 freeglut3-dev
+gh
 gifsicle
 gir1.2-clutter-1.0
 gir1.2-gtop-2.0
@@ -359,7 +359,6 @@ ruby-webrick
 screen-resolution-extra
 sensors-applet
 shellcheck
-shotwell
 smartmontools
 snapd
 snapd-xdg-open
