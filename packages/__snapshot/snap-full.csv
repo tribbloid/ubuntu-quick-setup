@@ -1,0 +1,4 @@
+Name         Version   Rev    Tracking       Publisher    Notes
+core24       20250318  888    latest/stable  canonical**  base
+graalvm-jdk  21.0.6.3  9      v21/stable     canonical**  -
+snapd        2.67.1    23771  latest/stable  canonical**  snapd

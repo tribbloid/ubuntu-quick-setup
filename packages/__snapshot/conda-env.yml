@@ -3,9 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python==3.11.10
-  - pip
   - conda
   - mamba
+  - pip
   - awscliv2
   - conda-build
   - conda-content-trust
@@ -14,9 +14,9 @@ dependencies:
   - jupyter
   - maturin
   - maven
+  - nix
   - poetry
   - setuptools
   - uv
   - wheel
-  - nix
 prefix: /home/shared/conda
