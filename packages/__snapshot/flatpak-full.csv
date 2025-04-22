@@ -34,14 +34,14 @@ GNU Image Manipulation Program	org.gimp.GIMP	3.0.2	stable	system
 Calendar	org.gnome.Calendar	48.1	stable	system
 Characters	org.gnome.Characters	48.0	stable	system
 Contacts	org.gnome.Contacts	48.0	stable	system
-Web	org.gnome.Epiphany	48.0	stable	system
+Web	org.gnome.Epiphany	48.1	stable	system
 Document Viewer	org.gnome.Evince	46.3.1	stable	system
 Geary	org.gnome.Geary	46.0	stable	system
 GNOME Network Displays	org.gnome.NetworkDisplays	0.96.0	stable	system
 Endeavour	org.gnome.Todo	43.0	stable	system
 KiCad	org.kicad.KiCad	9.0.1	stable	system
 ksnip	org.ksnip.ksnip	1.10.1	stable	system
-QGroundControl	org.mavlink.qgroundcontrol	v4.4.3	stable	system
+QGroundControl	org.mavlink.qgroundcontrol	v4.4.4	stable	system
 ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	8.3.2	stable	system
 OpenShot Video Editor	org.openshot.OpenShot	3.3.0	stable	system
 Shotcut	org.shotcut.Shotcut	25.03.29	stable	system
