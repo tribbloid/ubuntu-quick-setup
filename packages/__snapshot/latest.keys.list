@@ -4,8 +4,6 @@ uid           [ unknown] Debian Stable Release Key (12/bookworm) <debian-release
 uid           [ unknown] Debian Archive Automatic Signing Key (11/bullseye) <ftpmaster@debian.org>
 uid           [ unknown] Debian Security Archive Automatic Signing Key (11/bullseye) <ftpmaster@debian.org>
 uid           [ unknown] Debian Stable Release Key (11/bullseye) <debian-release@lists.debian.org>
-uid           [ unknown] Debian Archive Automatic Signing Key (10/buster) <ftpmaster@debian.org>
-uid           [ unknown] Debian Security Archive Automatic Signing Key (10/buster) <ftpmaster@debian.org>
-uid           [ unknown] Debian Stable Release Key (10/buster) <debian-release@lists.debian.org>
-uid           [ unknown] Microsoft (Release signing) <gpgsecurity@microsoft.com>
-uid           [ unknown] Warp Linux Maintainers (Package Signing Authority) <linux-maintainers@warp.dev>
+uid           [ unknown] Debian Archive Automatic Signing Key (13/trixie) <ftpmaster@debian.org>
+uid           [ unknown] Debian Security Archive Automatic Signing Key (13/trixie) <ftpmaster@debian.org>
+uid           [ unknown] Debian Stable Release Key (13/trixie) <debian-release@lists.debian.org>

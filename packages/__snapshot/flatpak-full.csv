@@ -1,50 +1,54 @@
 Damask	app.drey.Damask	0.2.2	stable	system
+Startup Configuration	best.ellie.StartupConfiguration	1.0.0	stable	system
 Dconf Editor	ca.desrt.dconf-editor	45.0.1	stable	system
-GitKraken	com.axosoft.GitKraken	11.0.0	stable	system
-Bambu Studio	com.bambulab.BambuStudio	2.0.2 Public Release	stable	system
-Brave	com.brave.Browser	1.77.100	stable	system
-Discord	com.discordapp.Discord	0.0.91	stable	system
-Dropbox	com.dropbox.Client	220.4.4126	stable	system
+GitKraken	com.axosoft.GitKraken	11.1.1	stable	system
+Bambu Studio	com.bambulab.BambuStudio	2.1.0 Public Release	stable	system
+Brave	com.brave.Browser	1.79.123	stable	system
+Discord	com.discordapp.Discord	0.0.97	stable	system
+Dropbox	com.dropbox.Client	226.4.5094	stable	system
 GitButler	com.gitbutler.gitbutler	0.13.8	stable	system
 TLP-UI	com.github.d4nj1.tlpui	1.8.0	stable	system
-Git Cola	com.github.git_cola.git-cola	4.12.0	stable	system
+Git Cola	com.github.git_cola.git-cola	4.13.0	stable	system
 MarkText	com.github.marktext.marktext	0.17.1	stable	system
-Flatseal	com.github.tchx84.Flatseal	2.3.0	stable	system
-draw.io	com.jgraph.drawio.desktop	26.0.16	stable	system
-Microsoft Edge	com.microsoft.Edge	135.0.3179.85-1	stable	system
+Flatseal	com.github.tchx84.Flatseal	2.3.1	stable	system
+Google Chrome	com.google.Chrome	137.0.7151.103-1	stable	system
+draw.io	com.jgraph.drawio.desktop	26.1.1	stable	system
+Microsoft Edge	com.microsoft.Edge	137.0.3296.83-1	stable	system
 0 A.D.	com.play0ad.zeroad	0.27.0	stable	system
-Spotify	com.spotify.Client	1.2.59.514.g834e17d4	stable	system
+Spotify	com.spotify.Client	1.2.60.564.gcc6305cb	stable	system
 WeChat	com.tencent.WeChat	4.0.1.11	stable	system
-Unity Hub	com.unity.UnityHub	3.9.1	stable	system
 Steam	com.valvesoftware.Steam	1.0.0.81	stable	system
-WPS Office	com.wps.Office	11.1.0.11719	stable	system
 Beyond All Reason	info.beyondallreason.bar	1.2988.0.1	stable	system
-ytDownloader	io.github.aandrew_me.ytdn	3.19.0	stable	system
-Syncthing Tray	io.github.martchus.syncthingtray	1.7.6-1.38f614f	stable	system
+ytDownloader	io.github.aandrew_me.ytdn	3.19.1	stable	system
+Syncthing Tray	io.github.martchus.syncthingtray	1.7.8-1.7fc29c4	stable	system
+AppImage Pool	io.github.prateekmedia.appimagepool	5.1.0	stable	system
 GDM Settings	io.github.realmazharhussain.GdmSettings	5.0	stable	system
 GitHub Desktop	io.github.shiftey.Desktop	3.4.13-linux1	stable	system
 Fingerpaint	io.github.wazzaps.Fingerpaint	1.4.3	stable	system
-Podman Desktop	io.podman_desktop.PodmanDesktop	1.18.0	stable	system
-Gear Lever	it.mijorus.gearlever	3.2.2	stable	system
-Obsidian	md.obsidian.Obsidian	1.8.9	stable	system
-Lutris	net.lutris.Lutris	0.5.18	stable	system
+Podman Desktop	io.podman_desktop.PodmanDesktop	1.19.1	stable	system
+Gear Lever	it.mijorus.gearlever	3.3.3	stable	system
+Obsidian	md.obsidian.Obsidian	1.8.10	stable	system
 Resources	net.nokyan.Resources	1.8.0	stable	system
-Blender	org.blender.Blender	4.4.0	stable	system
-GNU Image Manipulation Program	org.gimp.GIMP	3.0.2	stable	system
+Blender	org.blender.Blender	4.4.3	stable	system
+MenuLibre	org.bluesabre.MenuLibre	2.3.2	stable	system
+GNU Image Manipulation Program	org.gimp.GIMP	3.0.4	stable	system
+Builder	org.gnome.Builder	48.0	stable	system
 Calendar	org.gnome.Calendar	48.1	stable	system
 Characters	org.gnome.Characters	48.0	stable	system
 Contacts	org.gnome.Contacts	48.0	stable	system
-Web	org.gnome.Epiphany	48.1	stable	system
+Web	org.gnome.Epiphany	48.3	stable	system
 Document Viewer	org.gnome.Evince	46.3.1	stable	system
 Geary	org.gnome.Geary	46.0	stable	system
-GNOME Network Displays	org.gnome.NetworkDisplays	0.96.0	stable	system
+GNOME Network Displays	org.gnome.NetworkDisplays	0.97.0	stable	system
 Endeavour	org.gnome.Todo	43.0	stable	system
-KiCad	org.kicad.KiCad	9.0.1	stable	system
+Meld	org.gnome.meld	3.22.3	stable	system
+KiCad	org.kicad.KiCad	9.0.2	stable	system
 ksnip	org.ksnip.ksnip	1.10.1	stable	system
 QGroundControl	org.mavlink.qgroundcontrol	v4.4.4	stable	system
-ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	8.3.2	stable	system
+ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	8.3.3	stable	system
 OpenShot Video Editor	org.openshot.OpenShot	3.3.0	stable	system
-Shotcut	org.shotcut.Shotcut	25.03.29	stable	system
-Signal Desktop	org.signal.Signal	7.51.0	stable	system
+Shotcut	org.shotcut.Shotcut	25.05.11	stable	system
+Signal Desktop	org.signal.Signal	7.57.0	stable	system
 Zotero	org.zotero.Zotero	7.0.15	stable	system
 Zulip	org.zulip.Zulip	5.12.0	stable	system
+Main Menu	page.codeberg.libre_menu_editor.LibreMenuEditor	1.9.2	stable	system

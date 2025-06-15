@@ -1,5 +1,5 @@
 [/]
-battery-display=true
+battery-display=false
 battery-refresh-time=50000
 battery-show-menu=true
 battery-show-text=false
@@ -21,11 +21,12 @@ gpu-show-menu=true
 gpu-show-text=false
 icon-display=false
 memory-show-text=false
+move-clock=true
 net-show-text=false
 net-style='digit'
 show-tooltip=true
 swap-show-text=false
 thermal-display=true
-thermal-sensor-file='/sys/class/hwmon/hwmon5/temp1_input'
+thermal-sensor-file='/sys/class/hwmon/hwmon6/temp1_input'
 thermal-show-text=false
 tooltip-delay-ms=1000
