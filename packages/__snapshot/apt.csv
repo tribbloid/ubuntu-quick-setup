@@ -10,6 +10,7 @@ bash
 breeze-cursor-theme
 bsdutils
 ca-certificates
+code
 code-insiders
 console-setup
 console-setup-linux
@@ -27,6 +28,7 @@ dbus-user-session
 debconf
 debconf-i18n
 debianutils
+deepin-icon-theme
 dhcpcd-base
 diffutils
 distro-info
@@ -48,6 +50,7 @@ fonts-noto-core
 fonts-noto-ui-core
 gcc-14
 gcc-14-base
+gdm-settings
 geary
 gedit
 gir1.2-girepository-2.0
@@ -56,6 +59,7 @@ git
 gnome-backgrounds
 gnome-packagekit
 gnome-session
+gnome-settings-daemon
 gnome-shell-extension-appindicator
 gnome-shell-extension-desktop-icons-ng
 gnome-shell-extension-gpaste
@@ -63,6 +67,7 @@ gnome-shell-extension-gsconnect
 gnome-shell-extension-gsconnect-browsers
 gnome-shell-extension-manager
 gnome-shell-extension-ubuntu-dock
+gnome-shell-extension-ubuntu-tiling-assistant
 gnome-shell-extensions
 gnome-software
 gnome-software-plugin-flatpak
@@ -78,8 +83,10 @@ gnome-user-docs-pt
 gnome-user-docs-ru
 gnome-user-docs-zh-hans
 gnupg
+gparted
 gpgv
 grep
+gtk3-nocsd
 gzip
 hostname
 hunspell-ar
@@ -116,6 +123,9 @@ ibus-table-quick-classic
 ibus-table-wubi
 init
 init-system-helpers
+intel-mkl
+intel-mkl-doc
+intel-opencl-icd
 iproute2
 iputils-ping
 iso-codes
@@ -168,6 +178,7 @@ libcap2-bin
 libcom-err2
 libcrypt1
 libcryptsetup12
+libcurl4-openssl-dev
 libdb5.3t64
 libdbus-1-3
 libdebconfclient0
@@ -192,6 +203,7 @@ libgssapi-krb5-2
 libhogweed6t64
 libicu74
 libidn2-0
+libidn2-dev
 libjson-c5
 libk5crypto3
 libkeyutils1
@@ -286,6 +298,7 @@ logsave
 lsb-release
 mawk
 media-types
+menulibre
 mount
 mozc-utils-gui
 mythes-ar
@@ -299,6 +312,7 @@ mythes-it
 mythes-pt-br
 mythes-pt-pt
 mythes-ru
+nano
 ncurses-base
 ncurses-bin
 nemo
@@ -309,7 +323,9 @@ netplan-generator
 netplan.io
 networkd-dispatcher
 ntfs-3g
+openjdk-17-doc
 openjdk-17-jdk
+openjdk-17-source
 openjdk-21-jdk
 openssl
 papirus-icon-theme
@@ -387,6 +403,7 @@ ubuntu-pro-client
 ubuntu-pro-client-l10n
 ucf
 udev
+unityhub
 util-linux
 vim-common
 vim-tiny
