@@ -1,4 +1,5 @@
 adduser
+antimicro
 appstream-data-pop-icons-hidpi
 apt
 apt-clone
@@ -29,6 +30,7 @@ debconf
 debconf-i18n
 debianutils
 deepin-icon-theme
+desktop-base
 dhcpcd-base
 diffutils
 distro-info
@@ -57,6 +59,7 @@ gir1.2-girepository-2.0
 gir1.2-glib-2.0
 git
 gnome-backgrounds
+gnome-keyring
 gnome-packagekit
 gnome-session
 gnome-settings-daemon
@@ -134,6 +137,7 @@ kernelstub
 keyboard-configuration
 kmod
 krb5-locales
+ksystemlog
 language-pack-ar
 language-pack-de
 language-pack-en
@@ -230,7 +234,10 @@ libpam-runtime
 libpam-systemd
 libpam0g
 libpcre2-8-0
+libpop-upgrade-gtk
 libpopt0
+libportal-gtk3-1
+libportal-qt5-1
 libproc2-0
 libpython3-stdlib
 libpython3.12-minimal
@@ -367,6 +374,7 @@ synaptic
 system76-acpi-dkms
 system76-dkms
 system76-io-dkms
+system76-wallpapers
 systemd
 systemd-boot
 systemd-coredump
@@ -401,9 +409,9 @@ tzdata
 ubuntu-keyring
 ubuntu-pro-client
 ubuntu-pro-client-l10n
+ubuntu-session
 ucf
 udev
-unityhub
 util-linux
 vim-common
 vim-tiny
@@ -421,6 +429,11 @@ wportuguese
 wspanish
 wswiss
 x11-utils
+xdg-desktop-portal
+xdg-desktop-portal-gnome
+xdg-desktop-portal-kde
+xdg-desktop-portal-wlr
+xdg-desktop-portal-xapp
 xdg-user-dirs
 xkb-data
 xxd

@@ -153,7 +153,7 @@ dependencies:
   - libiconv=1.18=h4ce23a2_1
   - libjpeg-turbo=3.1.0=hb9d3cd8_0
   - liblapack=3.9.0=31_h7ac8fdf_openblas
-  - liblief=0.16.4=h5888daf_0
+  - liblief=0.16.6=h5888daf_0
   - liblzma=5.8.1=hb9d3cd8_2
   - liblzma-devel=5.8.1=hb9d3cd8_2
   - libmamba=2.3.0=h44402ff_1
@@ -184,7 +184,7 @@ dependencies:
   - matplotlib-inline=0.1.7=pyhd8ed1ab_1
   - maturin=1.8.7=py39h446a924_0
   - maven=3.9.10=ha770c72_0
-  - mbedtls=3.5.1=h5888daf_1
+  - mbedtls=3.6.3.1=h5888daf_0
   - mcp=1.9.4=pyhd8ed1ab_0
   - mdurl=0.1.2=pyhd8ed1ab_1
   - menuinst=2.2.0=py311h38be061_0
@@ -227,7 +227,7 @@ dependencies:
   - pthread-stubs=0.4=hb9d3cd8_1002
   - ptyprocess=0.7.0=pyhd8ed1ab_1
   - pure_eval=0.2.3=pyhd8ed1ab_1
-  - py-lief=0.16.4=py311hfdbb021_0
+  - py-lief=0.16.6=py311hfdbb021_0
   - pybind11-abi=4=hd8ed1ab_3
   - pycosat=0.6.6=py311h9ecbd09_2
   - pycparser=2.22=pyh29332c3_1
