@@ -16,4 +16,4 @@ mamba update --all -y
 coursier update # scala
 rustup update # rust
 elan update # LEAN prover
-opam update && opam upgrade -y -a
+# opam update && opam upgrade -y -a
