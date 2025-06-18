@@ -22,3 +22,5 @@ snap refresh
 
 snap install snap-store rustup node
 '
+
+rustup default stable
