@@ -14,7 +14,11 @@ apt install desktop-base gnome-keyring xdg-desktop-portal \
                                        xdg-desktop-portal-kde \
                                        xdg-desktop-portal-wlr \
                                        xdg-desktop-portal-xapp \
+                                       ubuntu-restricted-extras ubuntu-settings \
                                       -y
+
+# build tools for some rust projects
+apt install clang clang-tools libudev-dev
 
 apt-get --purge autoremove
 

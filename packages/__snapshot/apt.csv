@@ -11,6 +11,8 @@ bash
 breeze-cursor-theme
 bsdutils
 ca-certificates
+clang
+clang-tools
 code
 code-insiders
 console-setup
@@ -19,6 +21,7 @@ coreutils
 cosmic-term
 cron
 cron-daemon-common
+curl
 dash
 dbus
 dbus-bin
@@ -288,6 +291,7 @@ libtext-wrapi18n-perl
 libtinfo6
 libtirpc-common
 libtirpc3t64
+libudev-dev
 libudev1
 libunistring5
 libuuid1
@@ -367,7 +371,7 @@ rsyslog
 sed
 sensible-utils
 shared-mime-info
-snap
+snapd
 software-properties-common
 sudo
 synaptic
@@ -409,7 +413,9 @@ tzdata
 ubuntu-keyring
 ubuntu-pro-client
 ubuntu-pro-client-l10n
+ubuntu-restricted-extras
 ubuntu-session
+ubuntu-settings
 ucf
 udev
 util-linux
