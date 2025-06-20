@@ -18,7 +18,7 @@ apt install desktop-base gnome-keyring xdg-desktop-portal \
                                       -y
 
 # build tools for some rust projects
-apt install clang clang-tools libudev-dev
+apt install clang clang-tools libudev-dev opam
 
 apt-get --purge autoremove
 
@@ -28,3 +28,6 @@ snap install snap-store rustup node
 '
 
 rustup default stable
+
+opam init
+opam update
