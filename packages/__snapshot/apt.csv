@@ -92,6 +92,9 @@ gnupg
 gparted
 gpgv
 grep
+gstreamer1.0-gl
+gstreamer1.0-libav
+gstreamer1.0-plugins-bad
 gtk3-nocsd
 gzip
 hostname
@@ -132,6 +135,7 @@ init-system-helpers
 intel-mkl
 intel-mkl-doc
 intel-opencl-icd
+iotop
 iproute2
 iputils-ping
 iso-codes
@@ -198,6 +202,7 @@ libfastjson4
 libfdisk1
 libffi8
 libfribidi0
+libfuse2t64
 libgcc-s1
 libgcrypt20
 libgirepository-1.0-1
@@ -295,6 +300,9 @@ libudev-dev
 libudev1
 libunistring5
 libuuid1
+libxcb-cursor-dev
+libxcb-xinerama0
+libxkbcommon-x11-0
 libxml2
 libxtables12
 libxxhash0
@@ -302,6 +310,7 @@ libyaml-0-2
 libzstd1
 linux-system76
 linux-tools-common
+linux-tools-generic
 locales
 login
 logrotate
@@ -330,10 +339,12 @@ nemo
 neofetch
 netbase
 netcat-openbsd
+nethogs
 netplan-generator
 netplan.io
 networkd-dispatcher
 ntfs-3g
+opam
 openjdk-17-doc
 openjdk-17-jdk
 openjdk-17-source
@@ -388,6 +399,7 @@ systemd-resolved
 systemd-sysv
 systemd-timesyncd
 sysvinit-utils
+tabby-terminal
 tar
 thunderbird-locale-ar
 thunderbird-locale-de
@@ -418,6 +430,7 @@ ubuntu-session
 ubuntu-settings
 ucf
 udev
+unityhub
 util-linux
 vim-common
 vim-tiny

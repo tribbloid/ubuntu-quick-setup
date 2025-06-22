@@ -3,7 +3,7 @@ bare                1.0                 5      latest/stable  canonical**  base
 core                16-2.61.4-20241002  17210  latest/stable  canonical**  core
 core18              20250523            2887   latest/stable  canonical**  base
 core22              20250528            2010   latest/stable  canonical**  base
-core24              20250504            988    latest/stable  canonical**  base
+core24              20250526            1006   latest/stable  canonical**  base
 gnome-42-2204       0+git.38ea591       202    latest/stable  canonical**  -
 graalvm-jdk         24.0.1              15     latest/stable  canonical**  -
 gtk-common-themes   0.1-81-g442e511     1535   latest/stable  canonical**  -

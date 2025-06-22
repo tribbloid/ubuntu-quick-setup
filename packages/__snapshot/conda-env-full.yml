@@ -22,6 +22,7 @@ dependencies:
   - bleach=6.2.0=pyh29332c3_4
   - bleach-with-css=6.2.0=h82add2a_4
   - boltons=25.0.0=pyhd8ed1ab_0
+  - bottle=0.12.23=pyhd8ed1ab_0
   - brotli=1.1.0=hb9d3cd8_3
   - brotli-bin=1.1.0=hb9d3cd8_3
   - brotli-python=1.1.0=py311hfdbb021_3
@@ -129,12 +130,12 @@ dependencies:
   - ld_impl_linux-64=2.43=h712a8e2_5
   - lerc=4.0.0=h0aef613_1
   - libarchive=3.8.1=gpl_h98cc613_100
-  - libblas=3.9.0=31_h59b9bed_openblas
+  - libblas=3.9.0=32_h59b9bed_openblas
   - libboost=1.84.0=h6c02f8c_7
   - libbrotlicommon=1.1.0=hb9d3cd8_3
   - libbrotlidec=1.1.0=hb9d3cd8_3
   - libbrotlienc=1.1.0=hb9d3cd8_3
-  - libcblas=3.9.0=31_he106b2a_openblas
+  - libcblas=3.9.0=32_he106b2a_openblas
   - libcups=2.3.3=hb8b1518_5
   - libcurl=8.14.1=h332b0f4_0
   - libdeflate=1.24=h86f0d12_0
@@ -152,20 +153,20 @@ dependencies:
   - libgomp=15.1.0=h767d61c_2
   - libiconv=1.18=h4ce23a2_1
   - libjpeg-turbo=3.1.0=hb9d3cd8_0
-  - liblapack=3.9.0=31_h7ac8fdf_openblas
+  - liblapack=3.9.0=32_h7ac8fdf_openblas
   - liblief=0.16.6=h5888daf_0
   - liblzma=5.8.1=hb9d3cd8_2
   - liblzma-devel=5.8.1=hb9d3cd8_2
   - libmamba=2.3.0=h44402ff_1
   - libmambapy=2.3.0=py311hff7887e_1
   - libnghttp2=1.64.0=h161d5f1_0
-  - libnsl=2.0.1=hd590300_0
-  - libopenblas=0.3.29=pthreads_h94d23a6_0
+  - libnsl=2.0.1=hb9d3cd8_1
+  - libopenblas=0.3.30=pthreads_h94d23a6_0
   - libpng=1.6.49=h943b412_0
   - libseccomp=2.4.4=hd590300_4
   - libsodium=1.0.20=h4ab18f5_0
   - libsolv=0.7.33=h7955e40_0
-  - libsqlite=3.50.1=hee588c1_0
+  - libsqlite=3.50.1=hee588c1_4
   - libssh2=1.11.1=hf672d98_0
   - libstdcxx=15.1.0=h8f9b012_2
   - libstdcxx-ng=15.1.0=h4852527_2
@@ -181,6 +182,7 @@ dependencies:
   - mamba=2.3.0=h233bd08_1
   - markdown-it-py=3.0.0=pyhd8ed1ab_1
   - markupsafe=3.0.2=py311h2dc5d0c_1
+  - marshmallow=3.26.1=pyhd8ed1ab_0
   - matplotlib-inline=0.1.7=pyhd8ed1ab_1
   - maturin=1.8.7=py39h446a924_0
   - maven=3.9.10=ha770c72_0
@@ -217,6 +219,7 @@ dependencies:
   - pixman=0.46.2=h29eaf8c_0
   - pkginfo=1.12.1.2=pyhd8ed1ab_0
   - pkgutil-resolve-name=1.3.10=pyhd8ed1ab_2
+  - platformio=5.2.2=pyhd8ed1ab_0
   - pluggy=1.6.0=pyhd8ed1ab_0
   - poetry=2.1.3=pyha804496_0
   - poetry-core=2.1.3=pyhd8ed1ab_0
@@ -233,9 +236,11 @@ dependencies:
   - pycparser=2.22=pyh29332c3_1
   - pydantic=2.11.7=pyh3cfb1c2_0
   - pydantic-core=2.33.2=py311hdae7d1d_0
-  - pydantic-settings=2.9.1=pyh3cfb1c2_0
+  - pydantic-settings=2.10.0=pyh3cfb1c2_0
+  - pyelftools=0.32=pyh707e725_1
   - pygments=2.19.1=pyhd8ed1ab_0
   - pyproject_hooks=1.2.0=pyhd8ed1ab_1
+  - pyserial=3.5=pyhd8ed1ab_1
   - pysocks=1.7.1=pyha55dd90_7
   - python=3.11.13=h9e4cc4f_0_cpython
   - python-build=1.2.2.post1=pyhff2d567_1
@@ -265,6 +270,7 @@ dependencies:
   - ruamel.yaml=0.18.14=py311h9ecbd09_0
   - ruamel.yaml.clib=0.2.8=py311h9ecbd09_1
   - secretstorage=3.3.3=py311h38be061_3
+  - semantic_version=2.10.0=pyhd8ed1ab_0
   - send2trash=1.8.3=pyh0d859eb_1
   - setuptools=80.9.0=pyhff2d567_0
   - shellingham=1.5.4=pyhd8ed1ab_1
@@ -275,6 +281,7 @@ dependencies:
   - sse-starlette=2.3.6=pyhd8ed1ab_0
   - stack_data=0.6.3=pyhd8ed1ab_1
   - starlette=0.47.0=pyh82d4cca_0
+  - tabulate=0.9.0=pyhd8ed1ab_2
   - terminado=0.18.1=pyh0d859eb_0
   - tinycss2=1.4.0=pyhd8ed1ab_0
   - tk=8.6.13=noxft_hd72426e_102

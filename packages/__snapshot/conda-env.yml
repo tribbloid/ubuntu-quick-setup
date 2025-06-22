@@ -2,7 +2,7 @@ name: base
 channels:
   - conda-forge
 dependencies:
-  - python==3.11.12
+  - python==3.11.13
   - conda
   - mamba
   - pip
@@ -20,4 +20,5 @@ dependencies:
   - uv
   - wheel
   - mcp
+  - platformio
 prefix: /home/shared/conda
