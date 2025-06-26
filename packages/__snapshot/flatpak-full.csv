@@ -4,9 +4,8 @@ Dconf Editor	ca.desrt.dconf-editor	45.0.1	stable	system
 GitKraken	com.axosoft.GitKraken	11.2.0	stable	system
 Bambu Studio	com.bambulab.BambuStudio	2.1.1 Public Release	stable	system
 Brave	com.brave.Browser	1.79.126	stable	system
-Discord	com.discordapp.Discord	0.0.98	stable	system
+Discord	com.discordapp.Discord	0.0.99	stable	system
 Dropbox	com.dropbox.Client	226.4.5094	stable	system
-GitButler	com.gitbutler.gitbutler	0.13.8	stable	system
 TLP-UI	com.github.d4nj1.tlpui	1.8.0	stable	system
 Git Cola	com.github.git_cola.git-cola	4.13.0	stable	system
 MarkText	com.github.marktext.marktext	0.17.1	stable	system
@@ -27,6 +26,7 @@ Syncthing Tray	io.github.martchus.syncthingtray	1.7.8-1.7fc29c4	stable	system
 AppImage Pool	io.github.prateekmedia.appimagepool	5.1.0	stable	system
 GitHub Desktop	io.github.shiftey.Desktop	3.4.13-linux1	stable	system
 Fingerpaint	io.github.wazzaps.Fingerpaint	1.4.3	stable	system
+Lychee Slicer	io.mango3d.LycheeSlicer	7.3.2	stable	system
 Podman Desktop	io.podman_desktop.PodmanDesktop	1.19.1	stable	system
 Gear Lever	it.mijorus.gearlever	3.3.3	stable	system
 Obsidian	md.obsidian.Obsidian	1.8.10	stable	system
@@ -50,10 +50,11 @@ QGroundControl	org.mavlink.qgroundcontrol	v4.4.4	stable	system
 ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	9.0.0	stable	system
 OpenShot Video Editor	org.openshot.OpenShot	3.3.0	stable	system
 Shotcut	org.shotcut.Shotcut	25.05.11	stable	system
-Signal Desktop	org.signal.Signal	7.58.0	stable	system
+Signal Desktop	org.signal.Signal	7.59.0	stable	system
 Tor Browser Launcher	org.torproject.torbrowser-launcher	0.3.7	stable	system
 VLC	org.videolan.VLC	3.0.21	stable	system
-Zotero	org.zotero.Zotero	7.0.16	stable	system
+Zotero	org.zotero.Zotero	7.0.18	stable	system
 Zulip	org.zulip.Zulip	5.12.0	stable	system
 Main Menu	page.codeberg.libre_menu_editor.LibreMenuEditor	1.9.3	stable	system
 Refine	page.tesk.Refine	0.5.9	stable	system
+Zoom	us.zoom.Zoom	6.5.1.2550	stable	system

@@ -6,7 +6,6 @@ com.bambulab.BambuStudio
 com.brave.Browser
 com.discordapp.Discord
 com.dropbox.Client
-com.gitbutler.gitbutler
 com.github.d4nj1.tlpui
 com.github.git_cola.git-cola
 com.github.marktext.marktext
@@ -27,6 +26,7 @@ io.github.martchus.syncthingtray
 io.github.prateekmedia.appimagepool
 io.github.shiftey.Desktop
 io.github.wazzaps.Fingerpaint
+io.mango3d.LycheeSlicer
 io.podman_desktop.PodmanDesktop
 it.mijorus.gearlever
 md.obsidian.Obsidian
@@ -57,3 +57,4 @@ org.zotero.Zotero
 org.zulip.Zulip
 page.codeberg.libre_menu_editor.LibreMenuEditor
 page.tesk.Refine
+us.zoom.Zoom

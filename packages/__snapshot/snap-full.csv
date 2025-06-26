@@ -1,14 +1,14 @@
 Name                Version             Rev    Tracking       Publisher    Notes
 bare                1.0                 5      latest/stable  canonical**  base
-core                16-2.61.4-20241002  17210  latest/stable  canonical**  core
+core                16-2.61.4-20250508  17212  latest/stable  canonical**  core
 core18              20250523            2887   latest/stable  canonical**  base
 core22              20250528            2010   latest/stable  canonical**  base
 core24              20250526            1006   latest/stable  canonical**  base
 gnome-42-2204       0+git.38ea591       202    latest/stable  canonical**  -
+go                  1.24.4              10907  latest/stable  canonical**  classic
 graalvm-jdk         24.0.1              15     latest/stable  canonical**  -
 gtk-common-themes   0.1-81-g442e511     1535   latest/stable  canonical**  -
 gtk2-common-themes  0.1                 13     latest/stable  canonical**  -
-node                22.16.0             10226  22/stable      iojs**       classic
 rustup              1.27.1              1471   latest/stable  canonical**  classic
 snap-store          0+git.90575829      1270   2/stable       canonical**  -
 snapd               2.68.5              24718  latest/stable  canonical**  snapd

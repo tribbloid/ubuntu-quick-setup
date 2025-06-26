@@ -277,6 +277,7 @@ libreoffice-l10n-ru
 libreoffice-l10n-zh-cn
 libreoffice-l10n-zh-tw
 libseccomp2
+libsecret-tools
 libselinux1
 libsemanage-common
 libsemanage2
@@ -285,6 +286,8 @@ libslang2
 libsmartcols1
 libsqlite3-0
 libss2
+libssl-dev
+libssl-doc
 libssl3t64
 libstdc++6
 libsystemd-shared
@@ -353,6 +356,9 @@ openssl
 papirus-icon-theme
 passwd
 perl-base
+podman-compose
+podman-docker
+podman-toolbox
 pop-desktop
 pop-gtk-theme
 poppler-data
