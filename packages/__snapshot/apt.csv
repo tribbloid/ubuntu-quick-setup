@@ -1,5 +1,4 @@
 adduser
-antimicro
 appstream-data-pop-icons-hidpi
 apt
 apt-clone
@@ -13,6 +12,7 @@ bsdutils
 ca-certificates
 clang
 clang-tools
+clinfo
 code
 code-insiders
 console-setup
@@ -36,11 +36,15 @@ deepin-icon-theme
 desktop-base
 dhcpcd-base
 diffutils
+discord
 distro-info
 distro-info-data
 dmsetup
 dosfstools
+dotnet-runtime-dbg-8.0
 dotnet-sdk-8.0
+dotnet-sdk-dbg-8.0
+dotnet8
 dpkg
 e2fsprogs
 eject
@@ -55,6 +59,8 @@ fonts-noto-core
 fonts-noto-ui-core
 gcc-14
 gcc-14-base
+gdb
+gdb-doc
 gdm-settings
 geary
 gedit
@@ -78,16 +84,10 @@ gnome-shell-extensions
 gnome-software
 gnome-software-plugin-flatpak
 gnome-software-plugin-snap
+gnome-system-tools
 gnome-terminal
 gnome-tweaks
-gnome-user-docs-de
-gnome-user-docs-es
-gnome-user-docs-fr
-gnome-user-docs-it
-gnome-user-docs-ja
-gnome-user-docs-pt
-gnome-user-docs-ru
-gnome-user-docs-zh-hans
+gnome-user-docs
 gnupg
 gparted
 gpgv
@@ -132,8 +132,12 @@ ibus-table-quick-classic
 ibus-table-wubi
 init
 init-system-helpers
+intel-gsc
+intel-media-va-driver-non-free
+intel-metrics-discovery
 intel-mkl
 intel-mkl-doc
+intel-ocloc
 intel-opencl-icd
 iotop
 iproute2
@@ -183,6 +187,7 @@ libbsd0
 libbz2-1.0
 libc-bin
 libc6
+libcairo2-dev
 libcap-ng0
 libcap2
 libcap2-bin
@@ -197,6 +202,7 @@ libdevmapper1.02.1
 libelf1t64
 libestr0
 libexpat1
+libexpat1-dev
 libext2fs2t64
 libfastjson4
 libfdisk1
@@ -212,6 +218,8 @@ libgmp10
 libgnutls30t64
 libgpg-error0
 libgssapi-krb5-2
+libgtk-3-dev
+libgtksourceview-3.0-dev
 libhogweed6t64
 libicu74
 libidn2-0
@@ -226,6 +234,7 @@ liblocale-gettext-perl
 liblz4-1
 liblzma5
 libmd0
+libmfx-gen1
 libmnl0
 libmount1
 libncursesw6
@@ -303,6 +312,9 @@ libudev-dev
 libudev1
 libunistring5
 libuuid1
+libva-glx2
+libvpl-tools
+libvpl2
 libxcb-cursor-dev
 libxcb-xinerama0
 libxkbcommon-x11-0
@@ -310,10 +322,15 @@ libxml2
 libxtables12
 libxxhash0
 libyaml-0-2
+libze-dev
+libze-intel-gpu-raytracing
+libze-intel-gpu1
+libze1
 libzstd1
 linux-system76
 linux-tools-common
 linux-tools-generic
+lldb
 locales
 login
 logrotate
@@ -359,6 +376,7 @@ perl-base
 podman-compose
 podman-docker
 podman-toolbox
+policycoreutils
 pop-desktop
 pop-gtk-theme
 poppler-data
@@ -427,6 +445,7 @@ thunderbird-locale-zh-hans
 thunderbird-locale-zh-hant
 thunderbird-locale-zh-tw
 tlp
+torbrowser-launcher
 tzdata
 ubuntu-keyring
 ubuntu-pro-client
@@ -438,6 +457,8 @@ ucf
 udev
 unityhub
 util-linux
+va-driver-all
+vainfo
 vim-common
 vim-tiny
 wamerican
