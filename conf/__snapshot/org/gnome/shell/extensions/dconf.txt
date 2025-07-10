@@ -1,142 +1,154 @@
-[auto-move-windows]
-application-list=['com.vmware.HorizonClient.desktop:3']
+[appindicator]
+icon-brightness=0.0
+icon-contrast=0.0
+icon-opacity=240
+icon-saturation=0.0
+icon-size=0
+legacy-tray-enabled=true
+tray-pos='right'
+
+[astra-monitor]
+compact-mode=false
+compact-mode-start-expanded=false
+experimental-features='[]'
+explicit-zero=false
+gpu-data='[{"domain":"0000:03","bus":"00","slot":"0","vendorId":"8086","productId":"5693","monitor":true}]'
+gpu-header-show=false
+gpu-indicators-order='["icon","activity bar","activity graph","activity percentage","memory bar","memory graph","memory percentage","memory value"]'
+gpu-main='{"domain":"0000:00","bus":"02","slot":"0","vendorId":"8086","productId":"a7a0"}'
+headers-height=0
+headers-height-override=0
+memory-header-bars=false
+memory-header-bars-breakdown=true
+memory-header-graph=true
+memory-header-graph-breakdown=true
+memory-header-icon=false
+memory-header-percentage=true
+memory-header-percentage-icon-alert-threshold=90
+memory-header-show=true
+memory-header-tooltip-free=true
+memory-header-tooltip-percentage=false
+memory-indicators-order='["icon","graph","bar","percentage","value","free"]'
+monitors-order='["processor","gpu","memory","storage","network","sensors"]'
+network-header-icon=false
+network-header-io=true
+network-indicators-order='["icon","IO bar","IO graph","IO speed"]'
+panel-box='center'
+panel-box-order=10
+processor-header-bars=false
+processor-header-frequency=true
+processor-header-icon=false
+processor-header-percentage=false
+processor-header-percentage-core=true
+processor-header-tooltip-percentage-core=false
+processor-indicators-order='["icon","graph","bar","percentage","frequency"]'
+processor-menu-gpu-color=''
+profiles='{"default":{"panel-margin-left":0,"sensors-header-tooltip-sensor2-digits":-1,"memory-update":3,"gpu-header-memory-graph-color1":"rgba(29,172,214,1.0)","panel-box":"center","memory-header-show":true,"network-header-tooltip-io":true,"processor-header-bars-color2":"rgba(214,29,29,1.0)","processor-header-icon-size":18,"storage-source-storage-io":"auto","sensors-header-tooltip-sensor4-name":"","storage-header-icon-color":"","network-source-public-ipv4":"https://api.ipify.org","storage-header-io-graph-color2":"rgba(214,29,29,1.0)","storage-header-io":false,"processor-menu-top-processes-percentage-core":true,"sensors-header-sensor1":"{\\"service\\":\\"hwmon\\",\\"path\\":[\\"dell_smm\\",\\"fan1\\",\\"input\\"]}","processor-header-graph":true,"storage-header-graph-width":30,"network-header-bars":false,"processor-source-load-avg":"auto","network-menu-arrow-color1":"rgba(29,172,214,1.0)","network-source-top-processes":"auto","gpu-header-icon":true,"processor-menu-graph-breakdown":true,"storage-ignored":"\\"[]\\"","sensors-header-icon-custom":"","sensors-header-sensor2":"{\\"service\\":\\"hwmon\\",\\"path\\":[\\"dell_ddv\\",\\"CPU\\",\\"input\\"]}","network-header-icon-alert-color":"rgba(235, 64, 52, 1)","memory-header-tooltip-free":true,"storage-header-io-figures":2,"network-menu-arrow-color2":"rgba(214,29,29,1.0)","sensors-header-tooltip-sensor3-name":"","network-source-public-ipv6":"https://api6.ipify.org","monitors-order":"[\\"processor\\",\\"gpu\\",\\"memory\\",\\"storage\\",\\"network\\",\\"sensors\\"]","network-header-graph":true,"network-indicators-order":"\\"\\"","memory-header-percentage":true,"gpu-data":"\\"\\"","storage-header-bars":false,"processor-header-tooltip":true,"memory-menu-swap-color":"rgba(29,172,214,1.0)","storage-io-unit":"kB/s","memory-header-graph-width":30,"processor-header-graph-color1":"rgba(29,172,214,1.0)","sensors-header-tooltip-sensor5-digits":-1,"gpu-header-icon-custom":"","gpu-header-icon-size":18,"panel-margin-right":0,"processor-header-frequency":true,"processor-header-graph-breakdown":true,"sensors-header-tooltip-sensor3-digits":-1,"processor-source-cpu-usage":"auto","memory-header-value-figures":3,"compact-mode":false,"processor-header-frequency-mode":"average","panel-box-order":10,"compact-mode-compact-icon-custom":"","network-header-graph-width":30,"gpu-header-tooltip":true,"sensors-header-icon":false,"gpu-header-activity-percentage-icon-alert-threshold":0,"sensors-header-sensor2-digits":-1,"processor-header-graph-color2":"rgba(214,29,29,1.0)","sensors-header-icon-alert-color":"rgba(235, 64, 52, 1)","sensors-update":3,"gpu-header-tooltip-memory-value":true,"processor-header-bars":false,"gpu-header-tooltip-memory-percentage":true,"gpu-header-memory-bar-color1":"rgba(29,172,214,1.0)","sensors-header-tooltip-sensor1":"{\\"service\\":\\"hwmon\\",\\"path\\":[\\"BAT0\\",\\"curr1\\",\\"input\\"]}","sensors-header-tooltip-sensor1-digits":-1,"storage-header-free-figures":4,"processor-header-percentage-core":true,"sensors-header-tooltip-sensor2-name":"","network-source-network-io":"auto","memory-header-bars":false,"processor-header-percentage":false,"processor-header-frequency-figures":3,"storage-header-io-threshold":0,"memory-header-graph-color1":"rgba(29,172,214,1.0)","compact-mode-activation":"both","storage-header-icon-size":18,"sensors-header-tooltip-sensor1-name":"","sensors-header-icon-size":18,"sensors-header-icon-color":"","explicit-zero":false,"sensors-source":"auto","storage-header-io-graph-color1":"rgba(29,172,214,1.0)","storage-header-percentage-icon-alert-threshold":0,"sensors-header-tooltip-sensor2":"{\\"service\\":\\"hwmon\\",\\"path\\":[\\"BAT0\\",\\"in0\\",\\"input\\"]}","compact-mode-expanded-icon-custom":"","memory-header-graph-color2":"rgba(29,172,214,0.3)","processor-header-icon-alert-color":"rgba(235, 64, 52, 1)","processor-header-tooltip-percentage":true,"gpu-header-show":false,"network-update":1.5,"sensors-header-tooltip-sensor3":"\\"\\"","sensors-ignored-attribute-regex":"","memory-header-icon-custom":"","storage-header-tooltip-io":true,"sensors-header-tooltip-sensor4":"\\"\\"","storage-header-percentage":false,"sensors-temperature-unit":"celsius","storage-header-icon-alert-color":"rgba(235, 64, 52, 1)","storage-header-free-icon-alert-threshold":0,"memory-source-top-processes":"auto","storage-header-value-figures":3,"storage-header-io-bars-color1":"rgba(29,172,214,1.0)","storage-menu-arrow-color1":"rgba(29,172,214,1.0)","gpu-header-tooltip-activity-percentage":true,"network-header-icon-custom":"","processor-header-graph-width":30,"network-header-icon":false,"storage-menu-arrow-color2":"rgba(214,29,29,1.0)","sensors-header-sensor2-layout":"vertical","sensors-header-tooltip-sensor5":"\\"\\"","memory-header-bars-breakdown":true,"sensors-header-show":true,"sensors-header-tooltip":true,"storage-header-tooltip":true,"processor-header-bars-core":false,"storage-indicators-order":"\\"\\"","processor-menu-bars-breakdown":true,"storage-header-io-bars-color2":"rgba(214,29,29,1.0)","network-io-unit":"kB/s","storage-header-icon":false,"gpu-header-activity-graph-color1":"rgba(29,172,214,1.0)","memory-unit":"kB-KB","processor-menu-core-bars-breakdown":true,"sensors-header-sensor2-show":true,"network-header-tooltip":true,"storage-header-tooltip-free":true,"storage-header-bars-color1":"rgba(29,172,214,1.0)","theme-style":"dark","storage-source-storage-usage":"auto","network-header-io":true,"storage-header-tooltip-value":false,"storage-main":"[default]","memory-header-tooltip-percentage":false,"memory-indicators-order":"[\\"icon\\",\\"graph\\",\\"bar\\",\\"percentage\\",\\"value\\",\\"free\\"]","memory-source-memory-usage":"auto","memory-header-graph-breakdown":true,"memory-header-tooltip-value":true,"memory-menu-graph-breakdown":true,"sensors-indicators-order":"\\"\\"","compact-mode-start-expanded":false,"startup-delay":2,"memory-header-percentage-icon-alert-threshold":90,"sensors-header-sensor1-show":true,"network-ignored-regex":"","storage-update":3,"memory-header-value":false,"memory-header-bars-color1":"rgba(29,172,214,1.0)","network-header-io-graph-color1":"rgba(29,172,214,1.0)","gpu-header-memory-bar":true,"memory-used":"total-free-buffers-cached","gpu-header-memory-graph-width":30,"gpu-header-memory-graph":false,"sensors-ignored-category-regex":"","headers-font-family":"","memory-header-icon":false,"memory-header-bars-color2":"rgba(29,172,214,0.3)","network-header-io-graph-color2":"rgba(214,29,29,1.0)","processor-gpu":true,"network-header-icon-color":"","storage-header-value":false,"gpu-header-icon-alert-color":"rgba(235, 64, 52, 1)","processor-header-icon":false,"headers-font-size":0,"network-header-io-figures":2,"network-header-show":true,"sensors-ignored-regex":"","network-header-io-bars-color1":"rgba(29,172,214,1.0)","processor-update":1.5,"network-source-wireless":"auto","processor-indicators-order":"[\\"icon\\",\\"graph\\",\\"bar\\",\\"percentage\\",\\"frequency\\"]","storage-header-icon-custom":"","gpu-header-activity-bar":true,"gpu-header-activity-bar-color1":"rgba(29,172,214,1.0)","shell-bar-position":"top","network-ignored":"\\"[]\\"","network-header-io-bars-color2":"rgba(214,29,29,1.0)","memory-header-icon-color":"","sensors-header-sensor1-digits":-1,"storage-header-io-layout":"vertical","memory-header-icon-size":18,"network-header-io-threshold":0,"storage-header-show":true,"sensors-header-tooltip-sensor4-digits":-1,"processor-header-percentage-icon-alert-threshold":0,"memory-header-tooltip":true,"headers-height-override":0,"memory-header-graph":true,"network-header-icon-size":18,"gpu-header-icon-color":"","memory-header-free-figures":3,"processor-header-bars-breakdown":true,"gpu-header-activity-graph":false,"storage-header-io-bars":false,"memory-header-icon-alert-color":"rgba(235, 64, 52, 1)","storage-header-free":false,"processor-header-icon-custom":"","gpu-header-memory-percentage":false,"processor-header-tooltip-percentage-core":false,"processor-source-cpu-cores-usage":"auto","processor-source-top-processes":"auto","processor-header-icon-color":"","sensors-header-tooltip-sensor5-name":"","gpu-header-activity-graph-width":30,"gpu-header-activity-percentage":false,"gpu-indicators-order":"\\"\\"","network-header-io-layout":"vertical","gpu-update":2,"gpu-header-memory-percentage-icon-alert-threshold":0,"processor-header-bars-color1":"rgba(29,172,214,1.0)","processor-header-show":true,"storage-header-graph":true,"memory-header-free-icon-alert-threshold":0,"storage-ignored-regex":"","storage-menu-device-color":"rgba(29,172,214,1.0)","storage-header-tooltip-percentage":true,"memory-header-free":false,"storage-source-top-processes":"auto"}}'
+queued-pref-category=''
+sensors-header-icon=false
+sensors-header-sensor1='{"service":"hwmon","path":["dell_smm","fan1","input"]}'
+sensors-header-sensor1-show=true
+sensors-header-sensor2='{"service":"hwmon","path":["dell_ddv","CPU","input"]}'
+sensors-header-sensor2-layout='vertical'
+sensors-header-sensor2-show=true
+sensors-header-show=true
+sensors-header-tooltip=true
+sensors-header-tooltip-sensor1='{"service":"hwmon","path":["BAT0","curr1","input"]}'
+sensors-header-tooltip-sensor2='{"service":"hwmon","path":["BAT0","in0","input"]}'
+sensors-indicators-order='["icon","value"]'
+storage-header-bars=false
+storage-header-free-figures=4
+storage-header-graph=true
+storage-header-icon=false
+storage-header-io=false
+storage-header-io-bars=false
+storage-header-percentage=false
+storage-header-tooltip-value=false
+storage-header-value=false
+storage-indicators-order='["icon","bar","percentage","value","free","IO bar","IO graph","IO speed"]'
+storage-main='FIKWOT_FN501_Pro_256GB_AA234942198-part2'
 
 [dash-to-dock]
 animate-show-apps=true
 apply-glossy-effect=false
-click-action='minimize-or-previews'
+autohide-in-fullscreen=true
+background-opacity=0.80000000000000004
+click-action='focus-minimize-or-previews'
 custom-theme-customize-running-dots=true
 customize-alphas=true
+dash-max-icon-size=48
 dock-fixed=false
+dock-position='BOTTOM'
 extend-height=false
+height-fraction=0.90000000000000002
 intellihide=true
+intellihide-mode='ALL_WINDOWS'
 isolate-monitors=true
-isolate-workspaces=true
+isolate-workspaces=false
 manualhide=false
-multi-monitor=true
+middle-click-action='launch'
+multi-monitor=false
+preferred-monitor=-2
+preferred-monitor-by-connector='eDP-1'
+preview-size-scale=0.0
 running-indicator-style='DASHES'
 scroll-action='cycle-windows'
+shift-click-action='launch'
+shift-middle-click-action='minimize'
 show-mounts-network=true
+show-mounts-only-mounted=true
 transparency-mode='DYNAMIC'
 unity-backlit-items=true
 
 [ding]
-arrangeorder='MODIFIEDTIME'
-keep-stacked=true
-sort-special-folders=true
-unstackedtypes=@as []
+check-x11wayland=true
+use-nemo=true
 
-[flypie]
-active-stack-child='tutorial-page'
-child-color-mode-hover='auto'
-menu-configuration='[{"name":"Example Menu","icon":"flypie-symbolic-#46a","shortcut":"<Primary>space","centered":false,"id":0,"children":[{"name":"Sound","icon":"flypie-multimedia-symbolic-#c86","children":[{"name":"Mute","icon":"flypie-multimedia-mute-symbolic-#853","type":"Shortcut","data":"AudioMute","angle":-1},{"name":"Play / Pause","icon":"flypie-multimedia-playpause-symbolic-#853","type":"Shortcut","data":"AudioPlay","angle":-1},{"name":"Next Title","icon":"flypie-multimedia-next-symbolic-#853","type":"Shortcut","data":"AudioNext","angle":90},{"name":"Previous Title","icon":"flypie-multimedia-previous-symbolic-#853","type":"Shortcut","data":"AudioPrev","angle":270}],"type":"CustomMenu","data":{},"angle":-1},{"name":"Favorites","icon":"flypie-menu-favorites-symbolic-#da3","type":"Favorites","data":{},"angle":-1},{"name":"Next Workspace","icon":"flypie-go-right-symbolic-#6b5","type":"Shortcut","data":{"shortcut":"<Control><Alt>Right"},"angle":-1},{"name":"Maximize Window","icon":"flypie-window-maximize-symbolic-#b68","type":"Shortcut","data":"<Alt>F10","angle":-1},{"name":"Fly-Pie Settings","icon":"flypie-menu-system-symbolic-#3ab","type":"Command","data":"gnome-extensions prefs flypie@schneegans.github.com","angle":-1},{"name":"Close Window","icon":"flypie-window-close-symbolic-#a33","type":"Shortcut","data":"<Alt>F4","angle":-1},{"name":"Previous Workspace","icon":"flypie-go-left-symbolic-#6b5","type":"Shortcut","data":{"shortcut":"<Control><Alt>Left"},"angle":-1},{"name":"Running Apps","icon":"flypie-menu-running-apps-symbolic-#65a","type":"RunningApps","data":{"activeWorkspaceOnly":false,"appGrouping":true,"hoverPeeking":true,"nameRegex":""},"angle":-1}],"type":"CustomMenu","data":{}}]'
-stats-abortions=uint32 14
-stats-achievement-dates={'journey0': int64 1699375517027}
-stats-click-selections-depth2=uint32 1
-stats-click-selections-depth3=uint32 2
-stats-dbus-menus=uint32 5
-stats-gesture-selections-depth1=uint32 1
-stats-preview-menus=uint32 1
-stats-selections=uint32 4
-stats-selections-1000ms-depth1=uint32 1
-stats-settings-opened=uint32 6
-stats-tutorial-menus=uint32 5
-stats-unread-achievements=uint32 1
+[fullscreen-to-empty-workspace]
+move-window-when-maximized=false
 
 [gsconnect]
-devices=['44f9561854c6b5b2']
-id='cd332183-4b9d-4fb8-8dd5-2953807c5435'
-name='pop-os'
+devices=@as []
+id='e257949a-68e6-4972-a602-6cb6cfe748fd'
+keep-alive-when-locked=true
+name='Dell XPS 9530'
 show-indicators=true
 
-[gsconnect/device/44f9561854c6b5b2]
-certificate-pem='-----BEGIN CERTIFICATE-----\nMIIC9zCCAd+gAwIBAgIBATANBgkqhkiG9w0BAQsFADA/MRkwFwYDVQQDDBA0NGY5\nNTYxODU0YzZiNWIyMRQwEgYDVQQLDAtLREUgQ29ubmVjdDEMMAoGA1UECgwDS0RF\nMB4XDTIxMTEyODA1MDAwMFoXDTMxMTEyODA1MDAwMFowPzEZMBcGA1UEAwwQNDRm\nOTU2MTg1NGM2YjViMjEUMBIGA1UECwwLS0RFIENvbm5lY3QxDDAKBgNVBAoMA0tE\nRTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANKJG0+/Cvo68qjUTePs\naFoSJDMLMUNVrxrGFRMWq2kQTwDUp3Q0vzCx2n3EdYQgyM0vXSHsFesPpZV8oAWp\nSu6TNVi3ivM68Ck7+xbM4wz4ErsfUgmPbTp9g1gD4BYiS442YvY2q6bNRVXVKVus\nMIv97dcHuq3QWsmxNbAHQ1nYcmG/EpME4UJT9YL/S1zcKZNa0b87aeT21e/1NjNl\npFJ4ObBEKZJ0WAsVJ0Ph8KX+jbzD74hQ0P2lX7kXcHxh3u4frN//21urwC6toHje\nsEQQRUWwIXBWNPqDGRqub7rsutPwE+1ZWwJMNrP0TQAtEXtdxdkrowIvBrI1I1/f\naqkCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAtozoGaQWF2a8dimT3oOGLfCryX7X\nxrIjE6+rKP2w7KLS2TbT+MF5yiGugnyJoqXIvvMREwcN1AinVZoUhVeGrqUPyj+x\nnrFyCflv/GjEbXprw+0VeOSXFL+U6Zdw9Ge4rI8xbVU9M5atG+5DYkXYYSdqvKct\nQXtXwx+VkMH1BtYqhrcLC+c79iOqMX7LdVMKfBUsNH1oWnD8hLkm92N9zfg1Dc0Z\ncl/bBeY07yTB7CVyI5tlhFIdsMWQW+c82ZyxCRxctZYpnp0Ei8ObPBkcLyow4gIF\nJOinY0c3DA3RRMHdSC/082692zlTRwceVJndvn4ONx3dtRNVNBYeLD/ozA==\n-----END CERTIFICATE-----\n'
-disabled-plugins=@as []
-incoming-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.contacts.request_all_uids_timestamps', 'kdeconnect.contacts.request_vcards_by_uid', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.action', 'kdeconnect.notification.reply', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.runcommand', 'kdeconnect.sftp.request', 'kdeconnect.share.request', 'kdeconnect.share.request.update', 'kdeconnect.sms.request', 'kdeconnect.sms.request_attachment', 'kdeconnect.sms.request_conversation', 'kdeconnect.sms.request_conversations', 'kdeconnect.systemvolume', 'kdeconnect.telephony.request', 'kdeconnect.telephony.request_mute']
-last-connection='lan://192.168.209.208:1716'
-name='SM-G986W'
-outgoing-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.connectivity_report', 'kdeconnect.contacts.response_uids_timestamps', 'kdeconnect.contacts.response_vcards', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.echo', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.presenter', 'kdeconnect.runcommand.request', 'kdeconnect.sftp', 'kdeconnect.share.request', 'kdeconnect.sms.attachment_file', 'kdeconnect.sms.messages', 'kdeconnect.systemvolume.request', 'kdeconnect.telephony']
-paired=true
-supported-plugins=['battery', 'clipboard', 'connectivity_report', 'contacts', 'findmyphone', 'mousepad', 'mpris', 'notification', 'ping', 'presenter', 'runcommand', 'sftp', 'share', 'sms', 'systemvolume', 'telephony']
+[gsconnect/device/aa657aa1-10fa-41ab-88a7-3ea54ce1eb3d]
+incoming-capabilities=['kdeconnect.battery', 'kdeconnect.battery.request', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.connectivity_report', 'kdeconnect.contacts.response_uids_timestamps', 'kdeconnect.contacts.response_vcards', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.echo', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.presenter', 'kdeconnect.runcommand', 'kdeconnect.runcommand.request', 'kdeconnect.sftp', 'kdeconnect.share.request', 'kdeconnect.sms.messages', 'kdeconnect.systemvolume.request', 'kdeconnect.telephony']
+last-connection='lan://10.0.0.168:1716'
+name='pop-os'
+outgoing-capabilities=['kdeconnect.battery', 'kdeconnect.battery.request', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.connectivity_report.request', 'kdeconnect.contacts.request_all_uids_timestamps', 'kdeconnect.contacts.request_vcards_by_uid', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.echo', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.action', 'kdeconnect.notification.reply', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.runcommand', 'kdeconnect.runcommand.request', 'kdeconnect.sftp.request', 'kdeconnect.share.request', 'kdeconnect.sms.request', 'kdeconnect.sms.request_conversation', 'kdeconnect.sms.request_conversations', 'kdeconnect.systemvolume', 'kdeconnect.telephony.request', 'kdeconnect.telephony.request_mute']
+supported-plugins=['battery', 'clipboard', 'findmyphone', 'mousepad', 'mpris', 'notification', 'ping', 'runcommand', 'share']
+type='desktop'
+
+[gsconnect/device/b7d70908_3b45_45b7_ab9f_62a2132c8b4f]
+incoming-capabilities=['kdeconnect.battery', 'kdeconnect.battery.request', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.findmyphone.request', 'kdeconnect.ping', 'kdeconnect.runcommand', 'kdeconnect.share.request', 'kdeconnect.share.request.update']
+keybindings=@a{ss} {}
+last-connection='lan://10.0.0.215:1716'
+name='tribbloid GCS-3'
+outgoing-capabilities=['kdeconnect.battery', 'kdeconnect.battery.request', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.request', 'kdeconnect.ping', 'kdeconnect.presenter', 'kdeconnect.runcommand.request', 'kdeconnect.share.request', 'kdeconnect.share.request.update']
+paired=false
+supported-plugins=['battery', 'clipboard', 'findmyphone', 'mousepad', 'ping', 'presenter', 'runcommand', 'share']
 type='phone'
 
-[gsconnect/device/44f9561854c6b5b2/plugin/battery]
+[gsconnect/device/b7d70908_3b45_45b7_ab9f_62a2132c8b4f/plugin/battery]
 custom-battery-notification-value=uint32 80
-full-battery-notification=true
 send-statistics=true
 
-[gsconnect/device/44f9561854c6b5b2/plugin/clipboard]
-receive-content=false
-send-content=true
+[gsconnect/device/b7d70908_3b45_45b7_ab9f_62a2132c8b4f/plugin/notification]
+applications='{"Files":{"iconName":"org.gnome.Nautilus","enabled":true},"Snapd User Session Agent":{"iconName":"/usr/share/snapd/snapcraft-logo-bird.svg","enabled":true},"Disks":{"iconName":"org.gnome.DiskUtility","enabled":true},"Power":{"iconName":"org.gnome.Settings-power-symbolic","enabled":true},"Spotify":{"iconName":"com.spotify.Client","enabled":true},"Packages":{"iconName":"system-software-install","enabled":true},"Device Colour Profiles":{"iconName":"org.gnome.Settings-color-symbolic","enabled":true},"Events and Tasks Reminders":{"iconName":"org.gnome.Evolution-alarm-notify","enabled":true},"Software":{"iconName":"org.gnome.Software","enabled":true},"Printers":{"iconName":"org.gnome.Settings-printers-symbolic","enabled":true},"Date & Time":{"iconName":"org.gnome.Settings-time-symbolic","enabled":true},"Zenity":{"iconName":"application-x-executable","enabled":true},"Disk Usage Analyzer":{"iconName":"org.gnome.baobab","enabled":true},"Lutris":{"iconName":"net.lutris.Lutris","enabled":true},"Package Updater":{"iconName":"system-software-update","enabled":true},"NetworkManager Applet":{"iconName":"nm-device-wireless","enabled":true},"File Roller":{"iconName":"org.gnome.FileRoller","enabled":true},"Geary":{"iconName":"org.gnome.Geary","enabled":true}}'
 
-[gsconnect/device/44f9561854c6b5b2/plugin/notification]
-applications='{"Eddy":{"iconName":"com.github.donadigo.eddy","enabled":true},"Files":{"iconName":"org.gnome.Nautilus","enabled":true},"Snapd User Session Agent":{"iconName":"application-x-executable","enabled":true},"Power":{"iconName":"gnome-power-manager","enabled":true},"Support":{"iconName":"pop-support","enabled":true},"Packages":{"iconName":"system-software-install","enabled":true},"Device Colour Profiles":{"iconName":"preferences-color","enabled":true},"Evolution Alarm Notify":{"iconName":"appointment-soon","enabled":true},"Firmware":{"iconName":"firmware-manager","enabled":true},"Printers":{"iconName":"printer","enabled":true},"Date & Time":{"iconName":"preferences-system-time","enabled":true},"Disk Usage Analyzer":{"iconName":"org.gnome.baobab","enabled":true},"Clocks":{"iconName":"org.gnome.clocks","enabled":true},"Lutris":{"iconName":"net.lutris.Lutris","enabled":true},"Package Updater":{"iconName":"system-software-update","enabled":true},"Network":{"iconName":"nm-device-wireless","enabled":true},"Archive Manager":{"iconName":"org.gnome.ArchiveManager","enabled":true},"OS Upgrade & Recovery":{"iconName":"software-update-available-symbolic","enabled":true},"Telegram Desktop":{"iconName":"org.telegram.desktop","enabled":true},"Pop!_Shop":{"iconName":"io.elementary.appcenter","enabled":true},"Geary":{"iconName":"org.gnome.Geary","enabled":true},"blueman":{"iconName":"audio-headset","enabled":true},"IDEA":{"iconName":"/home/peng/.local/share/JetBrains/Toolbox/apps/intellij-idea-community-edition/bin/idea.svg","enabled":true},"biscuit":{"iconName":"","enabled":true},"CLion":{"iconName":"/home/peng/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/clion.svg","enabled":true},"Firefox":{"iconName":"","enabled":true},"Rider":{"iconName":"/home/peng/.local/share/JetBrains/Toolbox/apps/rider/bin/rider.svg","enabled":true},"Disk Space":{"iconName":"drive-harddisk-symbolic","enabled":true},"nemo":{"iconName":"media-removable","enabled":true},"xyz.chatboxapp.app":{"iconName":"","enabled":true},"Spotify":{"iconName":"com.spotify.Client","enabled":true},"PyCharm":{"iconName":"/home/peng/.local/share/JetBrains/Toolbox/apps/pycharm-community/bin/pycharm.svg","enabled":true},"Unity":{"iconName":"/home/peng/Unity/Hub/Editor/2022.3.31f1/Editor/Data/Resources/UnityPlayerIcon.png","enabled":true},"RustRover":{"iconName":"/home/peng/.local/share/JetBrains/Toolbox/apps/rustrover/bin/rustrover.svg","enabled":true}}'
-send-active=false
-send-notifications=false
-
-[gsconnect/device/44f9561854c6b5b2/plugin/share]
+[gsconnect/device/b7d70908_3b45_45b7_ab9f_62a2132c8b4f/plugin/share]
 receive-directory='/home/peng/Downloads'
-
-[gsconnect/device/44f9561854c6b5b2/plugin/telephony]
-ringing-pause=true
-talking-microphone=false
-talking-pause=false
-
-[gsconnect/device/e38c7bae-3177-4c3d-ba1f-b7fa0046dfe9]
-incoming-capabilities=['kdeconnect.battery', 'kdeconnect.battery.request', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.connectivity_report', 'kdeconnect.contacts.response_uids_timestamps', 'kdeconnect.contacts.response_vcards', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.echo', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.request', 'kdeconnect.photo', 'kdeconnect.photo.request', 'kdeconnect.ping', 'kdeconnect.presenter', 'kdeconnect.runcommand', 'kdeconnect.runcommand.request', 'kdeconnect.sftp', 'kdeconnect.share.request', 'kdeconnect.sms.messages', 'kdeconnect.systemvolume.request', 'kdeconnect.telephony']
-last-connection='lan://192.168.50.127:1716'
-name='pop-os'
-outgoing-capabilities=['kdeconnect.battery', 'kdeconnect.battery.request', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.connectivity_report.request', 'kdeconnect.contacts.request_all_uids_timestamps', 'kdeconnect.contacts.request_vcards_by_uid', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.echo', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.action', 'kdeconnect.notification.reply', 'kdeconnect.notification.request', 'kdeconnect.photo', 'kdeconnect.photo.request', 'kdeconnect.ping', 'kdeconnect.runcommand', 'kdeconnect.runcommand.request', 'kdeconnect.sftp.request', 'kdeconnect.share.request', 'kdeconnect.sms.request', 'kdeconnect.sms.request_conversation', 'kdeconnect.sms.request_conversations', 'kdeconnect.systemvolume', 'kdeconnect.telephony.request', 'kdeconnect.telephony.request_mute']
-supported-plugins=['battery', 'clipboard', 'findmyphone', 'mousepad', 'mpris', 'notification', 'photo', 'ping', 'runcommand', 'share']
-type='laptop'
-
-[gsconnect/messaging]
-window-maximized=false
-window-size=(640, 480)
 
 [gsconnect/preferences]
 window-maximized=false
-window-size=(734, 440)
-
-[gtktitlebar]
-hide-window-titlebars='maximized'
-
-[just-perfection]
-accessibility-menu=true
-app-menu=true
-app-menu-icon=true
-background-menu=true
-clock-menu-position=0
-controls-manager-spacing-size=0
-dash=true
-dash-icon-size=0
-double-super-to-appgrid=true
-osd=true
-panel=true
-panel-icon-size=0
-panel-in-overview=true
-panel-size=0
-ripple-box=true
-search=true
-show-apps-button=true
-startup-status=1
-theme=false
-window-demands-attention-focus=false
-window-picker-icon=true
-window-preview-caption=true
-window-preview-close-button=true
-workspace=true
-workspace-background-corner-size=0
-workspace-popup=true
-workspace-switcher-should-show=false
-workspaces-in-app-grid=true
-
-[noannoyance-fork]
-enable-ignore-list=false
+window-size=(743, 460)
 
 [openweather]
 days-forecast=5
-delay-ext-init=5
+delay-ext-init=30
 expand-forecast=true
 position-in-panel='left'
 position-index=15
@@ -145,73 +157,225 @@ show-comment-in-panel=false
 use-default-owm-key=true
 wind-direction=true
 
-[pop-cosmic]
-clock-alignment='LEFT'
-show-applications-button=false
-show-workspaces-button=false
-workspace-picker-left=false
-
-[pop-shell]
-active-hint=true
-active-hint-border-radius=uint32 0
-gap-inner=uint32 0
-gap-outer=uint32 0
-
-[smart-auto-move]
-activate-workspace=false
-debug-logging=false
-freeze-saves=false
-ignore-position=false
-ignore-workspace=false
-match-threshold=0.69999999999999996
-overrides='{"Vmware-view":[{"action":1,"threshold":0.6999999999999997}]}'
-save-frequency=1000
-saved-windows='{"Nemo":[{"id":520868295,"hash":520868295,"sequence":274,"title":"Home","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":520868196,"hash":520868196,"sequence":175,"title":"Downloads - /home/peng/Downloads","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":520868410,"hash":520868410,"sequence":389,"title":"lp2-lc - /home/peng/git-release/__MATH/lp2-lc","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832429884,"hash":2832429884,"sequence":70,"title":"__SETTINGS - /home/peng/Synced/Dropbox/__SETTINGS","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2005721356,"hash":2005721356,"sequence":54,"title":"Home","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952119744,"hash":3952119744,"sequence":16,"title":"Search in \\"Synced\\" - x-nemo-search://0/","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Microsoft-edge":[{"id":520868585,"hash":520868585,"sequence":564,"title":"New tab and 11 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":520868077,"hash":520868077,"sequence":56,"title":"Logged in","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":127,"y":138,"width":1,"height":38,"occupied":false},{"id":3548238265,"hash":3548238265,"sequence":6,"title":"Configuring and suppressing warnings in Scala | The Scala Programming Language and 13 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238837,"hash":3548238837,"sequence":578,"title":"Configuring and suppressing warnings in Scala | The Scala Programming Language and 11 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238882,"hash":3548238882,"sequence":623,"title":"PayPal Checkout - Personal - Microsoft\u200b Edge","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":676,"y":236,"width":568,"height":818,"occupied":false},{"id":1294017987,"hash":1294017987,"sequence":8,"title":"typelevel/frameless: Expressive types for Spark. and 17 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832429821,"hash":2832429821,"sequence":7,"title":"Old emails have disappeared - Gmail Community and 11 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":196212510,"hash":196212510,"sequence":6,"title":"PatrickMassot/GlimpseOfLean: An introduction to theorem proving in Lean for the impatient. and 13 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":196212724,"hash":196212724,"sequence":220,"title":"Home / X - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2190537257,"hash":2190537257,"sequence":3,"title":"Please confirm that you are not a robot and 12 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3588492431,"hash":3588492431,"sequence":24,"title":"Home / X and 7 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2005721344,"hash":2005721344,"sequence":42,"title":"Logged in","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":127,"y":138,"width":500,"height":787,"occupied":false},{"id":2005721390,"hash":2005721390,"sequence":88,"title":"Logged in","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":127,"y":138,"width":1,"height":38,"occupied":false},{"id":2005721466,"hash":2005721466,"sequence":164,"title":"Logged in","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":127,"y":138,"width":1,"height":38,"occupied":false},{"id":1171157986,"hash":1171157986,"sequence":7,"title":"lean prover theorem keywords - Search and 6 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694568,"hash":1864694568,"sequence":13,"title":"Home / X and 15 more pages - Personal - Microsoft\u200b Edge","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694578,"hash":1864694578,"sequence":23,"title":"Logged in","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":127,"y":138,"width":1,"height":38,"occupied":false},{"id":1864694580,"hash":1864694580,"sequence":25,"title":"Logged in","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":127,"y":138,"width":1,"height":38,"occupied":false},{"id":1864694583,"hash":1864694583,"sequence":28,"title":"Logged in","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":127,"y":138,"width":1,"height":38,"occupied":false},{"id":4099499651,"hash":4099499651,"sequence":6,"title":"Lambda cube - Wikipedia and 16 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":1,"x":0,"y":1102,"width":1920,"height":1178,"occupied":false},{"id":3834785333,"hash":3834785333,"sequence":3,"title":"Second-order logic - Wikipedia and 16 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3325032382,"hash":3325032382,"sequence":13,"title":"Inductive Types - Theorem Proving in Lean 4 and 26 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788372,"hash":1524788372,"sequence":4,"title":"type inference for .opt no longer works without explicit type argument in Scala 2.13.x · Issue #769 · typelevel/frameless and 16 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":120396912,"hash":120396912,"sequence":8,"title":"YouTube and 17 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952119733,"hash":3952119733,"sequence":5,"title":"type inference for .opt no longer works without explicit type argument in Scala 2.13.x · Issue #769 · typelevel/frameless and 12 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2843693149,"hash":2843693149,"sequence":3,"title":"type inference for .opt no longer works without explicit type argument in Scala 2.13.x · Issue #769 · typelevel/frameless and 10 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":592779989,"hash":592779989,"sequence":3,"title":"type inference for .opt no longer works without explicit type argument in Scala 2.13.x · Issue #769 · typelevel/frameless and 11 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":900527427,"hash":900527427,"sequence":4,"title":"pyspark.sql.functions.explode_outer — PySpark 3.5.0 documentation and 21 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3480036820,"hash":3480036820,"sequence":13,"title":"Biggest Games in UNREAL ENGINE 5 with ULTRA REALISTIC Graphics coming out in 2024 - YouTube - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":1920,"y":0,"width":1920,"height":1080,"occupied":false},{"id":3480036810,"hash":3480036810,"sequence":3,"title":"How to talk to LLM: ToT-method. Tree of Thoughts — and LLM models | by Mikolaj Maslanka | Medium and 17 more pages - Personal - Microsoft\u200b Edge","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":1,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Gnome-shell-portal-helper":[{"id":520868023,"hash":520868023,"sequence":2,"title":"gnome-shell-portal-helper","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"jetbrains-idea":[{"id":520868556,"hash":520868556,"sequence":535,"title":"splash","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":640,"y":400,"width":640,"height":400,"occupied":false},{"id":520868557,"hash":520868557,"sequence":536,"title":"scalaspike – TypedDataset.scala [Gradle: org.typelevel:frameless-dataset_2.13:0.15.0]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":520868322,"hash":520868322,"sequence":301,"title":"scalaspike – TypedDatasetDemo.scala [scalaspike.spark.test]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":520868601,"hash":520868601,"sequence":580,"title":"scalaspike – TypedColumn.scala [Gradle: org.typelevel:frameless-dataset_2.13:0.15.0]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238317,"hash":3548238317,"sequence":58,"title":"scalaspike – TypedColumn.scala [Gradle: org.typelevel:frameless-dataset_2.13:0.15.0]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238328,"hash":3548238328,"sequence":69,"title":"scalaspike – TypedColumn.scala [Gradle: org.typelevel:frameless-dataset_2.13:0.15.0]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1294018586,"hash":1294018586,"sequence":607,"title":"scalaspike – NestedFieldWithColumn.scala [scalaspike.spark.test]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832429820,"hash":2832429820,"sequence":6,"title":"scalaspike – interfaces.scala [Gradle: org.apache.spark:spark-catalyst_2.13:3.5.0]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":721622432,"hash":721622432,"sequence":4,"title":"scalaspike – NestedFieldWithColumn.scala [scalaspike.spark.test]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":196212514,"hash":196212514,"sequence":10,"title":"scalaspike – .gitignore [scalaspike]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3165710835,"hash":3165710835,"sequence":7,"title":"scalaspike – TypedDatasetDemo.scala [scalaspike.spark.test]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2005721394,"hash":2005721394,"sequence":92,"title":"splain – VTypeDiffsDetailSpec.scala [splain.core.test]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694693,"hash":1864694693,"sequence":138,"title":"scala3 – build.gradle.kts (:lp2lc)","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694768,"hash":1864694768,"sequence":213,"title":"dottyspike – README.md [dottyspike]","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694829,"hash":1864694829,"sequence":274,"title":"dottyspike – README.md [dottyspike]","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694835,"hash":1864694835,"sequence":280,"title":"Welcome to IntelliJ IDEA","workspace":1,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":560,"y":198,"width":800,"height":650,"occupied":false},{"id":1524788466,"hash":1524788466,"sequence":98,"title":"splain – .gitignore [splain]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788484,"hash":1524788484,"sequence":116,"title":"splain – build.gradle.kts (splain)","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788780,"hash":1524788780,"sequence":412,"title":"frameless – ColumnTests.scala [frameless-dataset]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788939,"hash":1524788939,"sequence":571,"title":"root – ColumnTests.scala [frameless-dataset]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788951,"hash":1524788951,"sequence":583,"title":"root – ColumnTests.scala [frameless-dataset]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524789018,"hash":1524789018,"sequence":650,"title":"spookystuff – update-submodules.sh [spookystuff]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952120179,"hash":3952120179,"sequence":451,"title":"spookystuff – DataRow.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2843693169,"hash":2843693169,"sequence":23,"title":"spookystuff – DataRow.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":592779993,"hash":592779993,"sequence":7,"title":"spookystuff – DataRow.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":900527428,"hash":900527428,"sequence":5,"title":"spookystuff – DataRow.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3480036812,"hash":3480036812,"sequence":5,"title":"spookystuff – DataRow.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":1,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3966395314,"hash":3966395314,"sequence":7,"title":"spookystuff – DataRow.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"extension-manager":[{"id":520868589,"hash":520868589,"sequence":568,"title":"extension-manager","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":50,"y":72,"width":800,"height":600,"occupied":false}],"org.gnome.Shell.Extensions":[{"id":520868590,"hash":520868590,"sequence":569,"title":"Smart Auto Move","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":100,"y":122,"width":640,"height":576,"occupied":false}],"biscuit":[{"id":520868588,"hash":520868588,"sequence":567,"title":"ChatGPT","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238323,"hash":3548238323,"sequence":64,"title":"ChatGPT","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238899,"hash":3548238899,"sequence":640,"title":"F5 Dynamic Webtop","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1294017984,"hash":1294017984,"sequence":5,"title":"Messages for web","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832429822,"hash":2832429822,"sequence":8,"title":"(23) Feed | LinkedIn","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832429895,"hash":2832429895,"sequence":81,"title":"Google Accounts","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":710,"y":325,"width":500,"height":587,"occupied":false},{"id":2832429903,"hash":2832429903,"sequence":89,"title":"(22) Feed | LinkedIn","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832430011,"hash":2832430011,"sequence":197,"title":"Home: Starbucks Coffee Company","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832430027,"hash":2832430027,"sequence":213,"title":"All Mail - peng.cheng@acyclic.ai - acyclic.ai Mail","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":196212511,"hash":196212511,"sequence":7,"title":"ChatGPT","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2005721373,"hash":2005721373,"sequence":71,"title":"Create List in Lean","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":4099499672,"hash":4099499672,"sequence":27,"title":"Create List in Lean","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":1,"x":0,"y":1102,"width":1920,"height":1178,"occupied":false},{"id":3834785334,"hash":3834785334,"sequence":4,"title":"BIG-IP logout page","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3325032416,"hash":3325032416,"sequence":47,"title":"Create List in Lean","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788376,"hash":1524788376,"sequence":8,"title":"Create List in Lean","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":120396923,"hash":120396923,"sequence":19,"title":"Bank of America: Sign On","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":815710388,"hash":815710388,"sequence":3,"title":"acyclic.ai - Calendar - Week of November 12, 2023","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952119851,"hash":3952119851,"sequence":123,"title":"Create List in Lean","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3480036966,"hash":3480036966,"sequence":159,"title":"Bank of America: Sign On","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":1,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3966395313,"hash":3966395313,"sequence":6,"title":"F5 Dynamic Webtop","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1313640944,"hash":1313640944,"sequence":6,"title":"F5 Dynamic Webtop","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Vmware-view":[{"id":3480036968,"hash":3480036968,"sequence":161,"title":"VMware Horizon Client","workspace":1,"maximized":0,"fullscreen":false,"above":false,"monitor":1,"x":319,"y":26,"width":640,"height":582,"occupied":false},{"id":3480036969,"hash":3480036969,"sequence":162,"title":"vk1467030","workspace":1,"maximized":0,"fullscreen":true,"above":false,"monitor":1,"x":0,"y":0,"width":1920,"height":1200,"occupied":false}],"jetbrains-idea-ce":[{"id":520868577,"hash":520868577,"sequence":556,"title":"splash","workspace":0,"maximized":0,"fullscreen":false,"above":true,"monitor":0,"x":640,"y":400,"width":640,"height":400,"occupied":false},{"id":520868038,"hash":520868038,"sequence":17,"title":"spookystuff – build.gradle.kts (:parent)","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":520868526,"hash":520868526,"sequence":505,"title":"spookystuff – build.gradle.kts (:parent)","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":520868543,"hash":520868543,"sequence":522,"title":"spookystuff – GenExtractorImplicits.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":520868546,"hash":520868546,"sequence":525,"title":"/home/peng/git/spookystuff","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":100,"y":122,"width":1720,"height":978,"occupied":false},{"id":520868578,"hash":520868578,"sequence":557,"title":"spookystuff – Field.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238263,"hash":3548238263,"sequence":4,"title":"spookystuff – build.gradle.kts (:parent)","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238598,"hash":3548238598,"sequence":339,"title":"spookystuff – build.gradle.kts (:parent)","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238702,"hash":3548238702,"sequence":443,"title":"spookystuff – SpookySchema.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238888,"hash":3548238888,"sequence":629,"title":"spookystuff – MapPlan.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1294017990,"hash":1294017990,"sequence":11,"title":"spookystuff – Expression.scala [Gradle: org.apache.spark:spark-catalyst_2.13:3.5.0]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694773,"hash":1864694773,"sequence":218,"title":"dottyspike – gradle.properties [dottyspike]","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694812,"hash":1864694812,"sequence":257,"title":"dottyspike – Commit: gradle.properties","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694879,"hash":1864694879,"sequence":324,"title":"spookystuff – Expression.scala [Gradle: org.apache.spark:spark-catalyst_2.13:3.5.0]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694893,"hash":1864694893,"sequence":338,"title":"scala3 [~/git-release/__MATH/lp2-lc/scala3] – Rosetta.scala [scala3.lp2lc.main]","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":4099499654,"hash":4099499654,"sequence":9,"title":"scala3 – Rosetta.scala [scala3.lp2lc.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":1,"x":0,"y":1102,"width":1920,"height":1178,"occupied":false},{"id":3834785353,"hash":3834785353,"sequence":23,"title":"scala3 – Rosetta.scala [scala3.lp2lc.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3325032375,"hash":3325032375,"sequence":6,"title":"scala3 – Rosetta.scala [scala3.lp2lc.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788378,"hash":1524788378,"sequence":10,"title":"scala3 – Rosetta.scala [scala3.lp2lc.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788514,"hash":1524788514,"sequence":146,"title":"scala3 – .scalafmt.conf [scala3]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788523,"hash":1524788523,"sequence":155,"title":"Welcome to IntelliJ IDEA","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":560,"y":198,"width":800,"height":650,"occupied":false},{"id":1524788528,"hash":1524788528,"sequence":160,"title":"lp2-lc – .gitignore [lp2-lc]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788691,"hash":1524788691,"sequence":323,"title":"lp2-lc – ~/git-release/__MATH/lp2-lc/.gitignore","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788700,"hash":1524788700,"sequence":332,"title":"lp2-lc – ~/git-release/__MATH/lp2-lc/.gitignore","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788717,"hash":1524788717,"sequence":349,"title":"lp2-lc – .scalafmt.conf [scala3]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788770,"hash":1524788770,"sequence":402,"title":"spookystuff – GenExtractor.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788971,"hash":1524788971,"sequence":603,"title":"spookystuff – SquashedRow.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":120396945,"hash":120396945,"sequence":41,"title":"scala3 – Rosetta.scala [scala3.lp2lc.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":1,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952119868,"hash":3952119868,"sequence":140,"title":"scala3 – .gitignore [scala3.buildSrc]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952119900,"hash":3952119900,"sequence":172,"title":"spookystuff – DataRow.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952120171,"hash":3952120171,"sequence":443,"title":"spookystuff – DataRow.scala [spookystuff.parent.core.main]","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Mendeley Reference Manager":[{"id":520868039,"hash":520868039,"sequence":18,"title":"Mendeley Reference Manager","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Signal":[{"id":520868151,"hash":520868151,"sequence":130,"title":"Signal","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"discord":[{"id":520868075,"hash":520868075,"sequence":54,"title":"@appa609 - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238378,"hash":3548238378,"sequence":119,"title":"Discord Updater","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":810,"y":436,"width":300,"height":350,"occupied":false},{"id":3548238379,"hash":3548238379,"sequence":120,"title":"@appa609 - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238546,"hash":3548238546,"sequence":287,"title":"#doorbell | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1294018207,"hash":1294018207,"sequence":228,"title":"#electronics | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1294018709,"hash":1294018709,"sequence":730,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832430016,"hash":2832430016,"sequence":202,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":196212720,"hash":196212720,"sequence":216,"title":"#off-topic-memes | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2005721372,"hash":2005721372,"sequence":70,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2005721385,"hash":2005721385,"sequence":83,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2005721407,"hash":2005721407,"sequence":105,"title":"#electronics | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2005721485,"hash":2005721485,"sequence":183,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2582971913,"hash":2582971913,"sequence":5,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1171158017,"hash":1171158017,"sequence":38,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694575,"hash":1864694575,"sequence":20,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694678,"hash":1864694678,"sequence":123,"title":"#off-topic-memes | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":4099499780,"hash":4099499780,"sequence":135,"title":"#off-topic-memes | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":1,"x":0,"y":1102,"width":1920,"height":1178,"occupied":false},{"id":3325032395,"hash":3325032395,"sequence":26,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952119864,"hash":3952119864,"sequence":136,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952120200,"hash":3952120200,"sequence":472,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952120202,"hash":3952120202,"sequence":474,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":592780087,"hash":592780087,"sequence":101,"title":"#general | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":900527462,"hash":900527462,"sequence":39,"title":"\\"Vision (Unity)\\" | HPVDT - Discord","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"jetbrains-toolbox":[{"id":520868134,"hash":520868134,"sequence":113,"title":"JetBrains Toolbox","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":1480,"y":22,"width":440,"height":700,"occupied":false}],"Zulip":[{"id":520868148,"hash":520868148,"sequence":127,"title":"Zulip - acyclic.ai","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":196212520,"hash":196212520,"sequence":16,"title":"Zulip - Lean","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"File-roller":[{"id":520868197,"hash":520868197,"sequence":176,"title":"MMA dataset.zip ","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":50,"y":72,"width":600,"height":527,"occupied":false},{"id":2832429923,"hash":2832429923,"sequence":109,"title":"653D Warden #58.zip ","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":100,"y":122,"width":600,"height":527,"occupied":false}],"Gedit":[{"id":520868198,"hash":520868198,"sequence":177,"title":"*lean_train.jsonl (/tmp/.fr-S6S7rg/MMA dataset) - gedit","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":520868416,"hash":520868416,"sequence":395,"title":".gitignore (~/git-release/__MATH/lp2-lc) - gedit","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Code - Insiders":[{"id":520868253,"hash":520868253,"sequence":232,"title":"Basic.lean - lp2-lc - Visual Studio Code - Insiders","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":520868408,"hash":520868408,"sequence":387,"title":"Welcome - Visual Studio Code - Insiders","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":196212643,"hash":196212643,"sequence":139,"title":"ClassicalPropositionalLogic.lean - GlimpseOfLean - Visual Studio Code - Insiders","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2005721329,"hash":2005721329,"sequence":27,"title":"platformio.ini - serial_stream_test - PlatformIO - Visual Studio Code - Insiders","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2005721389,"hash":2005721389,"sequence":87,"title":"S02_Overview.lean - mathematics_in_lean - Visual Studio Code - Insiders","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2005721411,"hash":2005721411,"sequence":109,"title":"Valid.lean - miniF2F-lean4 - Visual Studio Code - Insiders","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694683,"hash":1864694683,"sequence":128,"title":"Lean Infoview - lean4 - Visual Studio Code - Insiders","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Gnome-terminal":[{"id":520868409,"hash":520868409,"sequence":388,"title":"peng@pop-os: ~/git-release/__MATH/lp2-lc","workspace":1,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":584,"y":246,"width":816,"height":529,"occupied":false},{"id":520868532,"hash":520868532,"sequence":511,"title":"peng@pop-os: ~/git/spookystuff","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":504,"y":235,"width":816,"height":529,"occupied":false},{"id":2190537288,"hash":2190537288,"sequence":34,"title":"peng@pop-os: ~","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":50,"y":72,"width":816,"height":529,"occupied":false}],"Org.gnome.Nautilus":[{"id":520868310,"hash":520868310,"sequence":289,"title":"Search for “setting”","workspace":1,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":527,"y":345,"width":1524,"height":842,"occupied":false},{"id":2005721355,"hash":2005721355,"sequence":53,"title":"Home","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":50,"y":72,"width":1524,"height":842,"occupied":false},{"id":1864694699,"hash":1864694699,"sequence":144,"title":"dev","workspace":1,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":50,"y":72,"width":1524,"height":842,"occupied":false}],"Code":[{"id":520868593,"hash":520868593,"sequence":572,"title":"● LP2-LC: • Untitled-2 - Visual Studio Code","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832429880,"hash":2832429880,"sequence":66,"title":"● - flight data telemetry/communication pr • Untitled-1 - Visual Studio Code","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3325032657,"hash":3325032657,"sequence":288,"title":"Issue Reporter","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":610,"y":200,"width":700,"height":837,"occupied":false}],"Joplin":[{"id":520868594,"hash":520868594,"sequence":573,"title":"Joplin","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Geary":[{"id":3548238266,"hash":3548238266,"sequence":7,"title":"Inbox — peng.cheng.tribbloid@outlook.com","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1294018157,"hash":1294018157,"sequence":178,"title":"Inbox — rhwing@gmail.com","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832429849,"hash":2832429849,"sequence":35,"title":"Geary","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":592780076,"hash":592780076,"sequence":90,"title":"Inbox — peng.cheng@acyclic.ai","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Google-chrome":[{"id":3548238310,"hash":3548238310,"sequence":51,"title":"Google Slides: Sign-in - Google Chrome","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832429865,"hash":2832429865,"sequence":51,"title":"Online Status Certificates - Conduit - Google Chrome","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":2832429866,"hash":2832429866,"sequence":52,"title":"Online Status Certificates | Condominium Software Specialists | Status Certificate Software Website - Google Chrome","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":250,"y":100,"width":380,"height":381,"occupied":false},{"id":4217433378,"hash":4217433378,"sequence":15,"title":"Google - Google Chrome","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1171157989,"hash":1171157989,"sequence":10,"title":"YouTube","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":26,"y":42,"width":913,"height":1116,"occupied":false},{"id":1171157996,"hash":1171157996,"sequence":17,"title":"Google Slides - Google Chrome","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1171157997,"hash":1171157997,"sequence":18,"title":"Security - Google Chrome","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1524788791,"hash":1524788791,"sequence":423,"title":"YouTube Music","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":26,"y":42,"width":913,"height":1116,"occupied":false},{"id":1524788972,"hash":1524788972,"sequence":604,"title":"YouTube Music - Symphony X - V The New Mythology Suite (full album HQ 320 kbit/s) - YouTube Music","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":26,"y":42,"width":913,"height":1116,"occupied":false},{"id":120396950,"hash":120396950,"sequence":46,"title":"战锤全面战争吧_百度贴吧 - Google Chrome","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":1,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952119737,"hash":3952119737,"sequence":9,"title":"YouTube Music - The Scarecrow - YouTube Music","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":26,"y":42,"width":913,"height":1116,"occupied":false}],"steam":[{"id":3548238321,"hash":3548238321,"sequence":62,"title":"Steam","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3548238322,"hash":3548238322,"sequence":63,"title":"Special Offers","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":607,"y":196,"width":706,"height":830,"occupied":false},{"id":3480036979,"hash":3480036979,"sequence":172,"title":"Shutdown","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":1,"x":660,"y":491,"width":600,"height":240,"occupied":false}],"Gnome-control-center":[{"id":3548238796,"hash":3548238796,"sequence":537,"title":"Settings","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":470,"y":264,"width":980,"height":687,"occupied":false}],"steam_app_594570":[{"id":3548238844,"hash":3548238844,"sequence":585,"title":"Total War Launcher","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":360,"y":215,"width":1200,"height":770,"occupied":false}],"Authy Desktop":[{"id":3548238883,"hash":3548238883,"sequence":624,"title":"Twilio Authy","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":760,"y":271,"width":400,"height":717,"occupied":false}],"Evince":[{"id":2832430013,"hash":2832430013,"sequence":199,"title":"Fire Safey Plan.pdf","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":721622442,"hash":721622442,"sequence":14,"title":"cheatsheet-unsupervised-learning.pdf","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":721622445,"hash":721622445,"sequence":17,"title":"Proving In Lean.pdf","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":1864694676,"hash":1864694676,"sequence":121,"title":"signal-2023-11-07-161930.pdf — Double GLMs","workspace":1,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Blueman-manager":[{"id":196212725,"hash":196212725,"sequence":221,"title":"Bluetooth Devices","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":553,"y":499,"width":937,"height":582,"occupied":false}],"jetbrains-fleet":[{"id":196212781,"hash":196212781,"sequence":277,"title":"Plugins — Untitled workspace","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":320,"y":200,"width":1280,"height":800,"occupied":false}],"Onshape":[{"id":196212788,"hash":196212788,"sequence":284,"title":"Onshape","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":560,"y":311,"width":800,"height":637,"occupied":false}],"Org.gnome.Software":[{"id":196212793,"hash":196212793,"sequence":289,"title":"Software","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":50,"y":72,"width":1200,"height":800,"occupied":false}],"Seahorse":[{"id":4217433368,"hash":4217433368,"sequence":5,"title":"seahorse","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Io.elementary.appcenter":[{"id":486038862,"hash":486038862,"sequence":9,"title":"Pop!_Shop","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":50,"y":72,"width":1048,"height":608,"occupied":false}],"jetbrains-pycharm-ce":[{"id":2190537269,"hash":2190537269,"sequence":15,"title":"ubuntu-quick-setup – maintenance.sh","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false},{"id":3952119770,"hash":3952119770,"sequence":42,"title":"ubuntu-quick-setup – apt.csv","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"Org.gnome.Characters":[{"id":3165710838,"hash":3165710838,"sequence":10,"title":"Characters","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":50,"y":72,"width":800,"height":608,"occupied":false}],"GitKraken":[{"id":2005721497,"hash":2005721497,"sequence":195,"title":"GitKraken","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":860,"y":362,"width":200,"height":475,"occupied":false}],"MenuLibre":[{"id":1864694657,"hash":1864694657,"sequence":102,"title":"MenuLibre","workspace":0,"maximized":3,"fullscreen":false,"above":false,"monitor":0,"x":0,"y":22,"width":1920,"height":1178,"occupied":false}],"xdg-desktop-portal-gnome":[{"id":1864694675,"hash":1864694675,"sequence":120,"title":"","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":50,"y":72,"width":1097,"height":821,"occupied":false}],"Pavucontrol":[{"id":1524788792,"hash":1524788792,"sequence":424,"title":"Volume Control","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":0,"x":50,"y":72,"width":956,"height":659,"occupied":false}],"steam_app_244160":[{"id":3480036911,"hash":3480036911,"sequence":104,"title":"Homeworld:Remastered launcher","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":1,"x":336,"y":281,"width":1280,"height":599,"occupied":false},{"id":3480036912,"hash":3480036912,"sequence":105,"title":"","workspace":0,"maximized":0,"fullscreen":false,"above":false,"monitor":1,"x":192,"y":168,"width":1536,"height":864,"occupied":false}]}'
-startup-delay=2500
-sync-frequency=100
-sync-mode='IGNORE'
+[system-monitor-next-applet]
+background='#ffffff16'
+battery-batt0-color='#f2002e'
+battery-display=false
+battery-graph-width=100
+battery-hidesystem=false
+battery-position=9
+battery-refresh-time=5000
+battery-show-menu=true
+battery-show-text=false
+battery-style='graph'
+battery-time=false
+center-display=true
+compact-display=true
+cpu-display=true
+cpu-graph-width=100
+cpu-individual-cores=false
+cpu-iowait-color='#002f3d'
+cpu-nice-color='#00a3ff'
+cpu-other-color='#001d26'
+cpu-position=0
+cpu-refresh-time=1500
+cpu-show-menu=true
+cpu-show-text=false
+cpu-style='graph'
+cpu-system-color='#0092e6'
+cpu-user-color='#0072b3'
+disk-display=true
+disk-graph-width=100
+disk-position=5
+disk-read-color='#c65000'
+disk-refresh-time=2000
+disk-show-menu=true
+disk-show-text=false
+disk-style='graph'
+disk-usage-style='pie'
+disk-write-color='#ff6700'
+fan-display=true
+fan-fan0-color='#f2002e'
+fan-graph-width=100
+fan-position=8
+fan-refresh-time=5000
+fan-sensor-label='dell_smm - 1'
+fan-show-menu=true
+fan-show-text=false
+fan-style='digit'
+freq-display=true
+freq-display-mode='average'
+freq-freq-color='#001d26'
+freq-graph-width=100
+freq-position=1
+freq-refresh-time=1500
+freq-show-menu=true
+freq-show-text=false
+freq-style='digit'
+gpu-display=true
+gpu-graph-width=100
+gpu-memory-color='#00ff82'
+gpu-position=6
+gpu-refresh-time=5000
+gpu-show-menu=true
+gpu-show-text=false
+gpu-style='graph'
+gpu-used-color='#00b35b'
+icon-display=false
+left-display=false
+memory-buffer-color='#00ff82'
+memory-cache-color='#aaf5d0'
+memory-display=true
+memory-graph-width=100
+memory-position=2
+memory-program-color='#00b35b'
+memory-refresh-time=5000
+memory-show-menu=true
+memory-show-text=false
+memory-style='graph'
+move-clock=true
+net-collisions-color='#ff0000'
+net-display=true
+net-down-color='#fce94f'
+net-downerrors-color='#ff6e00'
+net-graph-width=100
+net-position=4
+net-refresh-time=1000
+net-show-menu=true
+net-show-text=false
+net-speed-in-bits=false
+net-style='digit'
+net-up-color='#fb74fb'
+net-uperrors-color='#e0006e'
+rotate-labels=false
+settings-schema-version=1
+show-tooltip=true
+swap-display=false
+swap-graph-width=100
+swap-position=3
+swap-refresh-time=5000
+swap-show-menu=true
+swap-show-text=true
+swap-style='graph'
+swap-used-color='#8b00c3'
+thermal-display=true
+thermal-fahrenheit-unit=false
+thermal-graph-width=100
+thermal-position=7
+thermal-refresh-time=5000
+thermal-sensor-label='dell_ddv - CPU'
+thermal-show-menu=true
+thermal-show-text=false
+thermal-style='graph'
+thermal-threshold=0
+thermal-tz0-color='#f2002e'
+tooltip-delay-ms=300
 
 [system-monitor]
-battery-display=true
-battery-graph-width=100
+battery-display=false
 battery-refresh-time=50000
 battery-show-menu=true
 battery-show-text=false
 battery-style='graph'
 center-display=true
 compact-display=true
-cpu-graph-width=100
 cpu-show-text=false
 disk-display=true
-disk-graph-width=100
 disk-show-text=false
-fan-display=false
-fan-graph-width=100
+fan-display=true
+fan-sensor-file='/sys/class/hwmon/hwmon6/fan1_input'
 fan-show-text=false
+fan-style='digit'
 freq-display=true
-freq-graph-width=100
 freq-show-menu=true
 freq-style='digit'
-gpu-display=true
-gpu-graph-width=100
+gpu-display=false
 gpu-show-menu=true
 gpu-show-text=false
 icon-display=false
-memory-graph-width=100
 memory-show-text=false
-net-graph-width=100
+move-clock=true
 net-show-text=false
-net-speed-in-bits=false
 net-style='digit'
 show-tooltip=true
-swap-display=false
-swap-graph-width=100
 swap-show-text=false
 thermal-display=true
-thermal-graph-width=100
-thermal-sensor-file='/sys/class/hwmon/hwmon1/temp1_input'
+thermal-sensor-file='/sys/class/hwmon/hwmon6/temp1_input'
 thermal-show-text=false
-tooltip-delay-ms=1
+tooltip-delay-ms=1000
 
-[user-theme]
-name=''
+[tiling-assistant]
+activate-layout0=@as []
+activate-layout1=@as []
+activate-layout2=@as []
+activate-layout3=@as []
+active-window-hint=1
+active-window-hint-color='rgb(53,132,228)'
+auto-tile=@as []
+center-window=@as []
+debugging-free-rects=@as []
+debugging-show-tiled-rects=@as []
+default-move-mode=0
+dynamic-keybinding-behavior=0
+import-layout-examples=false
+last-version-installed=46
+overridden-settings={'org.gnome.mutter.edge-tiling': <@mb nothing>, 'org.gnome.desktop.wm.keybindings.maximize': <@mb nothing>, 'org.gnome.desktop.wm.keybindings.unmaximize': <@mb nothing>, 'org.gnome.mutter.keybindings.toggle-tiled-left': <@mb nothing>, 'org.gnome.mutter.keybindings.toggle-tiled-right': <@mb nothing>}
+restore-window=['<Super>Down']
+search-popup-layout=@as []
+single-screen-gap=0
+tile-bottom-half=['<Super>KP_2']
+tile-bottom-half-ignore-ta=@as []
+tile-bottomleft-quarter=['<Super>KP_1']
+tile-bottomleft-quarter-ignore-ta=@as []
+tile-bottomright-quarter=['<Super>KP_3']
+tile-bottomright-quarter-ignore-ta=@as []
+tile-edit-mode=@as []
+tile-left-half=['<Super>Left', '<Super>KP_4']
+tile-left-half-ignore-ta=@as []
+tile-maximize=['<Super>Up', '<Super>KP_5']
+tile-maximize-horizontally=@as []
+tile-maximize-vertically=@as []
+tile-right-half=['<Super>Right', '<Super>KP_6']
+tile-right-half-ignore-ta=@as []
+tile-top-half=['<Super>KP_8']
+tile-top-half-ignore-ta=@as []
+tile-topleft-quarter=['<Super>KP_7']
+tile-topleft-quarter-ignore-ta=@as []
+tile-topright-quarter=['<Super>KP_9']
+tile-topright-quarter-ignore-ta=@as []
+tiling-popup-all-workspace=true
+toggle-always-on-top=@as []
+toggle-tiling-popup=@as []
+window-gap=2
+
+[touchpad-gesture-customization]
+allow-minimize-window=true
+horizontal-swipe-3-fingers-gesture='NONE'
+overview-navigation-states='CYCLIC'
+pinch-3-finger-gesture='SHOW_DESKTOP'
+pinch-4-finger-gesture='SHOW_DESKTOP'
+vertical-swipe-3-fingers-gesture='WINDOW_MANIPULATION'
+vertical-swipe-4-fingers-gesture='OVERVIEW_NAVIGATION'
+
+[unite]
+app-menu-ellipsize-mode='middle'
+autofocus-windows=false
+enable-titlebar-actions=true
+extend-left-box=true
+greyscale-tray-icons=false
+hide-activities-button='never'
+hide-app-menu-icon=false
+icon-scale-workaround=true
+notifications-position='center'
+reduce-panel-spacing=true
+show-appmenu-button=true
+show-legacy-tray=false
+use-activities-text=false
+window-buttons-placement='auto'
+window-buttons-theme='pop'
+
+[windowgestures]
+three-finger=true
+
+[x11gestures]
+swipe-fingers=4
