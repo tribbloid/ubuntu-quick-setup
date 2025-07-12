@@ -10,7 +10,7 @@ Git Cola	com.github.git_cola.git-cola	4.13.0	stable	system
 MarkText	com.github.marktext.marktext	0.17.1	stable	system
 Flatseal	com.github.tchx84.Flatseal	2.3.1	stable	system
 MellowPlayer	com.gitlab.ColinDuquesnoy.MellowPlayer	3.6.8.1	stable	system
-Google Chrome	com.google.Chrome	138.0.7204.92-1	stable	system
+Google Chrome	com.google.Chrome	138.0.7204.100-1	stable	system
 draw.io	com.jgraph.drawio.desktop	26.1.1	stable	system
 Microsoft Edge	com.microsoft.Edge	138.0.3351.83-1	stable	system
 0 A.D.	com.play0ad.zeroad	0.27.0	stable	system
@@ -46,10 +46,11 @@ Meld	org.gnome.meld	3.22.3	stable	system
 KiCad	org.kicad.KiCad	9.0.3	stable	system
 ksnip	org.ksnip.ksnip	1.10.1	stable	system
 QGroundControl	org.mavlink.qgroundcontrol	v4.4.4	stable	system
-ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	9.0.0	stable	system
+ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	9.0.3	stable	system
 OpenShot Video Editor	org.openshot.OpenShot	3.3.0	stable	system
 Shotcut	org.shotcut.Shotcut	25.05.11	stable	system
 Signal Desktop	org.signal.Signal	7.61.0	stable	system
+Strawberry Music Player	org.strawberrymusicplayer.strawberry	1.2.11	stable	system
 Tor Browser Launcher	org.torproject.torbrowser-launcher	0.3.7	stable	system
 VLC	org.videolan.VLC	3.0.21	stable	system
 Zotero	org.zotero.Zotero	7.0.20	stable	system

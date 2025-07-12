@@ -2,7 +2,7 @@ Name                Version               Rev    Tracking       Publisher    Not
 bare                1.0                   5      latest/stable  canonical**  base
 core                16-2.61.4-20250508    17212  latest/stable  canonical**  core
 core18              20250523              2887   latest/stable  canonical**  base
-core22              20250528              2010   latest/stable  canonical**  base
+core22              20250612              2045   latest/stable  canonical**  base
 core24              20250526              1006   latest/stable  canonical**  base
 gh                  2.74.0-19-gea8fc856e  640    latest/stable  casper-dcl   -
 gnome-42-2204       0+git.38ea591         202    latest/stable  canonical**  -

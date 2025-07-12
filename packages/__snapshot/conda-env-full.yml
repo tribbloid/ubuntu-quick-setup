@@ -166,7 +166,7 @@ dependencies:
   - libpng=1.6.50=h943b412_0
   - libseccomp=2.4.4=hd590300_4
   - libsodium=1.0.20=h4ab18f5_0
-  - libsolv=0.7.33=h7955e40_0
+  - libsolv=0.7.33=h9463b59_1
   - libsqlite=3.50.2=hee844dc_2
   - libssh2=1.11.1=hf672d98_0
   - libstdcxx=15.1.0=h8f9b012_3
