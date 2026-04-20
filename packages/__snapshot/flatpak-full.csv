@@ -1,60 +1,62 @@
-Damask	app.drey.Damask	0.2.2	stable	system
-Startup Configuration	best.ellie.StartupConfiguration	1.0.0	stable	system
-Dconf Editor	ca.desrt.dconf-editor	45.0.1	stable	system
-GitKraken	com.axosoft.GitKraken	11.2.1	stable	system
-Bambu Studio	com.bambulab.BambuStudio	2.1.1 Public Release	stable	system
-Brave	com.brave.Browser	1.80.120	stable	system
-Dropbox	com.dropbox.Client	228.4.5567	stable	system
-TLP-UI	com.github.d4nj1.tlpui	1.8.0	stable	system
-Git Cola	com.github.git_cola.git-cola	4.13.0	stable	system
+Damask	app.drey.Damask	0.3.2	stable	system
+Startup Configuration	best.ellie.StartupConfiguration	1.0.3	stable	system
+Dconf Editor	ca.desrt.dconf-editor	49.0	stable	system
+Bambu Studio	com.bambulab.BambuStudio	2.6.0 Public Release	stable	system
+Brave	com.brave.Browser	1.89.137	stable	system
+Discord	com.discordapp.Discord	0.0.133	stable	system
+Dropbox	com.dropbox.Client	246.4.3513	stable	system
+TLP-UI	com.github.d4nj1.tlpui	1.9.0	stable	system
+Git Cola	com.github.git_cola.git-cola	4.18.2	stable	system
+Touché	com.github.joseexposito.touche	2.0.15	stable	system
 MarkText	com.github.marktext.marktext	0.17.1	stable	system
-Flatseal	com.github.tchx84.Flatseal	2.3.1	stable	system
+Flatseal	com.github.tchx84.Flatseal	2.4.0	stable	system
 MellowPlayer	com.gitlab.ColinDuquesnoy.MellowPlayer	3.6.8.1	stable	system
-Google Chrome	com.google.Chrome	138.0.7204.100-1	stable	system
-draw.io	com.jgraph.drawio.desktop	26.1.1	stable	system
-Microsoft Edge	com.microsoft.Edge	138.0.3351.83-1	stable	system
-0 A.D.	com.play0ad.zeroad	0.27.0	stable	system
-Spotify	com.spotify.Client	1.2.63.394.g126b0d89	stable	system
-WeChat	com.tencent.WeChat	4.0.1.11	stable	system
-Steam	com.valvesoftware.Steam	1.0.0.83	stable	system
-Tweaks	dev.edfloreshz.CosmicTweaks	0.1.3	stable	system
-Beyond All Reason	info.beyondallreason.bar	1.2988.0.1	stable	system
-ytDownloader	io.github.aandrew_me.ytdn	3.19.1	stable	system
-Examine	io.github.cosmic_utils.Examine	1.0.0	stable	system
-Syncthing Tray	io.github.martchus.syncthingtray	1.7.10-1.0f5bdea	stable	system
-AppImage Pool	io.github.prateekmedia.appimagepool	5.1.0	stable	system
+Microsoft Edge	com.microsoft.Edge	147.0.3912.72-1	stable	system
+0 A.D.	com.play0ad.zeroad	0.28.0	stable	system
+Spotify	com.spotify.Client	1.2.84.475.ga1a748ff	stable	system
+WeChat	com.tencent.WeChat	4.1.1.4	stable	system
+Steam	com.valvesoftware.Steam	1.0.0.85	stable	system
+Tweaks	dev.edfloreshz.CosmicTweaks	0.2.1	stable	system
+Zed	dev.zed.Zed	v0.232.2	stable	system
+Beyond All Reason	info.beyondallreason.bar	1.2988.0.3	stable	system
+DBeaver Community	io.dbeaver.DBeaverCommunity	26.0.2	stable	system
+ytDownloader	io.github.aandrew_me.ytdn	3.20.2	stable	system
+Examine	io.github.cosmic_utils.Examine	2.0.0	stable	system
+Syncthing Tray	io.github.martchus.syncthingtray	2.0.10-1.b92e855	stable	system
 GitHub Desktop	io.github.shiftey.Desktop	3.4.13-linux1	stable	system
 Fingerpaint	io.github.wazzaps.Fingerpaint	1.4.3	stable	system
-Lychee Slicer	io.mango3d.LycheeSlicer	7.3.2	stable	system
-Podman Desktop	io.podman_desktop.PodmanDesktop	1.19.1	stable	system
-Gear Lever	it.mijorus.gearlever	3.3.4	stable	system
-Obsidian	md.obsidian.Obsidian	1.8.10	stable	system
-Lutris	net.lutris.Lutris	0.5.18	stable	system
-Resources	net.nokyan.Resources	1.8.0	stable	system
-Blender	org.blender.Blender	4.4.3	stable	system
-GNU Image Manipulation Program	org.gimp.GIMP	3.0.4	stable	system
-Builder	org.gnome.Builder	48.2	stable	system
-Calendar	org.gnome.Calendar	48.1	stable	system
-Characters	org.gnome.Characters	48.0	stable	system
-Contacts	org.gnome.Contacts	48.0	stable	system
-Web	org.gnome.Epiphany	48.5	stable	system
-Document Viewer	org.gnome.Evince	48.0	stable	system
-GNOME Network Displays	org.gnome.NetworkDisplays	0.97.0	stable	system
+Lychee Slicer	io.mango3d.LycheeSlicer	7.6.1	stable	system
+Podman Desktop	io.podman_desktop.PodmanDesktop	1.26.2	stable	system
+Gear Lever	it.mijorus.gearlever	4.5.3	stable	system
+Obsidian	md.obsidian.Obsidian	1.12.7	stable	system
+Lutris	net.lutris.Lutris	0.5.22	stable	system
+Resources	net.nokyan.Resources	1.10.2	stable	system
+Blender	org.blender.Blender	5.0	stable	system
+Fedora Media Writer	org.fedoraproject.MediaWriter	5.3.1	stable	system
+GNU Image Manipulation Program	org.gimp.GIMP	3.2.4	stable	system
+Builder	org.gnome.Builder	50.0	stable	system
+Calendar	org.gnome.Calendar	50.0	stable	system
+Characters	org.gnome.Characters	50.0	stable	system
+Contacts	org.gnome.Contacts	50.0	stable	system
+Web	org.gnome.Epiphany	50.3	stable	system
+Document Viewer	org.gnome.Evince	48.1	stable	system
+Geary	org.gnome.Geary	46.0	stable	system
+GNOME Network Displays	org.gnome.NetworkDisplays	0.99.0	stable	system
 Endeavour	org.gnome.Todo	43.0	stable	system
-Weather	org.gnome.Weather	48.0	stable	system
+Weather	org.gnome.Weather	50.0	stable	system
 Meld	org.gnome.meld	3.22.3	stable	system
-KiCad	org.kicad.KiCad	9.0.3	stable	system
+Inkscape	org.inkscape.Inkscape	1.4.3	stable	system
+Konsole	org.kde.konsole	26.04.0	stable	system
 ksnip	org.ksnip.ksnip	1.10.1	stable	system
 QGroundControl	org.mavlink.qgroundcontrol	v4.4.4	stable	system
-ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	9.0.3	stable	system
+Thunderbird	org.mozilla.Thunderbird	140.9.1esr	stable	system
+ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	9.3.1	stable	system
 OpenShot Video Editor	org.openshot.OpenShot	3.3.0	stable	system
-Shotcut	org.shotcut.Shotcut	25.05.11	stable	system
-Signal Desktop	org.signal.Signal	7.61.0	stable	system
-Strawberry Music Player	org.strawberrymusicplayer.strawberry	1.2.11	stable	system
-Tor Browser Launcher	org.torproject.torbrowser-launcher	0.3.7	stable	system
-VLC	org.videolan.VLC	3.0.21	stable	system
-Zotero	org.zotero.Zotero	7.0.20	stable	system
-Zulip	org.zulip.Zulip	5.12.0	stable	system
-Main Menu	page.codeberg.libre_menu_editor.LibreMenuEditor	1.9.3	stable	system
-Refine	page.tesk.Refine	0.5.10	stable	system
-Zoom	us.zoom.Zoom	6.5.3.2773	stable	system
+Shotcut	org.shotcut.Shotcut	26.2.26	stable	system
+Signal Desktop	org.signal.Signal	8.7.0	stable	system
+Strawberry Music Player	org.strawberrymusicplayer.strawberry	1.2.19	stable	system
+Tor Browser Launcher	org.torproject.torbrowser-launcher	0.3.9	stable	system
+Zotero	org.zotero.Zotero	9.0	stable	system
+Main Menu	page.codeberg.libre_menu_editor.LibreMenuEditor	1.10.2	stable	system
+Refine	page.tesk.Refine	0.7.1	stable	system
+Zoom	us.zoom.Zoom	7.0.0.1666	stable	system
