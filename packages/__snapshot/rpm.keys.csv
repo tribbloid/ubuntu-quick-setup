@@ -1,0 +1,10 @@
+gpg-pubkey-0913165c78d5b7a41b42ac657ff7ab39d60f803f-65c9382c Warp Linux Maintainers (Package Signing Authority) <linux-maintainers@warp.dev> public key
+gpg-pubkey-105ef944-65ca83d1 Fedora (42) <fedora-42-primary@fedoraproject.org> public key
+gpg-pubkey-129994480ec63d2789bc98e490dfed2f73cd9b30-6924e803 Kitmaker (Fedora 44) <kitmaker@nvidia.com> public key
+gpg-pubkey-36f612dcf27f7d1a48a835e4dbfcf71c6d9f90a6-6786af3b Fedora (44) <fedora-44-primary@fedoraproject.org> public key
+gpg-pubkey-3bfa0e4ae8b8cc16a2d9ba684a3b4a566c4660e4-6a72a455 Codex Linux Repository public key
+gpg-pubkey-4f50a6114cd5c6976a7f1179655a4b02f577861e-6888bc98 Fedora (45) <fedora-45-primary@fedoraproject.org> public key
+gpg-pubkey-79bdb88f9bbf73910fd4095b6a2af96194843c65-5dadbc64 RPM Fusion nonfree repository for Fedora (2020) <rpmfusion-buildsys@lists.rpmfusion.org> public key
+gpg-pubkey-bc528686b50d79e339d3721ceb3e94adbe1229cf-5631588c Microsoft (Release signing) <gpgsecurity@microsoft.com> public key
+gpg-pubkey-c6e7f081cf80e13146676e88829b606631645531-66b6dccf Fedora (43) <fedora-43-primary@fedoraproject.org> public key
+gpg-pubkey-e83a23bc57fe6953e4b5f4657a48ca4d7e7b6601-6a9e93ad X3M Antigravity Packagers <packaging@x3m.industries> public key

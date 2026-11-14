@@ -1,0 +1,16 @@
+repo id                                        repo name
+adoptium-temurin-java-repository               Adoptium
+antigravity                                    Antigravity Packages Repository
+code                                           Visual Studio Code
+copr:copr.fedorainfracloud.org:phracek:PyCharm Copr repo for PyCharm owned by phracek
+cuda-fedora44-x86_64                           cuda-fedora44-x86_64
+fedora                                         Fedora 44 - x86_64
+fedora-cisco-openh264                          Fedora 44 openh264 (From Cisco) - x86_64
+google-chrome                                  google-chrome
+openai-chatgpt                                 ChatGPT
+rpmfusion-nonfree                              RPM Fusion for Fedora 44 - Nonfree
+rpmfusion-nonfree-nvidia-driver                RPM Fusion for Fedora 44 - Nonfree - NVIDIA Driver
+rpmfusion-nonfree-steam                        RPM Fusion for Fedora 44 - Nonfree - Steam
+rpmfusion-nonfree-updates                      RPM Fusion for Fedora 44 - Nonfree - Updates
+updates                                        Fedora 44 - x86_64 - Updates
+warpdotdev                                     warpdotdev
