@@ -11,11 +11,11 @@ com.github.joseexposito.touche
 com.github.marktext.marktext
 com.github.tchx84.Flatseal
 com.gitlab.ColinDuquesnoy.MellowPlayer
+com.google.Chrome
+com.mattjakeman.ExtensionManager
 com.microsoft.Edge
 com.play0ad.zeroad
 com.spotify.Client
-com.tencent.WeChat
-com.valvesoftware.Steam
 dev.edfloreshz.CosmicTweaks
 dev.zed.Zed
 info.beyondallreason.bar
@@ -24,13 +24,11 @@ io.github.aandrew_me.ytdn
 io.github.cosmic_utils.Examine
 io.github.martchus.syncthingtray
 io.github.shiftey.Desktop
-io.github.wazzaps.Fingerpaint
 io.mango3d.LycheeSlicer
 io.podman_desktop.PodmanDesktop
 it.mijorus.gearlever
 md.obsidian.Obsidian
 net.lutris.Lutris
-net.nokyan.Resources
 org.blender.Blender
 org.fedoraproject.MediaWriter
 org.gimp.GIMP
@@ -49,7 +47,7 @@ org.inkscape.Inkscape
 org.kde.konsole
 org.ksnip.ksnip
 org.mavlink.qgroundcontrol
-org.mozilla.Thunderbird
+org.mozilla.thunderbird_esr
 org.onlyoffice.desktopeditors
 org.openshot.OpenShot
 org.shotcut.Shotcut
@@ -58,5 +56,4 @@ org.strawberrymusicplayer.strawberry
 org.torproject.torbrowser-launcher
 org.zotero.Zotero
 page.codeberg.libre_menu_editor.LibreMenuEditor
-page.tesk.Refine
 us.zoom.Zoom

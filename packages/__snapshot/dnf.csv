@@ -99,6 +99,7 @@ coreutils
 cpio
 crontabs
 cryptsetup
+cuda-toolkit
 cups
 cups-browsed
 cups-filters
