@@ -6,7 +6,7 @@ echo "#   apt-key   #"
 echo "###############"
 echo ""
 
-diff <(apt-key list | grep uid) <(cat latest.keys.list)
+diff <(apt-key list | grep uid) <(cat latest.keys.csv)
 
 echo ""
 echo "###############"

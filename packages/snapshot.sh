@@ -5,8 +5,7 @@ mkdir -p __snapshot
 
 DATE=$(date --iso-8601=second)
 
-#apt-key exportall > __snapshot/latest.keys
-apt-key list | grep "uid" > __snapshot/latest.keys.list
+apt-key list | grep "uid" > __snapshot/latest.keys.csv
 
 #apt clone
 apt-clone clone __snapshot/latest > log/apt-report_$DATE.log
